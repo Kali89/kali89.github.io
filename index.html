@@ -7,7 +7,8 @@ body_class: home
 <section class="hero">
   <div class="hero-content">
     <h1>Matt Sharpe</h1>
-    <p>Data scientist and researcher exploring how digital environments shape human behaviour.</p>
+    <p>Data science, psychology, machine learning, parenting, politics and
+    anything else</p>
   </div>
   <div class="hero-image">
     <img src="{{ '/assets/images/me_boat.png' | relative_url }}" alt="Matt
@@ -27,7 +28,7 @@ body_class: home
     </time>
   </p>
   <div class="featured-post-excerpt">
-    {{ latest_post.excerpt | strip_html | truncate: 300 }}
+    {{ latest_post.excerpt | strip_html | truncate: 800 }}
   </div>
   <a href="{{ latest_post.url | relative_url }}" class="featured-post-link">Read more →</a>
 </article>
