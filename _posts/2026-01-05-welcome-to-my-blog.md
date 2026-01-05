@@ -8,7 +8,7 @@ tags: [meta, welcome]
 Hello! 
 
 Every year I feel a calling to do *something* in much the same way
-everybody does. But what exactly is *something*? Well, a few times over the
+everybody does. But what exactly is *something*?!<!--more--> Well, a few times over the
 last few weeks I've thought it probably makes sense to start a blog and
 finally, my reasons for not having a blog have become outweighed by my reasons
 for having one. Let's take a quick whirlwind tour over why I think I should
