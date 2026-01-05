@@ -27,9 +27,24 @@ have a blog...
 probably lots you can do, but this is what I'm doing.
 5. I have children. It'd be nice to be able to show them *something* at some
    point about what I thought about.
+6. I like writing. There's something fun about sticking thoughts down, and
+   something even funner about being able to do it in a style and fashion that
+   I choose.
 
-OK, so that's at least some of the thoughts. 
+OK, so that's at least some of the reasons why I think it'd be neat to have a
+blog.
 
-I'm hoping to make this quick a lightweight. I don't need to stake my professional reputation on every post. I
+I'm hoping to make this quick and lightweight. I don't need to stake my professional reputation on every post. I
 don't need to make everything a big deal. Sometimes I'll just share a photo or
 a quick thought. Sometimes I'll write an essay. Whatever.
+
+## Morning Stroll
+
+Let me finish up with a picture of my morning - right now my baby only naps
+while being wheeled around the village I live in, and so I'm catching an awful
+lot of very pretty sunrises. This was this mornings:
+
+![A pram in front of a sunrise in a lightly snow-dusted
+village](/assets/images/pram_village.png)
+
+May all your mornings be as wonderful as this.
