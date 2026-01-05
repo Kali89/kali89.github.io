@@ -8,7 +8,7 @@ I'm a staff-level data scientist based in rural North Yorkshire in the United Ki
 
 I'm also pursuing a part-time DPhil in Social Data Science at Oxford, researching how digital environments shape human behaviour through habit formation. 
 
-On top of that, I'm married and have ~~~~2 3 small children. 
+On top of that, I'm married and have ~2~ 3 small children. 
 
 All of that generally means I'm pretty busy.
 
