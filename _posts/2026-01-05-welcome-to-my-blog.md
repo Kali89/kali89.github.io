@@ -45,6 +45,6 @@ while being wheeled around the village I live in, and so I'm catching an awful
 lot of very pretty sunrises. This was this mornings:
 
 ![A pram in front of a sunrise in a lightly snow-dusted
-village](/assets/images/pram_village.png)
+village](/assets/images/pram_village.jpg)
 
 May all your mornings be as wonderful as this.
