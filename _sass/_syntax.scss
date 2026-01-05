@@ -1,0 +1,19 @@
+// Rouge syntax highlighting (GitHub-ish style)
+.highlight {
+  margin: $spacing 0;
+  border-radius: 6px;
+  
+  pre {
+    margin: 0;
+  }
+  
+  .c, .cm, .c1, .cs { color: #6a737d; font-style: italic; } // Comments
+  .k, .kd, .kn, .kp, .kr, .kt { color: #d73a49; } // Keywords
+  .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx, .sr { color: #032f62; } // Strings
+  .m, .mf, .mh, .mi, .mo, .il { color: #005cc5; } // Numbers
+  .na, .nb, .nc, .no, .nd, .ni, .ne, .nf, .nl, .nn, .nt, .nv { color: #6f42c1; } // Names
+  .o, .ow { color: #d73a49; } // Operators
+  .p { color: $color-text; } // Punctuation
+  .gd { color: #b31d28; background-color: #ffeef0; } // Diff deleted
+  .gi { color: #22863a; background-color: #f0fff4; } // Diff inserted
+}

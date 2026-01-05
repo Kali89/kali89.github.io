@@ -1,0 +1,44 @@
+# Site settings
+title: "Your Blog Title"
+description: "A blog about data science, research, and life."
+author: "Matt"
+email: your-email@example.com
+url: "" # Will be https://yourusername.github.io when deployed
+baseurl: "" # Leave empty for user/org sites, or "/repo-name" for project sites
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections (optional, for organising content)
+collections:
+  drafts:
+    output: false
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Matt"

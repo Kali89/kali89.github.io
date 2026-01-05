@@ -1,0 +1,38 @@
+---
+layout: default
+title: Home
+---
+
+<section class="home-intro">
+  <h1>Hello, I'm Matt</h1>
+  <p>
+    Data scientist by day, DPhil researcher by night. I write about data science, 
+    machine learning, and occasionally other things that catch my interest.
+  </p>
+</section>
+
+<section class="recent-posts">
+  <h2 class="section-heading">Recent Posts</h2>
+  
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li class="post-list-item">
+        <h3 class="post-list-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <p class="post-list-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%d %B %Y" }}
+          </time>
+        </p>
+        {% if post.excerpt %}
+          <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  
+  {% if site.posts.size > 5 %}
+    <p><a href="{{ '/blog/' | relative_url }}">View all posts &rarr;</a></p>
+  {% endif %}
+</section>

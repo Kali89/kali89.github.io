@@ -1,0 +1,118 @@
+// Post list (homepage and blog index)
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list-item {
+  margin-bottom: $spacing-lg;
+  padding-bottom: $spacing-lg;
+  border-bottom: 1px solid $color-border;
+  
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.post-list-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  
+  a {
+    color: $color-text;
+    
+    &:hover {
+      color: $color-accent;
+    }
+  }
+}
+
+.post-list-meta {
+  color: $color-text-light;
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-list-excerpt {
+  color: $color-text-light;
+  margin: 0;
+}
+
+// Single post
+.post-header {
+  margin-bottom: $spacing-lg;
+}
+
+.post-title {
+  margin: 0 0 0.5rem;
+  font-size: 2.25rem;
+}
+
+.post-meta {
+  color: $color-text-light;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.post-tags {
+  margin-left: 0.5rem;
+}
+
+.tag {
+  display: inline-block;
+  background-color: $color-code-bg;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  font-size: 0.8em;
+  margin-left: 0.25rem;
+}
+
+.post-content {
+  h2 {
+    margin-top: $spacing-lg * 1.5;
+  }
+}
+
+.post-footer {
+  margin-top: $spacing-lg;
+  padding-top: $spacing;
+  border-top: 1px solid $color-border;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.prev-post, .next-post {
+  font-size: 0.875rem;
+}
+
+// Page
+.page-header {
+  margin-bottom: $spacing-lg;
+}
+
+.page-title {
+  margin: 0;
+}
+
+// Home intro
+.home-intro {
+  margin-bottom: $spacing-lg;
+  padding-bottom: $spacing-lg;
+  border-bottom: 1px solid $color-border;
+  
+  h1 {
+    margin-top: 0;
+  }
+}
+
+// Section headings
+.section-heading {
+  margin-top: 0;
+  margin-bottom: $spacing;
+  font-size: 1.25rem;
+  color: $color-text-light;
+  font-weight: 400;
+}

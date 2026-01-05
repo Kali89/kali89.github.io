@@ -1,0 +1,68 @@
+// Site header
+.site-header {
+  padding: $spacing;
+  border-bottom: 1px solid $color-border;
+}
+
+.nav-container {
+  max-width: $max-width;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: $color-text;
+  
+  &:hover {
+    color: $color-accent;
+    text-decoration: none;
+  }
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+  a {
+    color: $color-text-light;
+    
+    &:hover {
+      color: $color-accent;
+    }
+  }
+}
+
+// Main content
+.main-content {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: $spacing-lg $spacing;
+  min-height: calc(100vh - 200px);
+}
+
+// Footer
+.site-footer {
+  padding: $spacing-lg $spacing;
+  border-top: 1px solid $color-border;
+  text-align: center;
+  color: $color-text-light;
+  font-size: 0.875rem;
+}
+
+.footer-content {
+  max-width: $max-width;
+  margin: 0 auto;
+  
+  p {
+    margin: 0;
+  }
+}
