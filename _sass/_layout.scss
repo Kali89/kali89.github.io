@@ -1,11 +1,11 @@
 // Site header
 .site-header {
-  padding: $spacing;
+  padding: $spacing $spacing;
   border-bottom: 1px solid $color-border;
 }
 
 .nav-container {
-  max-width: $max-width;
+  max-width: $max-width-wide;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -15,24 +15,31 @@
 }
 
 .site-title {
-  font-size: 1.25rem;
-  font-weight: 600;
+  font-family: $font-heading;
+  font-size: 1.1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: $color-text;
   
   &:hover {
     color: $color-accent;
-    text-decoration: none;
   }
 }
 
 .nav-links {
   display: flex;
-  gap: 1.5rem;
+  gap: 2rem;
   list-style: none;
   margin: 0;
   padding: 0;
   
   a {
+    font-family: $font-heading;
+    font-size: 0.9rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
     color: $color-text-light;
     
     &:hover {
@@ -49,13 +56,17 @@
   min-height: calc(100vh - 200px);
 }
 
+.main-content--wide {
+  max-width: $max-width-wide;
+}
+
 // Footer
 .site-footer {
   padding: $spacing-lg $spacing;
   border-top: 1px solid $color-border;
   text-align: center;
   color: $color-text-light;
-  font-size: 0.875rem;
+  font-size: 0.85rem;
 }
 
 .footer-content {
@@ -64,5 +75,7 @@
   
   p {
     margin: 0;
+    font-family: $font-heading;
+    letter-spacing: 0.02em;
   }
 }

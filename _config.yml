@@ -1,9 +1,9 @@
 # Site settings
-title: "Matthew Sharpe"
-description: "A blog about data science, research, and life."
+title: "Matt Smith"
+description: "Data scientist and researcher exploring how digital environments shape human behaviour."
 author: "Matt"
-email: matt@sharpeanalytics.com
-url: "" # Will be https://yourusername.github.io when deployed
+email: your-email@example.com
+url: "https://dogdogfish.com"
 baseurl: "" # Leave empty for user/org sites, or "/repo-name" for project sites
 
 # Build settings

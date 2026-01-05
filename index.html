@@ -1,21 +1,43 @@
 ---
 layout: default
 title: Home
+body_class: home
 ---
 
-<section class="home-intro">
-  <h1>Hello, I'm Matt</h1>
-  <p>
-    Data scientist by day, DPhil researcher by night. I write about data science, 
-    machine learning, and occasionally other things that catch my interest.
-  </p>
+<section class="hero">
+  <div class="hero-content">
+    <h1>Matt Smith</h1>
+    <p>Data scientist and researcher exploring how digital environments shape human behaviour.</p>
+  </div>
+  <div class="hero-image">
+    <img src="{{ '/assets/images/profile.svg' | relative_url }}" alt="Matt Smith">
+  </div>
 </section>
 
-<section class="recent-posts">
-  <h2 class="section-heading">Recent Posts</h2>
-  
+{% assign latest_post = site.posts.first %}
+{% if latest_post %}
+<article class="featured-post">
+  <h2 class="featured-post-title">
+    <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a>
+  </h2>
+  <p class="featured-post-date">
+    <time datetime="{{ latest_post.date | date_to_xmlschema }}">
+      {{ latest_post.date | date: "%d %B %Y" }}
+    </time>
+  </p>
+  <div class="featured-post-excerpt">
+    {{ latest_post.excerpt | strip_html | truncate: 300 }}
+  </div>
+  <a href="{{ latest_post.url | relative_url }}" class="featured-post-link">Read more →</a>
+</article>
+{% endif %}
+
+{% assign other_posts = site.posts | slice: 1, 5 %}
+{% if other_posts.size > 0 %}
+<section class="older-posts">
+  <h2 class="older-posts-heading">Older Posts</h2>
   <ul class="post-list">
-    {% for post in site.posts limit:5 %}
+    {% for post in other_posts %}
       <li class="post-list-item">
         <h3 class="post-list-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -25,14 +47,12 @@ title: Home
             {{ post.date | date: "%d %B %Y" }}
           </time>
         </p>
-        {% if post.excerpt %}
-          <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        {% endif %}
       </li>
     {% endfor %}
   </ul>
   
-  {% if site.posts.size > 5 %}
-    <p><a href="{{ '/blog/' | relative_url }}">View all posts &rarr;</a></p>
+  {% if site.posts.size > 6 %}
+    <p><a href="{{ '/blog/' | relative_url }}">View all posts →</a></p>
   {% endif %}
 </section>
+{% endif %}

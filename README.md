@@ -1,6 +1,6 @@
 # My Jekyll Blog
 
-A clean, minimal blog built with Jekyll and hosted on GitHub Pages.
+A clean, minimal blog built with Jekyll and hosted on GitHub Pages at **dogdogfish.com**.
 
 ## Quick Start (Deploy to GitHub Pages)
 
@@ -8,14 +8,7 @@ A clean, minimal blog built with Jekyll and hosted on GitHub Pages.
 
 Go to [github.com/new](https://github.com/new) and create a new repository.
 
-**For a user site** (recommended):
-- Name it `yourusername.github.io` (replace with your actual GitHub username)
-- Your site will be at `https://yourusername.github.io`
-
-**For a project site**:
-- Name it anything you like (e.g., `blog`)
-- Your site will be at `https://yourusername.github.io/blog`
-- Update `baseurl` in `_config.yml` to `/blog`
+Name it anything you like (e.g., `blog` or `dogdogfish.com`). Since you're using a custom domain, the repository name doesn't affect your URL.
 
 ### 2. Push This Code
 
@@ -25,7 +18,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/yourusername.github.io.git
+git remote add origin https://github.com/yourusername/blog.git
 git push -u origin main
 ```
 
@@ -35,7 +28,25 @@ git push -u origin main
 2. Click **Settings** → **Pages** (in the left sidebar)
 3. Under "Source", select **GitHub Actions**
 4. Wait a minute or two for the first build
-5. Your site is live! 🎉
+
+### 4. Verify Your Custom Domain (Recommended)
+
+For security, verify your domain with GitHub:
+
+1. Go to your GitHub account **Settings** (click your profile photo → Settings)
+2. Click **Pages** in the left sidebar
+3. Click **Add a domain** and enter `dogdogfish.com`
+4. Follow the instructions to add a TXT record to your DNS
+
+### 5. Configure Your Custom Domain
+
+In your repository's **Settings → Pages**:
+
+1. Under "Custom domain", enter `dogdogfish.com`
+2. Click **Save**
+3. Once DNS propagates, tick **Enforce HTTPS**
+
+Your site will be live at **https://dogdogfish.com** 🎉
 
 ## Writing New Posts
 
