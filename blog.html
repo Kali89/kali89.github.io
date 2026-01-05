@@ -25,7 +25,7 @@ permalink: /blog/
         {% endif %}
       </p>
       {% if post.excerpt %}
-        <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+        <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncate: 500 }}</p>
       {% endif %}
     </li>
   {% endfor %}
