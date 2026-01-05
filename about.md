@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I'm a data scientist based in Yorkshire, working on subscription analytics and user behaviour modelling. I'm also pursuing a part-time DPhil in Social Data Science at Oxford, researching how digital environments shape human behaviour through habit formation.
-
-When I'm not wrangling data or reading papers, I'm probably spending time with my family, working on a novel, or tinkering with something that seemed like a good idea at the time.
+I'm a staff-level data scientist based in rural North Yorkshire in the United Kingdom. I've spent the last 15 years or so working in tech, most recently at Automattic (previously at Spotify, SkyScanner, Arachnys, The Hut Group, Mars). I'm also pursuing a part-time DPhil in Social Data Science at Oxford, researching how digital environments shape human behaviour through habit formation. On top of that, I'm married and have 3 small children. All of that generally means I'm pretty busy.
 
 ## Get in Touch
 
 You can find me on:
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter/X](https://twitter.com/yourusername)
+- [GitHub](https://github.com/Kali89)
+- [LinkedIn](https://www.linkedin.com/in/matthewsharpe3/)
+- [Twitter/X](https://x.com/matt_sharpe3)
+- [Corporate Looking Website](https://sharpeanalytics.com/)
 
-Or just email me at your-email@example.com.
+Or you can just email me [here](malito:matt@sharpeanalytics.com)
