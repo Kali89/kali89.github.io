@@ -5,7 +5,9 @@ date: 2026-01-05
 tags: [meta, welcome]
 ---
 
-Hello! Every year I feel a calling to do *something* in much the same way
+Hello! 
+
+Every year I feel a calling to do *something* in much the same way
 everybody does. But what exactly is *something*? Well, a few times over the
 last few weeks I've thought it probably makes sense to start a blog and
 finally, my reasons for not having a blog have become outweighed by my reasons
@@ -26,7 +28,8 @@ probably lots you can do, but this is what I'm doing.
 5. I have children. It'd be nice to be able to show them *something* at some
    point about what I thought about.
 
-OK, so that's at least some of the thoughts. I'm hoping to make this quick a
-lightweight. I don't need to stake my professional reputation on every post. I
+OK, so that's at least some of the thoughts. 
+
+I'm hoping to make this quick a lightweight. I don't need to stake my professional reputation on every post. I
 don't need to make everything a big deal. Sometimes I'll just share a photo or
 a quick thought. Sometimes I'll write an essay. Whatever.
