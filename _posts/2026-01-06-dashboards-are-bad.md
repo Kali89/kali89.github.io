@@ -94,7 +94,7 @@ this time. Other options you should consider first include:
     cadence...well you're describing a report.
 
 As you can see given our smorgasbord of options above...the situations in which
-a dashboard is **the best** tool to answer a questions is...well I think it's
+a dashboard is **the best** tool to answer a question is...well I think it's
 pretty rare.
 
 ### I want an overview/diagnostic
