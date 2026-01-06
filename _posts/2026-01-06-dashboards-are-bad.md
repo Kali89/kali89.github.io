@@ -12,9 +12,6 @@ and I've finally decided to write something myself about why dashboards are
 bad, and why you should feel bad about either asking for them, or, God forbid,
 actually making them.<!--more-->
 
-When I say I don't want to build a dashboard, it's partly because I don't know
-how, but in much greater part, it's because of this...
-
 ## The Purpose of a Dashboard
 
 Firstly, let's consider *why* we might be building a dashboard. Typically I see
@@ -30,9 +27,11 @@ not?
 Well, it's probably because they can't even see the data. They need a
 dashboard! I'll request one and then...
 
-And then what? You see, let's imagine that we were building a product for some
+And then what? 
+
+You see, let's imagine that we were building a product for some
 users, and we were being all Y Combinator/Lean Startup about it. Did the
-executive speak to their users (the people who the dashboard is nominally for?) and understand what their pain points are? Did they meticulously understand **why** their people aren't being 'data-driven'<sup>TM</sup>? Or did they in fact just immediately assume they knew the answer to a poorly-defined problem, leap straight to a solution, and then say 'roll it out'?
+executive speak to their users (the people who the dashboard is nominally for?) and understand what their pain points are? Did they meticulously understand **why** their people aren't being 'data-driven'<sup>TM</sup>? Or did they in fact immediately assume they knew the answer to a poorly-defined problem, leap straight to a solution, and then say 'ship it' with conviction?
 
 And so then you, dear data scientist, end up building a dashboard for somebody.
 But it's not entirely clear who you're building it for. Is it for the
@@ -61,16 +60,16 @@ query, and if I just create a dashboard then people can use that and not ask me
 and I'll have empowered stakeholders to self-serve (sounds pretty
 promotion-coded, amirite?). 
 
-This isn't solving anybody's problem but your own. *You* have a problem that
+This isn't solving anybody's problem but your own. **You** have a problem that
 people are asking you questions and you have to run a SQL snippet every time
-they do, and so you think you can build a tool and then
-somehow this becomes somebody else's problem? How many of your stakeholders get
+they do. Somehow, you think you can build a tool and then
+this becomes somebody else's problem? How many of your stakeholders get
 up in the morning and think "*Gee, I really wish I could lighten the load on
-$DATA_PERSON$.*"? 
+$DATA_PERSON$*"? 
 
 You're asking stakeholders to change their behaviour in order to inconvenience
 you less. And all you're offering them is...what? Reduced latency? The ability
-to self-serve? Colour me sceptical.
+to self-serve? The ability to apply filters? Colour me sceptical.
 
 Now, lest it be said that I'm a monster, I think that this is a perfectly fine
 reason to build a dashboard under one very specific set of circumstances. Those
@@ -114,7 +113,7 @@ really want to push you on is this:
 **When was the last time you made a good decision as a result of looking at a
 dashboard?**
 
-Maybe you've got some answers. Good. Now for the trickier part.
+Maybe you've got some answers. Good for you. Now for the trickier part.
 
 **Could you have arrived at that decision without the dashboard?**
 
@@ -128,11 +127,11 @@ any time you see a gradually unfolding trend and run an initiative/roll out a
 fix that ultimately arrests that trend (or enhances it or whatever). However,
 could you have done those things without a dashboard? I think yes.
 
-A dashboard to me shows a lack of precise thinking. *What* do we care about?
+To me, a dashboard shows a lack of precise thinking. *What* do we care about?
 *How* do we expect it to move? And then is it moving in that way? These are
 surgical questions that have specific answers. Maybe your command-centre
 dashboard is exactly that - a well curated list of specific questions that are
-well answered. More likely though, is that it's an over-large collection of
+well answered. More likely though, it's an over-large collection of
 potentially relevant metrics that let you use your story-telling powers to come
 up with '*causal*' explanations.
 
