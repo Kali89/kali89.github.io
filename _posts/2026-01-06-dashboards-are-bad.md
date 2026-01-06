@@ -18,7 +18,7 @@ how, but in much greater part, it's because of this...
 ## The Purpose of a Dashboard
 
 Firstly, let's consider *why* we might be building a dashboard. Typically I see
-a dashboard come about through one of a couple of ways:
+a dashboard come about through one of a few of ways:
 
 ### My People aren't Data Driven enough
 
@@ -125,7 +125,7 @@ so quick to respond...well, those are your bad decisions.
 
 There are some **good** decisions that are taken after looking at dashboards -
 any time you see a gradually unfolding trend and run an initiative/roll out a
-fix that ultimately arrests that trend (or enhances it or whatever). However,
+fix that ultimately arrests that trend (or enhance it or whatever). However,
 could you have done those things without a dashboard? I think yes.
 
 A dashboard to me shows a lack of precise thinking. *What* do we care about?
@@ -149,11 +149,20 @@ largely depends on the company you work for.
 
 Now again, I'm not a zealot (much). You should have one of these overview
 dashboards. Somebody needs to know if you've lost 60% of your revenue in LATAM.
-What I'm arguing against is building **another** of those dashboards. I'm also
-arguing that if you're relying on your CEO noticing you've lost 60% of your
-revenue in LATAM by looking at the command-centre overview, you're either a
-small start-up (cool) or you're in deep doo-doo. Surely there's somebody else
-who should notice that and flag it?
+But I'm arguing two things:
+
+1. You don't need **another** of those dashboards. If you already have the
+   information somewhere, why do you need it again?
+2. Somebody needs to notice whether or not you've lost 60% of your revenue in
+   LATAM over the last few weeks...but should it really be the CEO browsing the
+   command-centre overview? If you're a small start-up (cool), sure. If you're
+   not...surely there's somebody else at the company who should be noticing
+   these things?
+
+How do they notice it, if not with a dashboard? If you're a senior leader, I
+beg of you, please let that be their problem. Maybe they need a dashboard or
+maybe they don't. Your job is to tell them that they should notice. Their job
+is to work out how they want to do that.
 
 I also want to briefly touch upon dashboard design in this: we data people have
 to design those dashboards in a very specific way and it's nothing to do with
@@ -227,7 +236,7 @@ business line is doing against another over time? Great, here's a graph. You
 want to know tomorrow too? Well it's not likely to have changed that much. You
 want to know next week? Great, here's another graph.
 
-#### Isn't that pretty obstructionist?
+### Isn't that pretty obstructionist?
 
 I prefer the term 'customer-focussed'. A dashboard is a product and rule number
 one of building products is "speak to the customer - understand what their
