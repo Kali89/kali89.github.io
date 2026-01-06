@@ -18,7 +18,7 @@ how, but in much greater part, it's because of this...
 ## The Purpose of a Dashboard
 
 Firstly, let's consider *why* we might be building a dashboard. Typically I see
-a dashboard come about through one of a few of ways:
+a dashboard come about through one of a few ways:
 
 ### My People aren't Data Driven enough
 
@@ -125,7 +125,7 @@ so quick to respond...well, those are your bad decisions.
 
 There are some **good** decisions that are taken after looking at dashboards -
 any time you see a gradually unfolding trend and run an initiative/roll out a
-fix that ultimately arrests that trend (or enhance it or whatever). However,
+fix that ultimately arrests that trend (or enhances it or whatever). However,
 could you have done those things without a dashboard? I think yes.
 
 A dashboard to me shows a lack of precise thinking. *What* do we care about?
@@ -221,7 +221,7 @@ for any more dashboards. What can you do to stop building them?
 For everybody, start by asking better questions. When somebody asks for a dashboard, ask them
 what they want to know. Then tell them that you'll email them the answer every
 day for the next 100 days if they'd like, but only if they email back and tell
-you what they did with the number. 
+you what they did with the number.
 
 If you're a PM/leader whose people need to be more data-driven, ask them why
 they're not using data in order to make their decisions. Work with them to
@@ -235,6 +235,11 @@ threshold? Great, I'll ping you when that happens. You want to know how one
 business line is doing against another over time? Great, here's a graph. You
 want to know tomorrow too? Well it's not likely to have changed that much. You
 want to know next week? Great, here's another graph.
+
+Doesn't sound scalable? Do things that don't scale isn't just advice for trendy start-ups - it's advice
+for building any kind of product. Make yourself integral to the processes that
+*might* require a dashboard and I think you'll be surprised at how rarely a
+dashboard is the answer.
 
 ### Isn't that pretty obstructionist?
 
@@ -252,8 +257,8 @@ company make the best decisions possible. It's not obstructionist to realise
 when people are asking for tools that will make their decisions worse. It's not
 obstructionist to protect your own time, not working on a product that has no
 chance of helping the company. At certain levels, it's your job to help steer
-the bad product into a slightly better one. At certain levels, it's your job
-not to build the bad product in the first place.
+the bad ~~dashboard~~ product into a slightly better one. At certain levels, it's your job
+not to build the bad ~~dashboard~~ product in the first place.
 
 Don't be part of the problem - be part of the solution. Say no to dashboards
 today.
