@@ -8,7 +8,7 @@ tags: [parenting, children]
 I have three small children - currently a 6 year old, a 3 year old and a 6
 month old. They're all the things small children are supposed to be.
 
-I wanted to share a brief snapshot in time of why I think parenting is amazing. It's a fleeting moment - the kind that I'll
+I wanted to share a brief snapshot in time of why I think parenting is amazing. <!--more-->It's a fleeting moment - the kind that I'll
 forget about and just imbue into the overall 'fabric' of being a parent. That's
 why I want to write this down, and part of the reason I'm doing this blog. I
 don't want to forget the magical moments that'll ultimately fade into the
