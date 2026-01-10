@@ -12,6 +12,8 @@ It therefore follows that...
 
 <!--more-->
 
+## Sleep Training
+
 OK, maybe that's a slightly preposterous assumption but honestly, I'm not so
 sure. If we let 'rational' simply mean that they're extremely sensitive to
 patterns of cause and effect, I think we're onto something. 
@@ -21,7 +23,7 @@ going well. He just won't sleep. It's hard to not take it personally, and there
 are two major 'schools' of thought on sleep training that can be pejoratively
 be summed up thusly:
 
-#### Gentle Parenting
+### Gentle Parenting
 
 "Never let them cry - pick them up, shush them and hold
 them until they gladly accept being laid in the cot and fall asleep perfectly".
@@ -30,7 +32,7 @@ As I try to make a quiet shush heard over the babies roar, it's hard not to
 wonder what kind of baby this advice was written for and where I might get one
 of those.
 
-#### Cry-it-out
+### Cry-it-out
 
 Then there's the other school of thought, who say you should leave your baby
 outside to fight the wolves and they'll ultimately re-emerge the following
@@ -70,7 +72,7 @@ Another argument says that you need to show your baby that you are responsive
 to their needs - that you show yourself to be reliable and receptive to your
 baby's emotions.
 
-You can also argue that gentle parenting ultimatley supports the child and
+You can also argue that gentle parenting ultimately supports the child and
 allows them to develop at a pace that suits them. A newborn isn't ready for
 cry-it-out, so at what point do you decide a baby is ready?
 
@@ -83,14 +85,9 @@ to see more of.
 
 I think many of the arguments for gentle parenting rely either on an assumption
 that a baby is approximately as cognitively developed as an adult, or focus on
-the short-term. A baby learning to sleep is a win for the baby and the parents
-- if it costs a month of horrible nights but gives a year of good sleep, I'd
-  argue that's worth it. 
+the short-term. A baby learning to sleep is a win for the baby and the parents - if it costs a month of horrible nights but gives a year of good sleep, I'd argue that's worth it. 
 
-Ultimately gentle parenting is also supported by psychological theory
-- each time you place your child down in the cot they learn that it's a safer
-  place. And so each time you're making them more comfortable in the cot, and
-thus reducing the downside associated with it. Eventually, the cot will cease
+Ultimately gentle parenting is also supported by psychological theory - each time you place your child down in the cot they learn that it's a safer place. And so each time you're making them more comfortable in the cot, and thus reducing the downside associated with it. Eventually, the cot will cease
 to be a negative place, at which point the need for sleep will more comfortably
 overwhelm the need for attention/comfort.
 
@@ -112,7 +109,7 @@ of shushing or singing or rocking would calm him until we picked him up. Then
 we told the stern Swedish midwife this and she said something that I still
 repeat to my wife at least once a month:
 
-*** Remember, you're the grown-up. ***
+***Remember, you're the grown-up.***
 
 That night, I put him in his cot and rather than sitting next to him for an
 hour and singing until I gave up, I left the room. Five minutes later, he was
@@ -129,3 +126,6 @@ what happens until they collapse with exhaustion. 'Gentle parenting' doesn't
 have to mean rushing in at every little cry.
 
 Our current baby still isn't sleeping and I wish he would.
+
+*p.s. my wife read this and noted that I used the word* ***I*** *a lot when I
+mean* ***we*** *at best*.
