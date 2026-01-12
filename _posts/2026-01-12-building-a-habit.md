@@ -12,9 +12,6 @@ tell you what I know about building habits. <!--more-->I'm not going to cite all
 because I don't have time<sup>\*</sup>. If you want to read a habit review, go and find one.
 If you want "source: trust me, bro"...you're in luck.
 
-<sup>\*And some of the studies were on rats, not people. But that feels more
-like a *you* problem than a *me* problem</sup>
-
 I'm also only going to be talking about **making** habits - not breaking them.
 To be honest, to do that you've just got to think of things in reverse.
 I'll probably do a separate post on that at some point, but for now, let's think
@@ -47,7 +44,7 @@ You know what a habit is. How do we make going to the gym "habitual"?
 Research says that **complex** activities are harder to form habits with than
 **simple** ones.
 
-*"But Matt, going to the gym* ***is*** * a complex activity"*.
+*"But Matt, going to the gym* ***is*** *a complex activity"*.
 
 Sure, but you know what isn't? Grabbing your water bottle from your nightstand
 in the morning. Or putting your gym shoes on. What I'm saying: take a complex
@@ -81,7 +78,7 @@ are you going to go?
 
 *"Monday and Wednesday after work"* is good - but be careful. How often does
 work run late? Is there a time at which you'd decide it's too late to go to the
-gym? If your train is cancelled will you still go? If Jim announces he's going
+gym? If your train is cancelled will you still go? If big Jim announces he's going
 for drinks, what then?
 
 *"Tuesday morning and Saturday evening"* might be OK, but a weekday morning and a weekend 
@@ -137,9 +134,12 @@ lines. Maybe swipe about on TikTok a bit and get the dopamine hit that way? Data
 A habit is a legit real thing - a neural pathway in the brain that cuts out the
 need for conscious thought and instead turns you into a simple machine that
 takes an input (a stimulus) and returns an output (a behaviour). You can build
-them and sever them with motivation and work. If you already have motivation and
+them with motivation and work. If you already have motivation and
 the ability to do work, why build a habit? Think of
 a habit as an investment into your cognitive future. You're going to have to invest time and
 effort now either way. I'm hoping that by reading this, you'll be a little better positioned to see those efforts offer longer-term benefits - to help build the habits that you want to.
 
 And maybe get to the gym a little bit more, you fat bastard.
+
+
+<sup>\*And some of the studies were on rats, not people. But that feels more like a *you* problem than a *me* problem</sup>
