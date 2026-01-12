@@ -22,7 +22,7 @@ on the playground until it was all better.
 Needless to say, I sat down with eldest child and told him how proud of him I
 was for helping out his little sister when she needed it.
 
-One of the unexpected benefits of more than one children is that their
+One of the unexpected benefits of more than one child is that their
 relationship with each other is a joy to behold. Sure, they fall out a lot. But
 watching them love each other is a strange kind of double joy. To see them
 love, and to see them be loved is incredible. To see it twice over is...well,
