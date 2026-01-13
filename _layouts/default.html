@@ -34,6 +34,7 @@
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
         <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        <li><a href="/subscribe/">Subscribe</a></li>
       </ul>
     </nav>
   </header>
@@ -46,6 +47,19 @@
     <div class="footer-content">
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}. Built with Jekyll.</p>
       <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+      <div class="footer-subscribe">
+        <p>Get new posts by email:</p>
+        <!-- Buttondown form -->
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/sharpe"
+          method="post"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email-footer">Enter your email</label>
+          <input type="email" name="email" id="bd-email-footer" placeholder="you@example.com" required />
+          <input type="submit" value="Subscribe" />
+        </form>
+      </div>
     </div>
   </footer>
 </body>
