@@ -1,37 +1,18 @@
-{% comment %}
-  Reusable Buttondown subscribe form.
-  
-  Usage:
-    {% include subscribe-form.html %}
-    {% include subscribe-form.html context="footer" %}
-    {% include subscribe-form.html context="homepage" %}
-{% endcomment %}
-
-{% assign form_context = include.context | default: "default" %}
-
-<div class="subscribe-form subscribe-form--{{ form_context }}">
-  <form
-    action="https://buttondown.com/api/emails/embed-subscribe/sharpe"
-    method="post"
-    class="subscribe-form__form"
-  >
-    <label for="bd-email-{{ form_context }}" class="subscribe-form__label">
-      Email address
-    </label>
-    <div class="subscribe-form__input-group">
-      <input 
-        type="email" 
-        name="email" 
-        id="bd-email-{{ form_context }}" 
-        placeholder="you@example.com" 
-        required 
-        class="subscribe-form__input"
-      />
-      <input 
-        type="submit" 
-        value="Subscribe" 
-        class="subscribe-form__button"
-      />
-    </div>
-  </form>
-</div>
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/sharpe"
+  method="post"
+  class="subscribe-form subscribe-form--{{ include.context | default: 'default' }}"
+>
+  <input
+    type="email"
+    name="email"
+    placeholder="you@example.com"
+    required
+    class="subscribe-form__input"
+  />
+  <input
+    type="submit"
+    value="Subscribe"
+    class="subscribe-form__button"
+  />
+</form>

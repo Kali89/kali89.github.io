@@ -1,35 +1,24 @@
+// ==========================================================================
+// Subscribe Form - Slim Inline Design
+// ==========================================================================
+
 .subscribe-form {
-  margin-top: $spacing;
-
-  &__label {
-    display: block;
-    font-size: 0.9rem;
-    font-weight: 600;
-    color: $color-text-light;
-    margin-bottom: 0.5rem;
-  }
-
-  &__input-group {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    max-width: 320px;
-
-    @media (min-width: $breakpoint-sm) {
-      flex-direction: row;
-      max-width: 400px;
-    }
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
 
   &__input {
     flex: 1;
-    padding: 0.6rem 0.75rem;
-    font-size: 0.95rem;
+    min-width: 180px;
+    max-width: 240px;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.9rem;
+    font-family: $font-body;
     color: $color-text;
     background: $color-bg;
     border: 1px solid $color-border;
-    border-radius: 4px;
-    transition: border-color 0.2s ease;
+    border-radius: 3px;
 
     &:focus {
       outline: none;
@@ -42,72 +31,65 @@
   }
 
   &__button {
-    padding: 0.6rem 1.25rem;
-    font-size: 0.95rem;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.9rem;
+    font-family: $font-heading;
     font-weight: 500;
     color: $color-bg;
     background: $color-accent;
     border: none;
-    border-radius: 4px;
+    border-radius: 3px;
     cursor: pointer;
-    transition: background 0.2s ease;
-    white-space: nowrap;
+    transition: background 0.15s ease;
 
     &:hover {
-      background: $color-accent-hover
-    }
-
-    &:active {
-      background: darken($color-accent-hover, 4%);
+      background: $color-accent-hover;
     }
   }
 }
 
-// ==========================================================================
-// Context Variants
-// ==========================================================================
-
-// Homepage: more prominent, centered beneath intro
+// Homepage: sits neatly after the intro text
 .subscribe-form--homepage {
-  margin-top: $spacing-lg;
-  padding-top: $spacing;
-  border-top: 1px solid $color-border;
-
-  .subscribe-form__input-group {
-    max-width: 360px;
-
-    @media (min-width: $breakpoint-sm) {
-      max-width: 420px;
-    }
-  }
+  margin-top: 0.75rem;
 }
 
-// Footer: compact, fits the footer aesthetic
+// Footer: compact
+// Footer: centered
 .subscribe-form--footer {
-  margin-top: $spacing;
-  padding-top: $spacing-sm;
-  border-top: 1px solid $color-border;
-
-  .subscribe-form__label {
-    font-size: 0.85rem;
-  }
-
-  .subscribe-form__input-group {
-    max-width: 280px;
-  }
-
-  .subscribe-form__input,
-  .subscribe-form__button {
-    padding: 0.5rem 0.75rem;
-    font-size: 0.9rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+  
+  .subscribe-form__input {
+    max-width: 200px;
   }
 }
 
-// Standalone page: centered, generous spacing
-.subscribe-form--page {
-  margin: $spacing-lg 0;
 
-  .subscribe-form__input-group {
-    max-width: 400px;
-  }
+// Standalone page: a bit more breathing room
+.subscribe-form--page {
+  margin: $spacing 0;
+}
+
+// ==========================================================================
+// Context wrappers
+// ==========================================================================
+
+// Homepage hero: inline with "Subscribe:" label
+.hero-subscribe {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: $color-text-light;
+}
+
+// Footer: centered rows
+.footer-subscribe-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
 }
