@@ -9,7 +9,11 @@ body_class: home
     <h1>Matt Sharpe</h1>
     <p>Data science, psychology, machine learning, parenting, politics and
     anything else.</p>
+    <div class="home-subscribe">
+        <p>Subscribe:</p>
+        {% include subscribe-form.html context="homepage" %}
   </div>
+
   <div class="hero-image">
     <img src="{{ '/assets/images/me_boat.png' | relative_url }}" alt="Matt
     Sharpe">

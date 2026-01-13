@@ -49,16 +49,7 @@
       <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
       <div class="footer-subscribe">
         <p>Get new posts by email:</p>
-        <!-- Buttondown form -->
-        <form
-          action="https://buttondown.com/api/emails/embed-subscribe/sharpe"
-          method="post"
-          class="embeddable-buttondown-form"
-        >
-          <label for="bd-email-footer">Enter your email</label>
-          <input type="email" name="email" id="bd-email-footer" placeholder="you@example.com" required />
-          <input type="submit" value="Subscribe" />
-        </form>
+        {% include subscribe-form.html context="footer" %}
       </div>
     </div>
   </footer>

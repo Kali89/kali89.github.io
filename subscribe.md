@@ -1,22 +1,13 @@
 ---
-layout: default
+layout: page
 title: Subscribe
 permalink: /subscribe/
 ---
 
-## Subscribe to my newsletter
+Get new posts delivered to your inbox. No spam, unsubscribe anytime.
 
-Stay up to date with new posts, ideas, and updates.
+{% include subscribe-form.html context="page" %}
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/sharpe"
-  method="post"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email-page">Enter your email</label>
-  <input type="email" name="email" id="bd-email-page" placeholder="you@example.com" required />
-  <input type="submit" value="Subscribe" />
-</form>
-
-<p>Powered by <a href="https://buttondown.com/refer/sharpe" target="_blank">Buttondown</a>.</p>
-
+<p class="subscribe-note">
+  Powered by <a href="https://buttondown.com/refer/sharpe" target="_blank" rel="noopener">Buttondown</a>.
+</p>
