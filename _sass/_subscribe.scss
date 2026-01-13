@@ -1,9 +1,9 @@
-// ==========================================================================
+/ ==========================================================================
 // Subscribe Form Styles
 // ==========================================================================
 
 .subscribe-form {
-  margin-top: $spacing-md;
+  margin-top: $spacing;
 
   &__label {
     display: block;
@@ -29,19 +29,19 @@
     flex: 1;
     padding: 0.6rem 0.75rem;
     font-size: 0.95rem;
-    color: $gray-900;
-    background: $white;
-    border: 1px solid $gray-300;
+    color: $color-text;
+    background: $color-bg;
+    border: 1px solid $color-border;
     border-radius: 4px;
     transition: border-color 0.2s ease;
 
     &:focus {
       outline: none;
-      border-color: $primary-color;
+      border-color: $color-accent;
     }
 
     &::placeholder {
-      color: $gray-500;
+      color: $color-text-light;
     }
   }
 
@@ -49,8 +49,8 @@
     padding: 0.6rem 1.25rem;
     font-size: 0.95rem;
     font-weight: 500;
-    color: $white;
-    background: $primary-color;
+    color: $color-bg;
+    background: $color-accent;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -58,11 +58,11 @@
     white-space: nowrap;
 
     &:hover {
-      background: darken($primary-color, 8%);
+      background: $color-accent-hover
     }
 
     &:active {
-      background: darken($primary-color, 12%);
+      background: darken($color-accent-hover, 4%);
     }
   }
 }
@@ -74,8 +74,8 @@
 // Homepage: more prominent, centered beneath intro
 .subscribe-form--homepage {
   margin-top: $spacing-lg;
-  padding-top: $spacing-md;
-  border-top: 1px solid $gray-200;
+  padding-top: $spacing;
+  border-top: 1px solid $$color-border;
 
   .subscribe-form__input-group {
     max-width: 360px;
@@ -88,9 +88,9 @@
 
 // Footer: compact, fits the footer aesthetic
 .subscribe-form--footer {
-  margin-top: $spacing-md;
+  margin-top: $spacing;
   padding-top: $spacing-sm;
-  border-top: 1px solid $gray-200;
+  border-top: 1px solid $$color-border;
 
   .subscribe-form__label {
     font-size: 0.85rem;
