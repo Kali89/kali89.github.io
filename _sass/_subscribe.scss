@@ -75,7 +75,7 @@
 .subscribe-form--homepage {
   margin-top: $spacing-lg;
   padding-top: $spacing;
-  border-top: 1px solid $$color-border;
+  border-top: 1px solid $color-border;
 
   .subscribe-form__input-group {
     max-width: 360px;
@@ -90,7 +90,7 @@
 .subscribe-form--footer {
   margin-top: $spacing;
   padding-top: $spacing-sm;
-  border-top: 1px solid $$color-border;
+  border-top: 1px solid $color-border;
 
   .subscribe-form__label {
     font-size: 0.85rem;
