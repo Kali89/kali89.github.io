@@ -27,15 +27,3 @@ $spacing-lg: 3rem;
 
 // Breakpoints
 $breakpoint-sm: 640px;
-
-// Subscribe form styling
-.footer-subscribe {
-  margin-top: 2rem;
-  padding-top: 1rem;
-  border-top: 1px solid $gray-300; // using your grey variable style
-
-  p {
-    margin-bottom: 0.5rem;
-    font-size: 0.95rem;
-    color: $gray-800;
-  }
