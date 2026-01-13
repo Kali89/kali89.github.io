@@ -7,7 +7,7 @@ tags: [data, psychology]
 
 I'm going to share a graph with you that I've been hawking around, in the vain
 (but thus far ultimately fruitless) attempt to get *somebody* to care. I've got
-a really cool data set and have found what can only really be described as a
+a cool data set and have found what can only really be described as a
 *neat* little result. <!--more-->
 
 ## Mobile Phone Data
