@@ -27,14 +27,14 @@ years](/assets/images/long_range_alarm.png)
 If we zoom in a little further, we can start to see a huge spike of activity in
 the alarm app at 6am. I hope it's not too much of stretch to say that I think
 we're glimpsing when people's alarms are set for in the morning. This is when
-Americans apparently wake up. That spike at 6am is a little earlier than I'd personally like to get up, but I can countenance the spike at 7am so I suppose we can let the industriosness of Americans slide for now. If you're especially interested in when people are waking up then we can zoom in a little and you'll see what I'm talking about:
+Americans apparently wake up. That spike at 6am is a little earlier than I'd personally like to get up, but I can countenance the spike at 7am so I suppose we can let the industriousness of Americans slide for now. If you're especially interested in when people are waking up then we can zoom in a little and you'll see what I'm talking about:
 
 ![A zoomed in view of the alarm app opening behaviour of 1.4 million Americans over 2
 years](/assets/images/zoomed_alarm.png)
 
 However, if you're like me then you probably noticed the lovely little sawtooth
 pattern. If this were a maths class you'd say that you'd expect to see an
-approximately normalish kind of distribution around a point (say, 7am). Maybe
+approximately normal distribution around a point (say, 7am). Maybe
 an alien species founded on rationality have their alarm clocks set like that.
 I imagine hunter-gatherers had a normalish distribution of wake times
 surrounding the sunrise. 
@@ -78,7 +78,7 @@ note) and magnitude (and thus volume). If you're after a song that uses these
 heavily, I'd recommend Flying in a Blue Dream by Joe Satriani.
 
 If you look at these graphically (which you can
-[here](https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Sound_-_An_Interactive_eBook_\(Forinash_and_Christian\)/10%3A_Strings/10.01%3A_Driven_String_and_Resonance/10.1.01%3A_String_Resonance) you'll find that the graph looks weirdly similar to the graph above, of when people set their alarm for.
+[here](https://phys.libretexts.org/Bookshelves/Waves_and_Acoustics/Sound_-_An_Interactive_eBook_\(Forinash_and_Christian\)/10%3A_Strings/10.01%3A_Driven_String_and_Resonance/10.1.01%3A_String_Resonance) you'll find that the graph looks weirdly similar to the graph above, of when people set their alarm for. Just like strings, people seem drawn to clean fractions of the hour (half past, quarter past, 10 past etc.)
 
 ## Conclusion
 
