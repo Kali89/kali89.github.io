@@ -12,7 +12,7 @@ impossible and impossibly cute four-year old.
 If you're wondering what kind of life-goals a newly minted four-year old has,
 then check this out: <!--more-->
 
-[A hand-written birthday list of a four year
+![A hand-written birthday list of a four year
 old](/assets/images/fourth_birthday_list.png)
 
 A list of the things she wants to do when she's four. For those who struggle
@@ -40,4 +40,4 @@ At the moment, she loves tracing out letters if we do the dots and is only confi
 
 Anyway, enough of that nonsense. I'm excited for the year ahead and to watch you achieve your goals for the year!
 
-[A beautifully handmade peppa pig cake](/assets/images/peppa_pig_cake.jpg)
+![A beautifully handmade peppa pig cake](/assets/images/peppa_pig_cake.jpg)
