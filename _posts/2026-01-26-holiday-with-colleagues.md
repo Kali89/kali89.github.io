@@ -37,7 +37,7 @@ And little tribes who all like/respect each other and can work together
 harmoniously and achieve greater than the sum of their parts and all of that
 jazz sounds like music to executive-ears.
 
-## Concentrated Meetups
+## Concentrated Meetups
 
 I've worked somewhat remotely for around 7 of the last 15 years and have done
 so in a bunch of different situations (only remote employee at a startup, one of a few
