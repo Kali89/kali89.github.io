@@ -41,6 +41,7 @@ There was probably only one comment that made me laugh because it skewered me
 so effectively: one saying that it's easy to write an article saying what's
 wrong but without proposing a solution. I agree - that's both exactly what I
 did, and the reason I did it was because I couldn't think of a good solution!
+I'll see if I can come up with an actual answer in the future.
 
 Fair play to that commentator. Fair play.
 
