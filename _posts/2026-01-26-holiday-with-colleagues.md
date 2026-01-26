@@ -5,7 +5,7 @@ date: 2026-01-26
 tags: [work]
 ---
 
-I just spent a week living in an AirBnb with 4 of my colleagues. We went to the
+I just spent a week living in an Airbnb with 4 of my colleagues. We went to the
 supermarket together, cooked breakfast together, visited museums, went out
 to the pub...all the things you (well, I) do on a holiday. But it was with 4
 people who fate (or, my employer) had thrown together. <!--more-->
@@ -15,7 +15,7 @@ people who fate (or, my employer) had thrown together. <!--more-->
 With the whole COVID-shift-to-remote thing, a bunch of companies (and,
 primarily, employees) discovered the benefits of remote work. However, they
 also discovered one of the drawbacks - the difficulty in building a coherent
-team culture. In bonding. In forming relationships with your team.
+team culture.
 
 Some enlightened companies are trying to have their cake and eat
 it - Spotify have "core weeks" where all employees are required to be in an
@@ -24,11 +24,11 @@ full RTO (return-to-office) or have office-based mandates, stating the number
 of days you have to be present in order to fulfill your
 "culture-and-team-building" requirements.
 
-### RTO Mandates
+### Why RTO is a Blunt Tool
 
 Now I want to be reasonable. Forcing people to sit near to each other day-on-day is clearly a way of
 achieving a coherent culture and team-building. Maybe you're somebody for whom that's not true but, if you look
-at schools and Universities and work and...well, everywhere...when you put a
+at schools and universities and work and...well, everywhere...when you put a
 bunch of people next to each other for long periods of time, they seem to be
 pretty good at creating little tribes.
 
@@ -36,7 +36,7 @@ And little tribes who all like/respect each other and can work together
 harmoniously and achieve greater than the sum of their parts and all of that
 jazz sounds like music to executive-ears.
 
-### Another Way
+### Concentrated Meetups
 
 I've worked somewhat remotely for around 7 of the last 15 years and have done
 so in a bunch of different situations (only remote employee at a startup, one of a few
@@ -52,7 +52,9 @@ a retro or doing whatever you have to do to look like you're working. And then,
 you get the benefit of spending time with other people and do all that lovely
 team-forming that you're really there to do.
 
-What if...well, what if you just did the best bit?
+What if...well, what if you just did the best bit? I think concentrated,
+social-heavy meetups build culture far more effectively than mandatory office
+days.
 
 ## Meetups/Time in Person
 
