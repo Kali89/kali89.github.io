@@ -25,7 +25,7 @@ full RTO (return-to-office) or have office-based mandates, stating the number
 of days you have to be present in order to fulfill your
 "culture-and-team-building" requirements.
 
-### Why RTO is a Blunt Tool
+## Why RTO is a Blunt Tool
 
 Now I want to be reasonable. Forcing people to sit near to each other day-on-day is clearly a way of
 achieving a coherent culture and team-building. Maybe you're somebody for whom that's not true but, if you look
@@ -37,7 +37,7 @@ And little tribes who all like/respect each other and can work together
 harmoniously and achieve greater than the sum of their parts and all of that
 jazz sounds like music to executive-ears.
 
-### Concentrated Meetups
+## Concentrated Meetups
 
 I've worked somewhat remotely for around 7 of the last 15 years and have done
 so in a bunch of different situations (only remote employee at a startup, one of a few
@@ -104,7 +104,7 @@ checklists...just smart people working out how best to live and work together.
 Arguments about company culture over starters, and cool card tricks during the
 planning sessions.
 
-### Downsides
+## Downsides
 
 There are downsides to the approach I'm espousing. It can make things difficult
 familially (I have three small children - my wife has to perform heroics while
