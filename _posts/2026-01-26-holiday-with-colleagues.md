@@ -5,10 +5,11 @@ date: 2026-01-26
 tags: [work]
 ---
 
-I just spent a week living in an Airbnb with 4 of my colleagues. We went to the
+I just spent a week living in an Airbnb with four other people. We went to the
 supermarket together, cooked breakfast together, visited museums, went out
-to the pub...all the things you (well, I) do on a holiday. But it was with 4
-people who fate (or, my employer) had thrown together. <!--more-->
+to the pub...all the things you (well, I) do on a holiday. But it wasn't my
+four closest friends. These were my colleagues - thrown together by fate, or,
+more precisely, my employer.<!--more-->
 
 ## Building Culture and Trust
 
@@ -52,7 +53,7 @@ a retro or doing whatever you have to do to look like you're working. And then,
 you get the benefit of spending time with other people and do all that lovely
 team-forming that you're really there to do.
 
-What if...well, what if you just did the best bit? I think concentrated,
+What if...well, what if you just did the best bit? Concentrated,
 social-heavy meetups build culture far more effectively than mandatory office
 days.
 
@@ -76,7 +77,7 @@ in each others pockets. I think each one of those weeks **comfortably** builds
 culture more effectively than the 'sit-next-to-people' osmosis style approach
 that appears to currently be favoured.
 
-## What a Week looks like
+## What a Week Looks Like
 
 You plan the week together - generally one person takes lead but they **must**
 be respectful of everybody else's circumstances. If somebody can't travel to a
@@ -131,4 +132,4 @@ But it's hard to build a culture when your employees never see each other and
 never get the chance to talk without an agenda.
 
 I went on holiday with my colleagues, and it was the best team-building I've
-done since I last went away on holiday with them.
+done since my last holiday with them.
