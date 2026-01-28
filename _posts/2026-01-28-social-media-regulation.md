@@ -17,17 +17,17 @@ started - how do we set about banning (or not) social media?
 
 I have absolutely **zero** interest in telling teenagers where or how they can talk to
 each other. Every generation of adults bemoans the
-conversations of their teenagers thinks their minds are being warped. Broad
+conversations of their teenagers and thinks their minds are being warped. Broad
 bans of social media are toxic because of exactly this. Teacher. Leave them kids alone.
 
 That means that I'm only going to be regulating ***algorithmic feeds***. I
-don't have evidence that they're more harmful that the combination of
+don't have evidence that they're more harmful than the combination of
 smartphone cameras and Instagram, or talking with your friends in an
 unregulated way...but they're the bit I'm most scared of so I'm starting there.
 
 I have **very little** interest in uniquely targeting teenagers with
 regulations until evidence says that they are uniquely likely to be harmed by
-social media. Therefore, any regulations that hit teenagers are going to have
+social media. Therefore, any regulations that ~~hit~~ protect teenagers are going to have
 to come with some bonus new regulation for adults. 
 
 I strongly believe that any approach must be:
@@ -35,7 +35,7 @@ I strongly believe that any approach must be:
 1. **Gradual** - I can't abide the thought of dropping a 16/18 year old with no
    experience of social media whatsoever into the bull pen that is a
 state-of-the-art algorithmic feed. That seems so obviously wrong as to be
-laughable. It's also the currently proposed approach.
+laughable. It's also the currently proposed approach where I live.
 2. **Practical** - I can't abide calls to "regulate the algorithms" without any
    degree of specificity. Think like you work at a tech company (I do) and make
 concrete suggestions that could actually be implemented.
@@ -45,7 +45,7 @@ Right, with that out of the way, let's begin with ~8 year olds.
 ## Young Children
 
 The simple answer would be to ban algorithmic feeds for young children, but
-that doesn't sound practical (is 'most popular' algorithmic?) or gradual (an outright ban never is). Let's start by defanging them a little bit.
+that doesn't sound practical (is 'most popular' algorithmic?) or gradual (an outright ban never is). Let's start by defanging the feeds a little.
 
 I state that for children under the age of 11, any 'feed' of content can
 only use geography, language, time and age as features. No personalisation. No more
@@ -57,7 +57,8 @@ apps, social feeds, Spotify's homepage...anywhere where an algorithm (of which
 'most popular' is one, 'most recent' is another) is determining which content to show a user.
 
 I dislike regulation that only applies to certain apps/surfaces/company sizes -
-are we trying to protect children or are we trying to hamstring incumbents? 
+are we trying to protect children or are we trying to hamstring incumbents?
+This is universally applicable.
 
 Note that I'm fine with 'per-surface' popularity or recency - you can show the most
 popular sport stories in the 'sport' subsection, and the most popular weather
@@ -66,9 +67,6 @@ is more interested in sport or weather and tailoring their homepage to reflect
 that. But you can work out what **all** 10 year olds are into and have their
 homepage reflect that.
 
-I continue to believe that messaging (whether through texts, WhatsApp,
-Messenger, TikTok etc.) should be unencumbered by specific legislation.
-
 ## Older Children
 
 Given how I've stated my opening gambit for younger children, and the
@@ -76,13 +74,13 @@ principles I've laid out, I think you can tell what I'm going to say for older
 children. 
 
 We're gradually going to allow more and more demographic features to be used.
-Self-reported gender (which, as any data scientist, is gold for
-recommendations), local geography, stated choice...ultimately we're introducing
+Self-reported gender (which, as any data scientist will tell you, is gold for
+recommendations), local geography, stated choice (self-selection of topics of
+interest)...ultimately we're introducing
 more and more features to allow for better and better recommendations in any
 content feed.
 
-As a child gets older, I'd like to make their recommendations better and
-better. Isn't that making their algorithmic feeds stickier and stickier,
+Isn't that making their algorithmic feeds stickier and stickier,
 potentially leading to more and more harm? Maybe.
 
 But remember - as soon as they hit $AGE_OF_CONSENT$ they're going to be hit with the
@@ -94,6 +92,11 @@ It might sound scary when I lay it out like this, but the alternative
 is...well, what? At some point we're going to expose people to the full force
 of state-of-the-art algorithmic feeds. The least we can do is let them build
 towards it gradually.
+
+I haven't specified which ages certain features become available. I can if you
+want, but really that's the kind of detail I'd expect to be put together in
+conjunction with tech companies with graphs of the extra recommendation power
+you get per demographic feature.
 
 ## For Everybody 
 
