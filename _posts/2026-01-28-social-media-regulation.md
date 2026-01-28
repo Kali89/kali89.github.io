@@ -151,8 +151,9 @@ generations didn't need to wrestle with) then we should do so in a targeted and
 purposeful way.
 
 This proposal requires social media companies to have some notion of the age of
-its users. There are serious privacy concerns that will come with this
-requirement.
+its users. There are **serious** privacy concerns that will come with this
+requirement. We are currently in the throes of bungling those privacy concerns
+in the UK.
 
 ## Conclusion
 
