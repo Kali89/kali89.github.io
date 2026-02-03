@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Social Media Regulation: A Proposal"
+title: "Social Media is Gambling: Let's treat it as such"
 date: 2026-01-28
 tags: [social media, psychology, politics]
 ---
