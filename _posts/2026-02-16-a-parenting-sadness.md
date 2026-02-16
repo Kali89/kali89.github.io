@@ -5,41 +5,43 @@ date: 2026-02-16
 tags: [parenting, kids]
 ---
 
-I think I've been very clear up till now, that parenting is drudgery, moments
+I've shared before that I think parenting is drudgery, moments
 of unassailable joy, challenge after challenge, and some degree of sadness.
-Thus far I've shared lots of the joy. Today, I'd like to share some of the sadness.<!--more-->
+Thus far, unsurprisingly (why wouldn't I want to focus there?) I've shared lots of the joy. Today, I'd like to share some of the sadness.<!--more-->
 
 ## Punishment
 
 The six-year-old boy is sometimes a handful, and I'm absolutely the 'harsh'
 parent who doles out more punishments than my wife. He was our first so we
-were learning on the job, and I didn't always know what the right level of
+were (and still are!) learning on the job, and I didn't always know what the right level of
 strictness was. There's lots of talk about 'gentle parenting', and there are
 many idealised accounts of how you *should* parent a lively young boy. 
 
 Honestly, I tried some of them but they weren't me, and I just don't think
 they're what my son needed. He needed firm boundaries, clear rules, and direct
-consequences. He's always been a boundary tester, and I think the kindest thing
+consequences. He's always been a boundary tester (arguing with a 2-year-old
+about what proportion of his body has to be on his cot bed to count him as
+being 'in' it was an experience I didn't know I could have), and I think the kindest thing
 to give him are clear boundaries so he knows what's what.
 
-I definitely overdid it in places - one of my least proud moments was putting
+I definitely overdid it in places - one of my most shameful moments was putting
 him on the 'naughty step' and telling him not to move. When I went back 5
-minutes later, he'd wet himself but hadn't thought he could leave to go to the
+minutes later, he'd wet himself, thinking that he couldn't leave to go to the
 toilet. Even typing it now years later feels horrible.
 
-But aside from the rare, horrible misjudgements like that, I think we've raised
-a well-behaved but still lively young boy who I'm proud of every day.
+Aside from the rare, horrible misjudgements like that, I'm proud of the job
+we've done and I think we've raised a well-behaved but still lively young boy who I'm proud of every day.
 
 ## Wrestling
 
 Every night, we have a *'song'* before he goes to sleep. I say song, but what
 started out as a song evolved into a freestyle song/rap ("Daisy the cow") and
 later evolved into a story ("Jim the Explorer"), and has now become a wrestling
-match. Now Jim spends his time fighting characters from How to Train Your
+match. Jim the Explorer spends his time fighting characters from How to Train Your
 Dragon, or entering Gladiators.
 
-One of my favourite bits of the day is when I get to wrestle my son at night -
-he trains to get stronger so he's better at wrestling. He asks for tips on how
+It's one of my favourite bits of the day and I'm pretty sure it's one of his
+too - he trains to get stronger so he's better at wrestling. He asks for tips on how
 to sweep my legs, or lifts his bed up as a way of doing a workout. He tells me
 he did 200 squats last night. ~~Sometimes~~ Almost always it gets rough, and occasionally one or both of us
 gets hurt.
