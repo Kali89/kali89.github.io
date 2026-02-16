@@ -24,13 +24,21 @@ about what proportion of his body has to be on his cot bed to count him as
 being 'in' it was an experience I didn't know I could have), and I think the kindest thing
 to give him are clear boundaries so he knows what's what.
 
+There's also a huge deal of social pressure when it comes to punishment -
+because there's no rule book and no clear 'right' or 'wrong'...the easiest
+place to benchmark yourself is through people you know. Would you have not
+allowed that kind of behaviour? Would you never shout at your child like that?
+It's incredibly hard to do anything *other* than whatever the parents who
+surround you do. I also believe it's incredibly damaging to change your
+parenting style based on who you're with at the time. Parental strictness is a
+minefield.
+
 I definitely overdid it in places - one of my most shameful moments was putting
 him on the 'naughty step' and telling him not to move. When I went back 5
 minutes later, he'd wet himself, thinking that he couldn't leave to go to the
 toilet. Even typing it now years later feels horrible.
 
-Aside from the rare, horrible misjudgements like that, I'm proud of the job
-we've done and I think we've raised a well-behaved but still lively young boy who I'm proud of every day.
+Aside from the rare, horrible misjudgements like that, I think we've raised a well-behaved but still lively young boy who I'm proud of every day.
 
 ## Wrestling
 
