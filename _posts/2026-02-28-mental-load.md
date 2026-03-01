@@ -10,8 +10,8 @@ I've been married for 7 years now, have three small children, and am perennially
 ## Typical Problems
 
 The typical online zeitgeist with respect to mental load is that women
-typically bear the brunt of the mental load. Men often complain "if she'd just
-tell me what to do, i'd be happy to do it," to which women reply "why do i have
+typically bear the brunt of it. Men often complain "if she'd just
+tell me what to do, I'd be happy to do it," to which women reply "why do I have
 to know what needs to be done, and tell you? Why do I have that job?"
 
 Of course I'm gender stereotyping and every relationship is unique (*"all happy
@@ -53,7 +53,34 @@ fall apart or are clearly too tight. My wife wants the kids to be well presented
 To put a 'business' slant on this, there are different definitions of success
 and in the absence of a shared definition, variable mental load emerges.
 
-### Tyranny of the Lazy
+## Accretion of Mental Load
+
+I want to give a very specific example about how mental load can accumulate.
+One day, my wife decided she'd like some overnight oats and, the next day when
+eating them, the children asked if they could taste them. They liked them and
+asked if they could have them for breakfast the next day. My wife made them the
+night before, and the kids enjoyed their overnight oats. This continued for a
+few days, until it became part of a routine.
+
+One day my wife didn't make them and the kids got upset the next day.
+
+Of course, what's actually happened is that we've accidentally added another
+'job' to our to-do list of an evening. Who is making the kids overnight oats?
+And who is making sure we've got all the ingredients required?
+
+If the kids would have asked me for overnight oats, I'd probably have said no. But they
+didn't - they asked their mum and now they expect overnight oats. My wife has
+the job, and has all the mental load associated with that. If you'd have asked
+her before picking up this routine "do you want to make overnight oats for the
+kids every night?" I think she'd have said no.
+
+But now we find ourselves in this position where she's picked up a job she
+didn't want, can reasonably ask why it's always her who has to do this...and
+I'm either going to have to upset the kids and tell them "no more", denying
+them a healthy and happy breakfast, or pick up another job that I neither wanted nor agreed to.
+
+
+## Tyranny of the Lazy
 
 Let's take another example - children's birthday parties. Roughly every other
 weekend we attend a child's birthday party and there's a card to be bought (and
@@ -61,7 +88,7 @@ written in), a present to be bought and wrapped and then party attendance. I
 don't mind admitting that my wife bears the brunt of this mental load.
 
 Again, I think it's because she cares more. If I buy a somewhat embarrassing present at
-the last minute from Amazon and put in in a gift bag rather than wrapping
+the last minute from Amazon and put it in a gift bag rather than wrapping
 it...no biggie. Whereas for my wife, that is a much bigger deal.
 
 Perhaps another way of looking at this is in an honest and straightforward
@@ -83,11 +110,12 @@ appropriately clothed (and my definition of appropriately clothed is the right
 one). Of course you have to manage the finances optimally (...).
 
 The point is, optimal means different things to different people. Maybe
-"healthy" is enough food such that they don't starve to death. Maybe "healthy"
+"healthy" is enough food such that they don't go to bed hungry. Maybe "healthy"
 requires home-cooked organic food at every meal and snacktime. Different people
 have different "obviously right" answers to each of the questions, and the
 person with the most demanding answer is going to be the one who ends up doing
 either the work, or at least the mental load work.
+
 
 
 ## Mental Load in Academia
