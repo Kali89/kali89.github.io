@@ -89,10 +89,10 @@ don't mind admitting that my wife bears the brunt of this mental load.
 
 Again, I think it's because she cares more. If I buy a somewhat embarrassing present at
 the last minute from Amazon and put it in a gift bag rather than wrapping
-it...no biggie. Whereas for my wife, that is a much bigger deal.
+it...no biggie. Whereas for my wife, yes biggie.
 
 Perhaps another way of looking at this is in an honest and straightforward
-answer to the question I posed earlier on: "Why do i have
+answer to the question I posed earlier on: "Why do I have
 to know what needs to be done, and tell you? Why do I have that job?"
 
 Because you're the one that wants the job doing and you're the one who wants to
