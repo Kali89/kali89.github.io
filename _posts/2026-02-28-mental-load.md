@@ -9,7 +9,7 @@ I've been married for 7 years now, have three small children, and am perennially
 
 ## Typical Problems
 
-The typical online zeitgeist with respect to mental load is that women
+The online zeitgeist with respect to mental load is that women
 typically bear the brunt of it. Men often complain "if she'd just
 tell me what to do, I'd be happy to do it," to which women reply "why do I have
 to know what needs to be done, and tell you? Why do I have that job?"
