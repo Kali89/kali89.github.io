@@ -91,5 +91,4 @@ I think we're in for a wild few years when it comes to education. Learning
 hard subjects ultimately requires struggling, and LLMs have made struggling
 obsolete. However, LLMs are advancing at such a rate that perhaps we no longer
 need large swathes of graduates who know how to solve hard problems by
-themselves. I don't know any of these things - I'm just along for the wild
-ride.
+themselves. I don't know any of these things - I'm just along for the ride.
