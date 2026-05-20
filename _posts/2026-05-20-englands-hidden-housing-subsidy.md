@@ -5,7 +5,7 @@ date: 2026-05-20
 tags: [data, politics]
 ---
 
-With all the fuss on (my) Twitter about social housing in London, I thought it'd be worth trying to understand things using public data. It turns out, England's social housing system delivers a **£21 billion annual subsidy** that I've never seen on a manifesto or in a spending review, and is overwhelmingly concentrated in the wealthiest part of the country. Here we're going to quantify that subsidy for every local authority in England.<!--more-->
+With all the fuss on (my) Twitter about social housing in London, I thought it'd be worth trying to understand things using public data. It turns out, England's social housing system delivers a **£21 billion annual subsidy** that I've never seen on a manifesto or in a spending review, and is overwhelmingly concentrated in the wealthiest part of the country. Here, we're going to quantify that subsidy for every local authority in England.<!--more-->
 
 TL;DR: to London.
 
