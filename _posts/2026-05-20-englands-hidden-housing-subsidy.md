@@ -21,7 +21,7 @@ through exclusive use of a public asset, rather than direct expenditure.
 Because of this, it doesn't appear in any budget. But it's a real cost all the
 same (suppression of returns on publicly held assets).
 
-Add that gap up across all 3.1 million social homes in England and the total is roughly £21 billion per year.
+Add that gap up across all 3.2 million social homes in England and the total is roughly £21 billion per year.
 
 ---
 
@@ -33,7 +33,7 @@ London receives **47% of the total implicit subsidy** while holding only **19% o
 
 The comparison that hits hardest:
 
-![The North has 2x as many social homes as London but gets 3.3x less money](/assets/images/housing-05-north-vs-london.png)
+![The North has 1.5x as many social homes as London but gets 3.3x less money](/assets/images/housing-05-north-vs-london.png)
 
 The North East, North West, and Yorkshire combined have **940,000 social homes** to London's **620,000**. They receive **£3 billion per year** in implicit subsidy. London receives **£9.7 billion**. More homes. 3.3 times less money.
 
