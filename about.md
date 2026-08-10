@@ -21,4 +21,4 @@ You can find me on:
 - [Twitter/X](https://x.com/matt_sharpe3)
 - [Corporate Looking Website](https://sharpeanalytics.com/)
 
-Or you can just email me [here](malito:matt@sharpeanalytics.com).
+Or you can just email me [here](mailto:matt@sharpeanalytics.com).

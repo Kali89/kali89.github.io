@@ -1,0 +1,6 @@
+#!/bin/sh
+# Block commits that would publish image metadata (GPS, EXIF, Motion Photo video).
+# Enabled via: git config core.hooksPath .githooks
+root=$(git rev-parse --show-toplevel) || exit 0
+[ -f "$root/tools/image_metadata.py" ] || exit 0
+exec python3 "$root/tools/image_metadata.py" check --staged
