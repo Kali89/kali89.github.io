@@ -7,7 +7,7 @@ tags: [tech, ai]
 
 It takes two incomes to buy a home, my kids can't play on the street any more,
 and I never get invited to [dinner
-parties](https://www.derekthompson.org/p/the-death-of-the-american-host). Each of these is an example of a
+parties](https://www.derekthompson.org/p/the-death-of-the-american-host).<!--more--> Each of these is an example of a
 _collective action_ failure. Put simply, individuals optimising for their best
 outcome leads to a collective failure: life becomes worse for everybody because
 we each do what is best for us individually.
