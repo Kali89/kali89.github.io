@@ -242,10 +242,6 @@
   align-items: start;
   margin: 1.5em 0;
 
-  @media (max-width: $breakpoint-sm) {
-    grid-template-columns: 1fr;
-  }
-
   figure {
     margin: 0;
   }
