@@ -14,7 +14,7 @@ However, it's clearly **a lot** of work and I don't think she'll be able to
 keep up with it.
 
 I'm mainly shutting myself away in the annexe and working a crazy amount of
-hard - lots of LLM-assisted data work, none of which really gives me the time
+hard---lots of LLM-assisted data work, none of which really gives me the time
 to gather.
 
 At some point, we'll find a new balance but as the activities continue
@@ -32,6 +32,6 @@ Chesterfield), or perfectly vanilla (maybe get a takeaway one night). For now,
 I haven't planned anything so I'm tending towards the latter but you never
 know.
 
-Let this serve as a reminder - the 49 days of the summer holidays started well
+Let this serve as a reminder---the 49 days of the summer holidays started well
 and frantically, and I'm impressed with my wife's ability to handle it. Long
 may it continue.

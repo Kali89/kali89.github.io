@@ -40,7 +40,7 @@ I haven't added more Sanderson since, but honestly...I really enjoyed these.
 ### The English and Their History
 
 I only dipped into this, as I sometimes do when I'm at a loss for what I should
-read next. I first read it on holiday years ago and loved it - very accessible,
+read next. I first read it on holiday years ago and loved it---very accessible,
 very detailed, and ultimately a great primer into the country I live in. I did
 9 days of this and clearly decided that I wanted to get back into a story after
 reaching the Battle of Hastings (or thereabouts)
@@ -52,7 +52,7 @@ never really clicked with, in the same way I had with the Watch series. It has
 one of the more beautiful moments in all of Pratchett (aside from the entirety
 of the Night Watch book): Death giving up some of his time for the little
 girl. I was floored the first time I read it and I was this time too: build up a
-currency and give it away - perfect storytelling.
+currency and give it away---perfect storytelling.
 
 ### 7 Habits of Highly Effective People
 
@@ -66,7 +66,7 @@ reflect on what I'm doing as a father and husband.
 
 I moved off of the Kindle for this one, as I bought this as a present for my
 wife when I was last in Oxford. As a child, I read (and loved) Pullman's Dark
-Materials and I've re-read the whole series at least two more times - as an
+Materials and I've re-read the whole series at least two more times---as an
 older teenager and as an adult. Each time I get more from them and I think
 they're just the absolute pinnacle of...well, maybe children's literature. But
 are they really children's literature? Whatever they are, they're magnificent.
@@ -79,7 +79,7 @@ before I left!
 
 ### A Fine Balance
 
-I've already written a review of this book [here](https://dogdogfish.com/blog/2026/06/03/a-fine-balance/) so I won't add much more here, other than the book is **long** - it took me a whole week on holiday, 49 sessions and more than 10 and a half hours.
+I've already written a review of this book [here](https://dogdogfish.com/blog/2026/06/03/a-fine-balance/) so I won't add much more here, other than the book is **long**---it took me a whole week on holiday, 49 sessions and more than 10 and a half hours.
 
 ### The Master and Margarita
 

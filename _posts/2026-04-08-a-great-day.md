@@ -10,7 +10,7 @@ Today (and in particular, this afternoon) I had a great day.<!--more-->
 ## Lazy Days at Home
 
 We spent the whole day at home and it was gloriously sunny (unseasonably so for
-early April - 20 degrees!). We put the stream on and the big two kids splashed
+early April---20 degrees!). We put the stream on and the big two kids splashed
 through it and spent the day on the trampoline, bothering builders, and racing
 up and down the garden.
 
@@ -29,7 +29,7 @@ around him and shouting.
 We finished the day by sticking the boys in the bath while the girl played with
 Lego, which appears to be her new discovery.
 
-Nothing special happened - no major milestones or big plans. Just pure,
+Nothing special happened---no major milestones or big plans. Just pure,
 unadulterated family time in the sunshine. You know the days that they say you
 should grab with both hands? The special days where nothing happens, except
 life? That was today.

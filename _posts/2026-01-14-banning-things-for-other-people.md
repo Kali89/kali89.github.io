@@ -23,9 +23,9 @@ Are you imagining that if children weren't spending hours each day on social
 media, they'd be out selling lemonade, climbing trees, and generally living in
 1950s America? I mean, minus the smoking, lead paint and the polio. And all
 those comics that are *"rotting their minds"*. Or maybe
-you're comparing it to the 1990s - where the average American child spent about
+you're comparing it to the 1990s---where the average American child spent about
 4 hours per day watching TV, with the violence, passivity, and developmental
-harm. The moral panics of the past - now recast as the virtuous alternatives of the future.
+harm. The moral panics of the past---now recast as the virtuous alternatives of the future.
 
 "Is social media harmful" isn't really a legitimate question unless you also
 consider the replacement activity. It's like studying the social impact of
@@ -45,7 +45,7 @@ convincing the results. And honestly, the majority of studies here don't focus o
 
 > Ah, but children have small and puny brains without impulse control. Us smart adults know how to regulate our time and control our impulses.
 
-Do we? *Gestures to world around me* - really? Yes children show poorer impulse
+Do we? *Gestures to world around me*---really? Yes children show poorer impulse
 control than adults. But aren't we all somewhat helpless in the face of the
 mighty tech companies?
 
@@ -54,19 +54,19 @@ mighty tech companies?
 Famously, teenagers before the internet were kind, caring, non-cliqueish and
 didn't obsess over social status. I'll grant you, children are less able to
 opt-out of the social zoo that is school. But is it really children who are the
-ones sharing "share for our boys in blue - my real friends will" or changing
+ones sharing "share for our boys in blue---my real friends will" or changing
 their profile picture to match the latest world event?
 
 > Ah, but brain development. Not like the panic we had over violent TV/video games. Children's brains are still developing and we don't know whether social media is fundamentally disrupting children's development.
 
-I agree - we don't know. Brain development continues up until around 25 or so,
+I agree---we don't know. Brain development continues up until around 25 or so,
 and so it's possible that social media does cause longer-term problems with
 brain development. Possible. Not proved. It's possible social media causes
 long-term cognitive decline in adults. Possible. Not proved.
 
 So why do we propose banning social media for children?
 
-## Do something - but not to voters
+## Do something---but not to voters
 
 Well, firstly, there's precedent. 
 
@@ -84,7 +84,7 @@ child's gambling ban, we **heavily** regulate the gambling industry for adults.
 Children's social media bans don't appear to come with similar adult regulatory
 scrutiny.
 
-We also do the same with junk food and packaging - most harm caused by health issues
+We also do the same with junk food and packaging---most harm caused by health issues
 pertaining to junk food consumption come from adults. Do we believe adults
 aren't susceptible to marketing? If so, it's a strange global economy we've got
 going on.
@@ -116,12 +116,12 @@ So when somebody says "regulate it" I want to know **who** is regulating
 **what** and **what happens** when the platforms don't comply? 
 
 "Regulate it" is the European version of "somebody somewhere please do
-something" - a cry into the void for help.
+something"---a cry into the void for help.
 
 ## Conclusion
 
 It's easy to ban something for somebody else, or something that you don't use (in the same way as it's easy to
-tax *other people* - the rich, bankers, benefits scroungers, energy
+tax *other people*---the rich, bankers, benefits scroungers, energy
 executives) but that doesn't make it right. 
 
 Adults have **always** been uncomfortable with how "the youth" spend their time. From young women being "corrupted" by novels in the 1700s to children in the 1950s having their brains rotted by comic books, the wanton ways of the "youth of today" have always been a thorn in the side of their elders.

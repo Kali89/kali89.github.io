@@ -57,7 +57,7 @@ clocks to wake up. I'm not including those people that rise to Grieg's Morning
 Mood while the sun bathes them majestically, or with a sharp dig of a small
 child's foot accompanied by the joyful cry of "morning time!" (this is me)
 
-I'm also not technically saying that this is when they get up - maybe they
+I'm also not technically saying that this is when they get up---maybe they
 snooze (I can see that in the data), or maybe they're just idly browsing the
 clock app at 6am every day (don't we all?). But realistically, some (probably
 large) proportion of Americans use their phone alarm to wake them, and this is
@@ -69,9 +69,9 @@ Why do I say people are oscillators, then? Well I'm harking back to my old life
 as a guitar teacher and physicist. When you subdivide a guitar string in two
 (hover over fret 12) and pluck the string, you get a beautiful bell-like sound that we call a
 "natural harmonic" (you can get artificial harmonics by 'pinching' the string
-to artificially shorten it - best heard at about 3:08 in Hotel California).
+to artificially shorten it---best heard at about 3:08 in Hotel California).
 This is because you form a standing wave on the string. However, if you
-subdivide the string into 3 (fret 7) you also create a standing wave - it's
+subdivide the string into 3 (fret 7) you also create a standing wave---it's
 less loud and a different note, but it's the same idea. Similarly, any integer
 division of the string leads to standing waves of varying frequencies (and thus
 note) and magnitude (and thus volume). If you're after a song that uses these

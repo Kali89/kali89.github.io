@@ -27,7 +27,7 @@ Now there's all kinds of philosophical musings here on how you value people who
 have never been born, especially when compared to those who already exist. Maybe you think that only existing people count
 morally, and so 57 saved lives outweighs 8,000 people who were never born.
 8,000 people who never experienced the magic of life, and who never enriched
-the lives of others. While that's an interesting argument to have - it's not what I'm really here for. Personally, I think an unborn person is worth less than a born one, and probably quite substantially less. But not nothing. Anyway, the point is, even if we consider **mandatory car seats** versus **not mandatory car seats**...I think there's a chance you could argue pretty well for **not** mandatory car seats.
+the lives of others. While that's an interesting argument to have---it's not what I'm really here for. Personally, I think an unborn person is worth less than a born one, and probably quite substantially less. But not nothing. Anyway, the point is, even if we consider **mandatory car seats** versus **not mandatory car seats**...I think there's a chance you could argue pretty well for **not** mandatory car seats.
 
 ## Car Seat Anxiety
 
@@ -75,7 +75,7 @@ boring for the child? Sure. Does it exclude them from the communal experience of
 22 children (aged 0-15) died as car passengers in Great Britain in 2024. I
 don't have specific stats on that age-based distribution so let's assume linear
 and say around 11 children aged 0-7 died in 2024. Around 2,900 children aged
-0-7 died in the same period of any cause - but around 2,300 of them were under
+0-7 died in the same period of any cause---but around 2,300 of them were under
 1, dying primarily of birth complications and defects.
 
 In short, the risk of a child dying in a car crash in **miniscule**. Even
@@ -138,6 +138,6 @@ pounds over a child's life in order to eke out basically negligble gains in safe
 I expect it of the car seat industry: their job is to build and sell the safest
 possible car seats. Parents, without training and blinded by love, can't be
 expected to argue against the rising tides of safetyism. But I think public
-health bodies should know better - advice is a dangerous thing, and a public
+health bodies should know better---advice is a dangerous thing, and a public
 health body should consider **holistic** health before recommending
 something

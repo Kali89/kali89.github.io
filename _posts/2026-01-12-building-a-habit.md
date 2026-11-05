@@ -12,7 +12,7 @@ tell you what I know about building habits. <!--more-->I'm not going to cite all
 because I don't have time<sup>\*</sup>. If you want to read a habit review, go and find one.
 If you want "source: trust me, bro"...you're in luck.
 
-I'm also only going to be talking about **making** habits - not breaking them.
+I'm also only going to be talking about **making** habits---not breaking them.
 To be honest, to do that you've just got to think of things in reverse.
 I'll probably do a separate post on that at some point, but for now, let's think
 about my new year's resolution.
@@ -25,18 +25,18 @@ a caveman.
 
 I'll not cover the diet bit, which I'm led to believe is actually how you go
 about losing weight. Of course, everything I share should also work for
-building dietary habits, learning habits, smoking habits - I'm just sharing the
+building dietary habits, learning habits, smoking habits---I'm just sharing the
 toolkit. It's up to you what you do with it.
 
-Instead, we're going to be focussing on how to build an exercise habit - let's
+Instead, we're going to be focussing on how to build an exercise habit---let's
 say "going to the gym".
 
 ## Going to the Gym
 
-A habit is a learned automatic response to a stimulus - you know how you
+A habit is a learned automatic response to a stimulus---you know how you
 automatically put your seatbelt on when you get in your car, or brush your
 teeth before you go to bed? You notice how each time you don't weigh up the
-pros and cons of doing so - it just feels natural. Like "what you do". Great.
+pros and cons of doing so---it just feels natural. Like "what you do". Great.
 You know what a habit is. How do we make going to the gym "habitual"?
 
 ### Reduce Complexity
@@ -76,7 +76,7 @@ Introducing Mr Context.
 "I aim to go to the gym twice a week" is bad. Too vague. **When** specifically
 are you going to go?
 
-*"Monday and Wednesday after work"* is good - but be careful. How often does
+*"Monday and Wednesday after work"* is good---but be careful. How often does
 work run late? Is there a time at which you'd decide it's too late to go to the
 gym? If your train is cancelled will you still go? If big Jim announces he's going
 for drinks, what then?
@@ -99,7 +99,7 @@ on a case-by-case basis" isn't conducive to habit formation.
 
 ### Do it. Lots.
 
-This is then the grind - **behavioural frequency**. 
+This is then the grind---**behavioural frequency**. 
 
 It'll not surprise you to learn that habits aren't built overnight. You have to
 do the same thing in the same context again and again. Research isn't really
@@ -120,7 +120,7 @@ One of the ways you can help build a habit is through **rewards**. Specifically,
 when you successfully pair a behaviour with a context, you'd like to
 immediately signal to your brain that this was a **good choice**. 
 
-Alcohol drinking, gambling and smoking are great at this - you feel stressed,
+Alcohol drinking, gambling and smoking are great at this---you feel stressed,
 you smoke a cigarette, you get flooded with lovely lovely nicotine. Your brain
 starts to realise it can cut out the middle-man (conscious thought) and just
 says "stressed? Pick up that cigarette. No need to involve any rationality."
@@ -131,13 +131,13 @@ lines. Maybe swipe about on TikTok a bit and get the dopamine hit that way? Data
 
 ### The Result
 
-A habit is a legit real thing - a neural pathway in the brain that cuts out the
+A habit is a legit real thing---a neural pathway in the brain that cuts out the
 need for conscious thought and instead turns you into a simple machine that
 takes an input (a stimulus) and returns an output (a behaviour). You can build
 them with motivation and work. If you already have motivation and
 the ability to do work, why build a habit? Think of
 a habit as an investment into your cognitive future. You're going to have to invest time and
-effort now either way. I'm hoping that by reading this, you'll be a little better positioned to see those efforts offer longer-term benefits - to help build the habits that you want to.
+effort now either way. I'm hoping that by reading this, you'll be a little better positioned to see those efforts offer longer-term benefits---to help build the habits that you want to.
 
 And maybe get to the gym a little bit more, you fat bastard.
 

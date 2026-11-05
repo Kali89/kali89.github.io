@@ -5,10 +5,8 @@ date: 2026-01-06
 tags: [data science, dashboards]
 ---
 
-For years and years I've been referencing a particularly excellent blog post -
-[The laws of shitty
-dashboards](https://www.bears-repeating.com/the-laws-of-shitty-dashboards) -
-and I've finally decided to write something myself about why dashboards are
+For years and years I've been referencing a particularly excellent blog post---[The laws of shitty
+dashboards](https://www.bears-repeating.com/the-laws-of-shitty-dashboards)---and I've finally decided to write something myself about why dashboards are
 bad, and why you should feel bad about either asking for them, or, God forbid,
 actually making them.<!--more-->
 
@@ -38,7 +36,7 @@ But it's not entirely clear who you're building it for. Is it for the
 executive? They don't need it, of course. They're already data-driven. So it
 must be for that executives 'people'. Except. Well, except they didn't ask for
 it and probably don't really want it. Are you building it for you? You
-certainly don't want it - surely anything would be preferable to building
+certainly don't want it---surely anything would be preferable to building
 something nobody has any intention of looking at?
 
 But alas, senior executive has said they want a dashboard and so senior
@@ -80,7 +78,7 @@ this time. Other options you should consider first include:
    every day/week for a long period of time.
 2. Sharing the SQL snippet and getting them set up with access. Teach a man to
    fish and all that. Maybe they're too senior for this (though you'd be
-   surprised - an exec who can SQL is pretty cool), or maybe your
+   surprised---an exec who can SQL is pretty cool), or maybe your
    infrastructure is too locked down or whatever...but if you can, then you
    probably should.
 3. A report that outputs only to you. To clarify, I mean that you set up a
@@ -99,14 +97,14 @@ pretty rare.
 
 ### I want an overview/diagnostic
 
-Everybody wants a command centre - an overview of the health of their little
+Everybody wants a command centre---an overview of the health of their little
 (or big) ecosystem. I need metrics and I need trend lines so I can see things
 go up and go down and then say "power failing in quadrant C, what are we doing
 about this?" and sound like a starship commander.
 
 Value++.
 
-OK - slightly less cynically, of course you want an overview of the health of
+OK---slightly less cynically, of course you want an overview of the health of
 your business, and it's nice to have graphical representations of that. What I
 really want to push you on is this: 
 
@@ -117,26 +115,24 @@ Maybe you've got some answers. Good for you. Now for the trickier part.
 
 **Could you have arrived at that decision without the dashboard?**
 
-There are a plethora of **bad** decisions taken after looking at dashboards -
-any time you see the slightest variation and panic and set off a chain of
+There are a plethora of **bad** decisions taken after looking at dashboards---any time you see the slightest variation and panic and set off a chain of
 work/changes based on random fluctuations and pat yourself on the back at being
 so quick to respond...well, those are your bad decisions.
 
-There are some **good** decisions that are taken after looking at dashboards -
-any time you see a gradually unfolding trend and run an initiative/roll out a
+There are some **good** decisions that are taken after looking at dashboards---any time you see a gradually unfolding trend and run an initiative/roll out a
 fix that ultimately arrests that trend (or enhances it or whatever). However,
 could you have done those things without a dashboard? I think yes.
 
 To me, a dashboard shows a lack of precise thinking. *What* do we care about?
 *How* do we expect it to move? And then is it moving in that way? These are
 surgical questions that have specific answers. Maybe your command-centre
-dashboard is exactly that - a well curated list of specific questions that are
+dashboard is exactly that---a well curated list of specific questions that are
 well answered. More likely though, it's an over-large collection of
 potentially relevant metrics that let you use your story-telling powers to come
 up with '*causal*' explanations.
 
 Not to delve too deep psychologically, but Daniel Kahneman's work positions
-people as the ultimate story-tellers - give us a collection of facts and we'll
+people as the ultimate story-tellers---give us a collection of facts and we'll
 come up with a story to explain why that happened. Give us the opposite set of
 facts and we'll come up with an equally plausible story. Then we latch onto the
 story and forget the facts that we used to construct it. How is that relevant
@@ -169,14 +165,14 @@ good data presentation. We need the lines to move a bit, but not too much. If
 the lines don't move at all (we use yearly numbers or pick stable quantities)
 then you don't like the dashboards because they don't give you that sweet sweet
 dopamine. If they move too much then you can't tell *what's happening* (though
-of course, that is exactly what's happening) - you can't build a coherent story
+of course, that is exactly what's happening)---you can't build a coherent story
 about the data. So muggins over here (me) says "Let's use weekly/monthly"...not
 because that's necessarily the right granularity over which to evaluate the
 data...but because that's what'll keep you coming back.
 
 ### I need to know if something broke
 
-Probably an engineer or a marketer - somebody who has something that is always
+Probably an engineer or a marketer---somebody who has something that is always
 on and is expected to keep running and not see any anomalous behaviour. They
 need to know how many requests their service is getting, or what the latency is
 of a certain process, or what they're spending on TikTok in Namibia. They point
@@ -196,7 +192,7 @@ detection, and I don't necessarily think that they're wrong. Anomaly detection
 systems are hard to build and balancing false positives and false negatives is
 more an art than a science.
 
-My advice to data scientists - sit with the stakeholder and the graph and ask
+My advice to data scientists---sit with the stakeholder and the graph and ask
 them "which of these are anomalies that you'd like to have picked up and which
 were just normal expected behaviour?" If they're good engineers/marketers who
 know their systems, I'd hope they'd be able to tell you. I also hope they'd be
@@ -235,7 +231,7 @@ business line is doing against another over time? Great, here's a graph. You
 want to know tomorrow too? Well it's not likely to have changed that much. You
 want to know next week? Great, here's another graph.
 
-Doesn't sound scalable? Do things that don't scale isn't just advice for trendy start-ups - it's advice
+Doesn't sound scalable? Do things that don't scale isn't just advice for trendy start-ups---it's advice
 for building any kind of product. Make yourself integral to the processes that
 *might* require a dashboard and I think you'll be surprised at how rarely a
 dashboard is the answer.
@@ -243,7 +239,7 @@ dashboard is the answer.
 ### Isn't that pretty obstructionist?
 
 I prefer the term 'customer-focussed'. A dashboard is a product and rule number
-one of building products is "speak to the customer - understand what their
+one of building products is "speak to the customer---understand what their
 problem is, and solve it."
 
 Building the first thing the customer asks for isn't building good products. If
@@ -251,7 +247,7 @@ the first thing the customer asks for is a dashboard, your job is to find out
 what their problem is and to solve it in the most efficient way you possibly
 can.
 
-I generally view data people as decision support - our job is to help the
+I generally view data people as decision support---our job is to help the
 company make the best decisions possible. It's not obstructionist to realise
 when people are asking for tools that will make their decisions worse. It's not
 obstructionist to protect your own time, not working on a product that has no
@@ -259,5 +255,5 @@ chance of helping the company. At certain levels, it's your job to help steer
 the bad ~~dashboard~~ product into a slightly better one. At certain levels, it's your job
 not to build the bad ~~dashboard~~ product in the first place.
 
-Don't be part of the problem - be part of the solution. Say no to dashboards
+Don't be part of the problem---be part of the solution. Say no to dashboards
 today.

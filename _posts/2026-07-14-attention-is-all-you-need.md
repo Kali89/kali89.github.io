@@ -5,7 +5,7 @@ date: 2026-07-13
 tags: [psychology, tech]
 ---
 
-No - not _that_ one. One thing I think the eruption of LLM-assisted development
+No---not _that_ one. One thing I think the eruption of LLM-assisted development
 has done is make it painfully clear that **human attention** is the real
 currency that matters, and it isn't becoming more abundant.<!--more-->
 
@@ -33,7 +33,7 @@ Of course, the answer is **no**. I don't want to check out your FIRE calculator.
 Why would I? It's trivial to build my own and mine is tailored to me and
 infinitely extensible.
 
-The bar has moved - I don't know that it was ever true that you could "build
+The bar has moved---I don't know that it was ever true that you could "build
 it, and they will come" but it's less true now than it ever has been. The
 barrier to "build it" has been falling and LLMs have dropped the bar further
 still.
@@ -50,7 +50,7 @@ Netflix. TikTok. Youtube. More than a decade ago, the massive tech companies
 were learning everything they could about how to get and hold attention online.
 Some of what they learned has made its way into public consciousness: infinite
 scroll, subtitled short video, feedback mechanisms, notifications. You can get
-better at extracting attention - LLMs will help you build a growth plan,
+better at extracting attention---LLMs will help you build a growth plan,
 content, SEO, marketing copy...but they'll help the other guy do exactly the
 same. A zero sum game where all parties have access to the same tools only
 helps the maker of those tools.

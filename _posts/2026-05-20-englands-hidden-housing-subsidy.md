@@ -9,21 +9,17 @@ With all the fuss on (my) Twitter about social housing in London, I thought it'd
 
 TL;DR: to London.
 
----
-
 ## The mechanism
 
 I'm going to argue that social housing (and social rents) allow people to live
 in a location at below market rate. The gap between what a tenant *would* pay
 on the open market and what they *actually do* pay is a Governmentally funded
-economic transfer - it's basically the same as housing benefit payment but
+economic transfer---it's basically the same as housing benefit payment but
 through exclusive use of a public asset, rather than direct expenditure.
 Because of this, it doesn't appear in any budget. But it's a real cost all the
 same (suppression of returns on publicly held assets).
 
 Add that gap up across all 3.2 million social homes in England and the total is roughly £21 billion per year.
-
----
 
 ## Where it goes
 
@@ -37,8 +33,6 @@ The comparison that hits hardest:
 
 The North East, North West, and Yorkshire combined have **940,000 social homes** to London's **620,000**. They receive **£3 billion per year** in implicit subsidy. London receives **£9.7 billion**. More homes. 3.3 times less money.
 
----
-
 ## The 44:1 lottery
 
 Every local authority in England operates under the same national policy and the same formula. The subsidy each tenant receives depends entirely on where they live.
@@ -51,8 +45,6 @@ Put simply, housing a person in need in Kensington & Chelsea costs the
 Government 44 times more than it would cost to house them in Redcar &
 Cleveland. Whether that's good value for money is a question that warrants an
 open public conversation.
-
----
 
 ## Why it never corrects itself
 
@@ -70,8 +62,6 @@ At least new investment is surely seeking to fix this disparity? Right? Right?
 
 Over the last 15 years, London received **2.4 times more government-funded Social Rent completions per person** than the North East. In 2017, the North East received zero. London's advantage is partly structural: the Greater London Authority runs a dedicated Mayor's Housing Programme with housing investment powers that no Northern region has any equivalent of.
 
----
-
 ## The employer angle
 
 An obvious argument in favour of this London housing subsidy is that _"service
@@ -84,8 +74,6 @@ However, if workers in central London can live at below-market rents because the
 ![Equivalent annual gross wage saving for employers by region](/assets/images/housing-03-employer-subsidy.png)
 
 The equivalent annual gross wage saving to London employers is estimated at **£13.5 billion per year**. If this were an explicit Treasury grant to London businesses, the political scrutiny would be intense. It operates invisibly because it runs through the housing market.
-
----
 
 ## Conclusion
 
@@ -100,8 +88,6 @@ in acknowledging and quantifying the problem. Taxpayers have a right to know
 how their money is being spent, and maintaining a stock of housing in prime
 residential areas when that money could buy substantially more housing
 elsewhere is a political choice that many may not agree with.
-
----
 
 ## Data and methodology
 

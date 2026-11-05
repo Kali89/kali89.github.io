@@ -35,15 +35,14 @@ spit-and-sawdust, heavy weights clanking, no frills kind of gym. Very little in
 the way of perfect Instagram shots. A fair number of big scary looking men who
 could probably crush you.
 
-But it's not just them (though there are a lot of them) - there's elderly
+But it's not just them (though there are a lot of them)---there's elderly
 people trying to build muscle mass or keep their heart going, fat people at the
 start of a journey, teenagers just out of school looking to build their body,
-and...well, pretty much all types of person. All of them united by one thing -
-they all want to improve their body.
+and...well, pretty much all types of person. All of them united by one thing---they all want to improve their body.
 
 ## Libraries
 
-I think of a University library in much the same way - everybody is reading
+I think of a University library in much the same way---everybody is reading
 their own thing, and everybody has their own reasons. Sure, there are exams
 that people want to pass but that's really just the first order reason why
 people are there. Some people love their subject and just want to learn more
@@ -55,14 +54,13 @@ muscle groups and approaches, and just as many different motivations. Maybe
 you're trying to impress somebody by looking better, or improve your mental health, or extend
 your life, or train for a specific event.
 
-I think there's an (often silent) camaraderie that comes with gyms and libraries
-- though our motivations and methods might be different, we're all ultimately
+I think there's an (often silent) camaraderie that comes with gyms and libraries---though our motivations and methods might be different, we're all ultimately
   trying to achieve similar things together. Perfect strangers sharing
 facilities, taking their own approach to similar goals.
 
 ## Community
 
-I could (and maybe still will) invest in a home gym - the drive to the gym is
+I could (and maybe still will) invest in a home gym---the drive to the gym is
 friction that I think makes it less likely that I'll stick with my exercise
 plans (see my previous post on
 [habits](https://dogdogfish.com/blog/2026/01/12/building-a-habit/)). However, there's something about the
@@ -73,11 +71,11 @@ again.
 I get motivation from seeing people who are stronger and better than me (most
 people), both for the exercises that they're doing but also for the guide: this
 could be me. I could do that/look like that. But I probably get more motivation
-from those who are weaker than me - that's what I used to be like at the start
+from those who are weaker than me---that's what I used to be like at the start
 of my journey. Look how far I've come.
 
 I don't think there's an academic version of that. Is it motivating to see a
-Nobel prize winner studying in a library - reading a textbook and taking notes?
+Nobel prize winner studying in a library---reading a textbook and taking notes?
 Or a first-year undergrad reading a textbook that you struggled through for a
 year? I don't think so. 
 
@@ -85,7 +83,7 @@ year? I don't think so.
 
 Why don't I find it intellectually motivating to see others working in a
 library? I find a camraderie, and find it much easier to work when others are
-working. But it doesn't matter who it is doing the work - whereas I think in a
+working. But it doesn't matter who it is doing the work---whereas I think in a
 gym it does.
 
 I suspect the reason is the lack of clarity on intellectual prowess. When I see
@@ -109,13 +107,13 @@ library memberships.
 
 ## Conclusion
 
-No real grand thesis here - I've started going to the gym and I'm much weaker
-than I was 6 months ago when I'd been going continuously for 6 - 7 months.
+No real grand thesis here---I've started going to the gym and I'm much weaker
+than I was 6 months ago when I'd been going continuously for 6--7 months.
 It'll be a long road back to where I was, but hopefully it'll take me less
-than 6 - 7 months, and by the time I finish my parental leave (21 weeks left)
+than 6--7 months, and by the time I finish my parental leave (21 weeks left)
 I'll be surpassing where I was.
 
-Even if I do, I'll still not be the strongest person in the gym - or even as
+Even if I do, I'll still not be the strongest person in the gym---or even as
 strong as I was when I was 22. But that's not the point. I'll be a better
 version of me, and whether you're hunched over in a library, or hunched over a
 weighted row, that's all you're really doing. Making a better version of

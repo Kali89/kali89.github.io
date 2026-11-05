@@ -7,7 +7,7 @@ tags: [parenting, philosophy]
 
 Like I'm sure most parents do, I spent a lot of time thinking about how much I
 owe my children and how to fulfill my parental duties. Fortunately, I'm not
-quite at a time yet where I have to worry more about the other direction - how
+quite at a time yet where I have to worry more about the other direction---how
 much I owe my parents and how to fulfill my duties as a child.<!--more-->
 
 While my children are still young, I'd like to consider what I think they owe
@@ -16,14 +16,14 @@ more frail.
 
 ## Does Effort Create Obligation?
 
-There's no denying that I'm putting a huge amount of effort into my children.  
+There's no denying that I'm putting a huge amount of effort into my children.
 I'm not moving house, area, job...anything, all because I'm trying to give them a grounded stable upbringing in a beautiful rural setting in a school they love.
 
 I'm also spending a huge deal of my time doing things I'd rather not do for
 them. Washing. Cleaning. Tidying. The jobs are endless, draining, and
 thankless.
 
-I don't want to sound like I'm complaining - I signed up for this and it comes
+I don't want to sound like I'm complaining---I signed up for this and it comes
 with so many upsides that I think it's worth it. But the reality is, I'm giving
 years and years of sacrifices, time and effort to these children.
 
@@ -32,7 +32,7 @@ elderly?
 
 ## A Matter of Choice
 
-No - I don't think so - and I believe it's because of choice.
+No---I don't think so---and I believe it's because of choice.
 
 I'm not giving my children a choice in the matter, and even if I did, I don't
 think they're in a position to accept or reject that choice. Can I say to my
@@ -47,9 +47,9 @@ and I don't believe that reciprocal rights are automatically created.
 Am I heartless then? In some cultures at least, there is an expectation that
 children will care for their parents in their old age. There are clear benefits that come with multi-generational living, and it's been the standard for thousands of years. However, as a person who has moved city and country around 10 times in the last 20 years, multi-generational living seems practically stifling.
  
-Moving from caring for children to also caring for parents sounds difficult - a
+Moving from caring for children to also caring for parents sounds difficult---a
 brief respite from caring snatched away. Caring for parents sounds much harder
-too - knowing that you're not building something entering life but managing a
+too---knowing that you're not building something entering life but managing a
 gradual decline. To be forced into that sounds horrible.
 
 I think a balance is in order. Would I be happy to see my children have to

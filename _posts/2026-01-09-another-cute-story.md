@@ -7,8 +7,8 @@ tags: [kids, parenting]
 
 A very brief story for today, but it's another cute one.
 
-My wife got an 'injury' form today at the nursery pick-up - our three year old
-girl had had a bump on the head. No biggie - it's the sort of thing that
+My wife got an 'injury' form today at the nursery pick-up---our three year old
+girl had had a bump on the head. No biggie---it's the sort of thing that
 happens fairly regularly.
 
 When she told us about it (eventually, after watching Peppa Pig) she said that

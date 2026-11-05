@@ -5,7 +5,7 @@ date: 2026-01-17
 tags: [meta]
 ---
 
-It finally happened - some people were mean about me on the internet. It was a
+It finally happened---some people were mean about me on the internet. It was a
 somewhat chastening, but ultimately kind of meh experience and I'll tell you
 about it. <!--more-->
 
@@ -14,7 +14,7 @@ my posts would *"go viral"* for a depressingly small value of "viral". I like
 to read/browse Hacker News and so I've been submitting my posts there. I had
 the notion that "success" for the year would be:
 
-1. Keeping on posting - I've no firm idea what this means exactly. I don't want
+1. Keeping on posting---I've no firm idea what this means exactly. I don't want
    to keep up posting every day, but at least once a week would be good.
 2. Get to the front page of Hacker News
 
@@ -35,11 +35,11 @@ mistakes.
 
 ## People being mean
 
-The [message thread](https://news.ycombinator.com/item?id=46631192) at the moment has 107 comments on it, and there's a really interesting mix. A lot of people are pointing out my obvious mistakes and the weakness of my arguments, but weirdly I'm not at all uncomfortable about that. I think people tend to misunderstand in a way that they want to - people who don't want to ban social media think I'm arguing that we should, people who do want to ban social media think I'm arguing we shouldn't. Maybe I should have made my argument clearer, but at least a few commenters seem to have found it. Some people thought I must be an LLM because the argument was so weak, or that I don't have enough domain expertise to have an opinion.
+The [message thread](https://news.ycombinator.com/item?id=46631192) at the moment has 107 comments on it, and there's a really interesting mix. A lot of people are pointing out my obvious mistakes and the weakness of my arguments, but weirdly I'm not at all uncomfortable about that. I think people tend to misunderstand in a way that they want to---people who don't want to ban social media think I'm arguing that we should, people who do want to ban social media think I'm arguing we shouldn't. Maybe I should have made my argument clearer, but at least a few commenters seem to have found it. Some people thought I must be an LLM because the argument was so weak, or that I don't have enough domain expertise to have an opinion.
 
 There was probably only one comment that made me laugh because it skewered me
 so effectively: one saying that it's easy to write an article saying what's
-wrong but without proposing a solution. I agree - that's both exactly what I
+wrong but without proposing a solution. I agree---that's both exactly what I
 did, and the reason I did it was because I couldn't think of a good solution!
 I'll see if I can come up with an actual answer in the future.
 

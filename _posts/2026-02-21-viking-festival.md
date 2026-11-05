@@ -8,7 +8,7 @@ tags: [life, parenting, kids]
 It's going to look like I spend a lot of my time doing events and supporting my
 children in their interests and things like that and I worry that I might be
 giving you the wrong impression. However, today, we took the park and ride into
-York and attended a battle for 5 - 12 year olds in honour of York's viking
+York and attended a battle for 5--12 year olds in honour of York's viking
 festival.<!--more-->
 
 ## Battle Mode
@@ -29,14 +29,14 @@ Cuddly. Warhammer.
 The day before, we were back from holiday and basically mooched around the
 house the whole day. There's nothing that brings me greater joy than a good
 mooch, with the children playing with each other (we played 'toilet tig' which
-I'd have called 'tiggy bump' or 'tiggy bop down' - though you apparently have
+I'd have called 'tiggy bump' or 'tiggy bop down'---though you apparently have
 to flush the toilet to free the contender) and generally ticking off life
 admin. Two loads of washing, a bunch of tidying up, and a happy family. Bliss.
 
 ## Injury
 
 I also managed to get to the gym, but I think I probably overdid it and have
-been skirting illness all day. No idea what it is - it's possibly
+been skirting illness all day. No idea what it is---it's possibly
 diverticulitis but that seems pretty unlikely. I have that, but I don't really
 see why that'd be exacerbated by gym. Maybe it isn't exacerbated by the gym,
 but by travelling (we drove back from Scotland), living unhealthily (we were in

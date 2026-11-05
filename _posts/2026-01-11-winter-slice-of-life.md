@@ -18,7 +18,7 @@ the morning, but it quickly disappeared given a day of heavy driving rain, and
 so we spent the day inside, tidying and playing board games and doing homework
 and colouring and having a fire. 
 
-That actually sounds pretty idyllic and maybe it was - it didn't feel like it
+That actually sounds pretty idyllic and maybe it was---it didn't feel like it
 at the time. It just felt like a normal day where we achieved some small
 things, but mostly we took up our time just with ordinary living.
 
@@ -31,11 +31,11 @@ bit, or go on a walk or just bathe (sometimes stew) in each other's company... I
 don't know. Maybe I'll regret not doing lots of plans and activities and things
 like that in the future.
 
-But maybe I'll be glad that I wallowed in my family - that I spent regular deep
+But maybe I'll be glad that I wallowed in my family---that I spent regular deep
 time with them.
 
 Maybe I shouldn't optimise so heavily for what I'll regret (or not) in the
-future - is a future version of me looking back at current me really a better
+future---is a future version of me looking back at current me really a better
 judge of what I should be doing? Or even worse, current me imagining future me
 looking back at me. 
 

@@ -15,7 +15,7 @@ wedding/funeral. It was great. Food, drink. Catching up.
 
 I used to be in bands with my cousins and we had a drum set and a guitar set
 up and got to have a little jam and that was so much fun. I couldn't play
-guitar any more (which is pretty upsetting) - my fingers remembered some of it,
+guitar any more (which is pretty upsetting)---my fingers remembered some of it,
 but if I had to actually _think_ about what I was playing, I was lost. My six
 year old was shocked and wanted to know how I knew how to play guitar and how I
 was so good...I didn't have the heart to explain to him that I'd just let

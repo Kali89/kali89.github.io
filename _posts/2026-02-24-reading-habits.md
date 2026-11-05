@@ -6,7 +6,7 @@ tags: [life, psychology]
 ---
 
 I finished a book last night, and it was a good one! ***The Final Empire*** by
-Brandon Sanderson - found via an Amazon deal (I'd never read any of his stuff
+Brandon Sanderson---found via an Amazon deal (I'd never read any of his stuff
 before, though I'd heard of him plenty).<!--more--> I managed to pick up the
 whole trilogy for 99p or something absurd like that, and I can't wait to get on
 with the next book in the series...
@@ -27,13 +27,13 @@ fun. I'm thinking of this now because I finished Les Miserables a week or two
 ago and found it a bit of a slog. I jumped straight into Wee Free Men and found
 that lovely and charming, and then onto Brandon Sanderson. Now because it's a
 trilogy, I'm probably just going to keep reading it. I'm not prescriptive about
-switching around - especially if I'm into something.
+switching around---especially if I'm into something.
 
 ## How to Build a Reading Habit
 
 Given my DPhil, I'm interested in the habit and how it formed and where it
 lives and all that jazz. I read something interesting last year on the way to
-build bright children - it was on some essay competition and it was somebody's
+build bright children---it was on some essay competition and it was somebody's
 experience with a wholly-online AI-driven (isn't everything?) school. It made a
 bunch of good arguments, but essentially the school sees fantastic results by
 paying students.
@@ -64,7 +64,7 @@ order to keep up their dream of being an ice dancer.
 Finally, as we become adult we become self-motivated: driven by aiming to be
 the best version of ourselves, and loving the craft for what it is.
 
-Now clearly, everything isn't quite so linear - there are plenty of adults who
+Now clearly, everything isn't quite so linear---there are plenty of adults who
 still desperately need validation from their peers or their parents (I'm not
 immune to this myself!), but viewed generally, I think this makes sense.
 
@@ -82,7 +82,7 @@ but it definitely helped me focus.
 
 ## Why I Read
 
-I no longer think about reading - I don't have to motivate myself to do so, I
+I no longer think about reading---I don't have to motivate myself to do so, I
 just do it. However, when I choose my books I tend to mix enjoyment with
 betterment. System 1 and System 2. I want to be entertained, but I also want to
 be the best possible version of myself. When I'm old, I want to be wise. Not

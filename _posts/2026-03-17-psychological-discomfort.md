@@ -17,8 +17,7 @@ more.<!--more-->
 One of the questions I opened my talk with yesterday was supposedly a simple
 one: *"How many times will you check your phone tomorrow?"*
 
-I asked the question because I was hoping to cause a little discomfort -
-asking the question of myself certainly makes me a little uncomfortable. A
+I asked the question because I was hoping to cause a little discomfort---asking the question of myself certainly makes me a little uncomfortable. A
 little nagged. *"Alright mum. God. Give me a break."* 
 
 The really interesting question is exactly **why** that simple question makes

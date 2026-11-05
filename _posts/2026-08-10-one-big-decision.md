@@ -15,7 +15,7 @@ paying annually (or once) should be one big decision. Except it isn't, is it?
 Paying monthly for something is one small decision followed by
 nothing...inaction.
 
-That's why businesses prefer subscriptions - because they turn initial interest
+That's why businesses prefer subscriptions---because they turn initial interest
 into regular money, rather than one-off money. Then they're banking on the fact
 that you don't want to re-evaluate all your subscriptions regularly, and the
 hassle of doing something (cancelling them) is more than the hassle of doing
@@ -27,6 +27,6 @@ the risk of you cancelling early on, but still get to stick you on a
 subscription and take your money next year unless you remember.
 
 The gap between monthly and annual pricing should be pretty informative in a
-well run business - letting you know about how much the company values
+well run business---letting you know about how much the company values
 immediate money and how wary they are of immediate churn, versus their ability
 to have customers stick around.

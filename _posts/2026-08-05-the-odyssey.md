@@ -16,7 +16,7 @@ that, it was probably Mamma Mia 2 in Stockholm, with a live singer and my wife,
 child.
 
 Now he's six, so I'm somewhat out of practice with the cinema. 
-I should fess up - I've never read the Odyssey. I've tried to read Ulysses at
+I should fess up---I've never read the Odyssey. I've tried to read Ulysses at
 least three times and failed. I didn't watch any trailers, or subscribe to any
 internet outrage. I went in blind.
 

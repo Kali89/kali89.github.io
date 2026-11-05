@@ -19,7 +19,7 @@ lucozade and hunger.
 One day I think I had about 600 calories total, and unsurprisingly, the weight
 loss is going great! The gym attendance, however...
 
-I think being old is a bit like this - just the gradual accumulation of
+I think being old is a bit like this---just the gradual accumulation of
 illnesses until one of them eventually kills you. Well, I have diverticular
 disease and while it's usually fine (but means I can only have one or two
 coffees a day), a flare-up pretty much knocks me out for at least a few days
@@ -47,8 +47,7 @@ pay for as many baby groups as you like.
 
 ## Mentoring
 
-I did a bit of data science mentoring too. It's something I quite like doing -
-it's fun to hear about problems in other domains and to try to add value. I
+I did a bit of data science mentoring too. It's something I quite like doing---it's fun to hear about problems in other domains and to try to add value. I
 feel vaguely like I did when I was on the board of an initiative a while ago.
 You hear a brief snippet of a problem and have to try to offer value. Board
 meetings were more frustrating because there's never enough time to dive deep
@@ -75,7 +74,7 @@ the realistic career-based competitors.
 
 I'm still achieving things and am happy with how parental leave is going, but
 this was a quiet week. Being ill sucks. I've not been to the gym. But I'm
-settling into the leave now - it feels natural. I'm not mentally at my job at
+settling into the leave now---it feels natural. I'm not mentally at my job at
 all, and I'm now fully present in the home. Bring on week 4, with a court
 visit and a trip to Leeds!
 

@@ -12,7 +12,7 @@ all-inclusive hotel.
 
 Initially, I thought that there's no way I'm ever going to 'get my value' (i.e.
 use more than I spend) on an all-inclusive. I'm small and my family are fairly
-small eaters (3 small children!) - neither my wife nor I are heavy drinkers.
+small eaters (3 small children!)---neither my wife nor I are heavy drinkers.
 All-in-all, we're presumably the kind of people who all-inclusives love.
 
 However, the nature of an all-inclusive fundamentally alters our consumption
@@ -33,7 +33,7 @@ We all ate very differently to how we do at home when we have to consider
 purchase price, preparation time, storage method, amount of mess made etc. etc.
 
 I think there's a real chance to run sensitivity experiments at all-inclusive
-resorts - with absolutely no price differential (say, at the buffet)...what do
+resorts---with absolutely no price differential (say, at the buffet)...what do
 we pick? And then there was the costed menu...most cocktails were included but
 some weren't. How much better do those cocktails that charge have to be, in
 order to make them attractive over their free counterparts?

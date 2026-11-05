@@ -77,7 +77,7 @@ teacher you can find in your village/town?
 
 Then there's plumbers, hairdressers, pub landlords, childcare...basically a
 raft of professions that rely upon proximity. But all of these are effected by
-globalisation too - I can watch plumbing videos and try things myself, cheap
+globalisation too---I can watch plumbing videos and try things myself, cheap
 beer from supermarkets makes pubs less attractive etc.
 
 There are some professions that benefit from local knowledge (solicitors,

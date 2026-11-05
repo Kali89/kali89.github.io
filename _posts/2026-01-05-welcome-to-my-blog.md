@@ -16,7 +16,7 @@ have a blog...
 
 ## Why Blog?
 
-1. I (approximately) work for WordPress.com - that means I have a vested
+1. I (approximately) work for WordPress.com---that means I have a vested
    interest in blogging and in understanding the kinds of things bloggers care about. 
 2. An increasing proportion of the 'content' I consume comes from personal
    blogs. All the cool people are sharing thoughts via their blogs. Shouldn't I be a cool person?
@@ -40,7 +40,7 @@ a quick thought. Sometimes I'll write an essay. Whatever.
 
 ## Morning Stroll
 
-Let me finish up with a picture of my morning - right now my baby only naps
+Let me finish up with a picture of my morning---right now my baby only naps
 while being wheeled around the village I live in, and so I'm catching an awful
 lot of very pretty sunrises. This was this mornings:
 

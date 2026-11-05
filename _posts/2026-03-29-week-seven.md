@@ -49,9 +49,9 @@ nice thought.
 ## Easter Concert
 
 Next week is the Easter holidays and so we had the obligatory Easter church
-service and concerts. Concert is a bit of a grandiose term - a
+service and concerts. Concert is a bit of a grandiose term---a
 full-to-the-rafter church and two or three songs, a poem and a story, split
-between 6 - 7 years of primary education. My eldest was the narrator of the
+between 6--7 years of primary education. My eldest was the narrator of the
 story: a lead role and one he carried out very well. The middle child got to
 sing a song and parade her artwork around the church. She was the only one
 wearing a coat, and is still about a head shorter than most of her class so was
@@ -66,7 +66,7 @@ upbringing nonetheless: a link to the history of the country.
 
 The eldest was delighted to get his yellow belt on Tuesday. I don't think it's
 a 'real' yellow belt (they've got grading set up such that most of them get a
-belt most times there's an assessment) - but just a way of letting them feel
+belt most times there's an assessment)---but just a way of letting them feel
 they're making progress. At some point, he'll have to decide whether or not he
 wants to take martial arts a little more seriously (and go up to 2 times per
 week) or to knock it off. I suspect he'll end up taking it more seriously, and

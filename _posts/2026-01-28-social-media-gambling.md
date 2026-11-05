@@ -5,13 +5,12 @@ date: 2026-01-28
 tags: [social media, psychology, politics]
 ---
 
-Fine - you drove me to it. Last time I posted about this I hit the number 1
-spot on Hacker News and was (rightly) skewered for not providing a solution -
-just listing a bunch of problems. This time...I have answers. <!--more-->
+Fine---you drove me to it. Last time I posted about this I hit the number 1
+spot on Hacker News and was (rightly) skewered for not providing a solution---just listing a bunch of problems. This time...I have answers. <!--more-->
 
 Before I get onto them, I'd like to thank my colleagues with whom I holidayed
 (see my previous post) and ultimately sharpened these ideas. So, let's get
-started - how do we set about banning (or not) social media?
+started---how do we set about banning (or not) social media?
 
 ## Guiding Principles
 
@@ -32,11 +31,11 @@ to come with some bonus new regulation for adults.
 
 I strongly believe that any approach must be:
 
-1. **Gradual** - I can't abide the thought of dropping a 16/18 year old with no
+1. **Gradual**---I can't abide the thought of dropping a 16/18 year old with no
    experience of social media whatsoever into the bull pen that is a
 state-of-the-art algorithmic feed. That seems so obviously wrong as to be
 laughable. It's also the currently proposed approach where I live.
-2. **Practical** - I can't abide calls to "regulate the algorithms" without any
+2. **Practical**---I can't abide calls to "regulate the algorithms" without any
    degree of specificity. Think like you work at a tech company (I do) and make
 concrete suggestions that could actually be implemented.
 
@@ -56,11 +55,10 @@ What constitutes an algorithmic feed? Any content chosen to be displayed. News
 apps, social feeds, Spotify's homepage...anywhere where an algorithm (of which
 'most popular' is one, 'most recent' is another) is determining which content to show a user.
 
-I dislike regulation that only applies to certain apps/surfaces/company sizes -
-are we trying to protect children or are we trying to hamstring incumbents?
+I dislike regulation that only applies to certain apps/surfaces/company sizes---are we trying to protect children or are we trying to hamstring incumbents?
 This is universally applicable.
 
-Note that I'm fine with 'per-surface' popularity or recency - you can show the most
+Note that I'm fine with 'per-surface' popularity or recency---you can show the most
 popular sport stories in the 'sport' subsection, and the most popular weather
 stories in the 'weather' subsection. But no working out whether a specific 10 year old
 is more interested in sport or weather and tailoring their homepage to reflect
@@ -83,7 +81,7 @@ content feed.
 Isn't that making their algorithmic feeds stickier and stickier,
 potentially leading to more and more harm? Maybe.
 
-But remember - as soon as they hit $AGE_OF_CONSENT$ they're going to be hit with the
+But remember---as soon as they hit $AGE_OF_CONSENT$ they're going to be hit with the
 full-force of personalised algorithmically curated feeds that are designed to
 circumvent the decision-making part of their brain and go straight to the automatic
 response system. 
@@ -130,7 +128,7 @@ I'm making the experience of using algorithmic feeds worse for everybody (in
 the short-term, at least). Rather than seeing content that works perfectly for
 you, you're seeing the average content that works for everybody.
 
-I'm killing a bunch of businesses - and potentially communities. Anybody who
+I'm killing a bunch of businesses---and potentially communities. Anybody who
 requires finding a niche is going to have a greatly reduced ability to do so.
 
 I don't really have any concrete proof that algorithmic feeds are (especially)
@@ -144,8 +142,8 @@ struggle with all the things that children and teenagers have struggled with
 for years (belonging, identity, group dynamics). There's no regulation that
 will fix "being a teenager" and nor should there be. 
 
-Messaging is deliberately left wholly untouched - if we must intervene here
-(and maybe we have to - I acknowledge that the power to talk with children
+Messaging is deliberately left wholly untouched---if we must intervene here
+(and maybe we have to---I acknowledge that the power to talk with children
 across the world in a wholly private manner is a new capability that previous
 generations didn't need to wrestle with) then we should do so in a targeted and
 purposeful way.

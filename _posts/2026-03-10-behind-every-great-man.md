@@ -5,7 +5,7 @@ date: 2026-03-10
 tags: [parenting, life]
 ---
 
-I gave a talk today - an academic talk to a bunch of people (and an unknown
+I gave a talk today---an academic talk to a bunch of people (and an unknown
 number of people online) and it was recorded and there were questions and it
 went well! Huzzah! It was draining and took a bunch of time to prepare and even
 more time to actually attend Oxford to give it.<!--more-->

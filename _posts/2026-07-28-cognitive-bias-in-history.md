@@ -10,7 +10,7 @@ in the introduction, I'm already enjoying it.<!--more--> I read "The Guns of
 August" after hearing that JFK read and re-read it and thought it was
 indispensable. I too went back a couple of months later and read the whole thing again, not because JFK used to but because it was so damn interesting and readable.
 
-I love learning about history - particularly history that helps you see our
+I love learning about history---particularly history that helps you see our
 current world better. Walking through English villages and being able to
 explain why there are lots of houses from a given time period, or why schools 
 might or might not exist, or where a pub's name comes from...I just like the
@@ -20,10 +20,10 @@ from between the cracks.
 The Proud Tower promises that it'll cover world history (or, Anglophone and
 Western European history) in the years before the first world war. This is a
 period that I've not read a huge deal about, and certainly not in isolation.
-The introduction though - well, it's already a gem.
+The introduction though---well, it's already a gem.
 
 Tuchman says that she is going to move beyond the "golden age" narrative,
-explaining that that narrative only took off _after_ the World War - that it
+explaining that that narrative only took off _after_ the World War---that it
 was people looking back at the war, and the time before the war, and painting a
 picture of opulence and joy that was absent from contemporary accounts of the
 period.
@@ -40,7 +40,7 @@ remark on how good we had it, when we compare those to _"the current lot"_. I
 also wonder how much of this effect we see when people say that school years
 are your best, or that teenagers don't know how good they have it.
 
-To an extent, I agree that school years can be your best - little
+To an extent, I agree that school years can be your best---little
 responsibility, long days spent with your friends, learning and growing and
 discovering the world...what's not to like? Well. If I remember rightly, quite
 a lot. Teenagers don't think being a teenager is the best thing ever, and

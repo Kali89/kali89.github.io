@@ -13,7 +13,7 @@ work through the notes and talk to friends studying and, honestly,
 
 When it came to revision time at the end of each year, something cool happened.
 The bits that I'd breezed through (or copied from somebody else) were foreign
-to me - I'd have to relearn them from scratch. The bits that I'd struggled with
+to me---I'd have to relearn them from scratch. The bits that I'd struggled with
 were the bits that I knew.
 
 ## Learning to Code
@@ -24,8 +24,7 @@ time I recognised it, and knew that it was good. Knew that any time I wrestled
 with package installation, or hunted down an off-by-one error, or nerfed my
 operating system, these were just the ways different ways of learning.
 
-It worked. By the time I was 23, I was employed as a data scientist -
-programming every day. And that's how I've spent the last 13 or so years.
+It worked. By the time I was 23, I was employed as a data scientist---programming every day. And that's how I've spent the last 13 or so years.
 Programming and struggling with data, with varying sizes of data and a growing
 collection of methods, trying anything and everything to do something useful.
 
@@ -37,7 +36,7 @@ myself: as an impoverished student, I made a £50 donation to Wikipedia in
 recognition of the help I'd received over the prior 4 years.
 
 However, I do think there's a real difference with AI and that's because the
-struggle is gone. It doesn't have to have gone - I'm not saying it's impossible
+struggle is gone. It doesn't have to have gone---I'm not saying it's impossible
 to use AI for education, and in fact I think I really motivated learner could
 probably go much further much faster by using AI.
 
@@ -91,4 +90,4 @@ I think we're in for a wild few years when it comes to education. Learning
 hard subjects ultimately requires struggling, and LLMs have made struggling
 obsolete. However, LLMs are advancing at such a rate that perhaps we no longer
 need large swathes of graduates who know how to solve hard problems by
-themselves. I don't know any of these things - I'm just along for the ride.
+themselves. I don't know any of these things---I'm just along for the ride.

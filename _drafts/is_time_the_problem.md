@@ -25,7 +25,7 @@ This suggests that ***total time*** is the key metric: right now we believe
 that children are spending too much time on social media and that, if we
 removed that time, they'd spend it on play instead.
 
-The first part isn't controversial - teenagers today spend N hours/day on
+The first part isn't controversial---teenagers today spend N hours/day on
 social media (replicated across multiple studies). What teenagers would do if
 they **weren't** on social media is absolutely not clear. Whether _play_
 includes video games isn't specified. Whether TV counts as _play_ isn't clear.
@@ -63,7 +63,7 @@ somebody else at the moment.
 
 ### 4. Overnight curfews and breaks in infinite scrolling for under-18-year-olds
 
-Now we're talking more specifically about time-related harms - with overnight
+Now we're talking more specifically about time-related harms---with overnight
 curfews suggesting that the time-of-day that children spend online is related
 to the harm they experience. This is not at all founded in academic literature
 thus far. Breaks in infinite scrolling are a mechanism that _could_ reduce the

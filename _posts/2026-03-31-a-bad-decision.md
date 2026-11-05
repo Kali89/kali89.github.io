@@ -20,7 +20,7 @@ for the 45 minutes.
 Last week was assessment week, and I wasn't allowed into the building. With my
 hand forced, I drove to Wetherspoons and had an enjoyable half pint.
 
-Today was a tough (but good) day - we spent a very long and hot day at a farm
+Today was a tough (but good) day---we spent a very long and hot day at a farm
 park and I was tired.
 
 ## The Decision
@@ -37,7 +37,7 @@ are 1600 calories. I've got form with crumbling under the weight of food-based
 decisions. As an impoverished University student I once got so hungry/angry
 about not having money that I vowed to go to the shop and buy whatever I wanted
 for dinner. After around 20 minutes walking listlessly round the shop I came
-back with a £1.50 prawn curry. Knowing my own weakness here and sensing a spiral, I panic ordered a jacket potato - not bad, but not
+back with a £1.50 prawn curry. Knowing my own weakness here and sensing a spiral, I panic ordered a jacket potato---not bad, but not
 really the wonderful treat I was hoping for.
 
 ## The True Cost

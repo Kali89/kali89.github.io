@@ -5,7 +5,7 @@ date: 2026-02-22
 tags: [data, parenting, kids]
 ---
 
-A beautiful kind of cross-over post today - half of the time I write about data
+A beautiful kind of cross-over post today---half of the time I write about data
 science, and half of the time I write something about parenting. Today, I'm
 writing about using my data skills to help my parenting. Huzzah!<!--more-->
 

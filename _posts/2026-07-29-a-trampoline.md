@@ -8,13 +8,13 @@ tags: [parenting, kids]
 I didn't want to buy a trampoline. It wasn't the money.<!--more--> It was the
 fact that just about every trampoline I'd seen in somebody's garden looked like
 a sad, weather-beaten thing. And I never saw children playing on them. I
-reasoned that the novelty factor was pretty strong for a trampoline - you love
+reasoned that the novelty factor was pretty strong for a trampoline---you love
 them for an hour the first time you get one...but are you really going to spend
-hour-after-hour, day-after-day on them? And then they're there - permanently
+hour-after-hour, day-after-day on them? And then they're there---permanently
 cluttering up your garden, reminding you of the fact that you thought it'd be a
 good idea to get one. Throw it away? Good luck. Of course the kids think it's
 the best thing ever when you want to throw it away. And so you're stuck with
-it. Forever. A rotting husk of a trampoline - a monument to your own bad
+it. Forever. A rotting husk of a trampoline---a monument to your own bad
 decision making, your kids' impulsive nature, and your indulgence of that.
 
 Except it didn't happen like that at all. My six-year-old and four-year-old

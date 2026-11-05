@@ -42,7 +42,7 @@ that's probably right. This was an unashamedly _cheap_ holiday and the kids
 wouldn't know it in the slightest. Us, banging around in a small caravan under
 a noisy flight path...we did.
 
-Lots of fun - I hope the kids will remember it and when I asked them they said
+Lots of fun---I hope the kids will remember it and when I asked them they said
 it was the best ever.
 
 

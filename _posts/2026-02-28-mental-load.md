@@ -34,7 +34,7 @@ week. At the end of week 1 of living together, my wife washes the bedsheets.
 Next week, she washes them again and notices that I haven't washed them yet.
 The same again, and again, and again...
 
-I'm happy - I get clean sheets every week and I don't have to do any of the
+I'm happy---I get clean sheets every week and I don't have to do any of the
 work. Washing the sheets has become my wife's "job". I recognise the asymmetry,
 and if asked I'd wash them. But mentally, I've shelved this as my wife's job
 and I know that she'll wash them when she thinks they need it. I mentally check
@@ -69,7 +69,7 @@ Of course, what's actually happened is that we've accidentally added another
 And who is making sure we've got all the ingredients required?
 
 If the kids would have asked me for overnight oats, I'd probably have said no. But they
-didn't - they asked their mum and now they expect overnight oats. My wife has
+didn't---they asked their mum and now they expect overnight oats. My wife has
 the job, and has all the mental load associated with that. If you'd have asked
 her before picking up this routine "do you want to make overnight oats for the
 kids every night?" I think she'd have said no.
@@ -82,7 +82,7 @@ them a healthy and happy breakfast, or pick up another job that I neither wanted
 
 ## Tyranny of the Lazy
 
-Let's take another example - children's birthday parties. Roughly every other
+Let's take another example---children's birthday parties. Roughly every other
 weekend we attend a child's birthday party and there's a card to be bought (and
 written in), a present to be bought and wrapped and then party attendance. I
 don't mind admitting that my wife bears the brunt of this mental load.
@@ -121,7 +121,7 @@ either the work, or at least the mental load work.
 ## Mental Load in Academia
 
 I saw a paper on mental load (you can find it
-[here](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.13057)) - it made
+[here](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.13057))---it made
 a few headlines when it was posted and I saw it (rightly) lambasted on Reddit.
 Ultimately, the authors hand-label traditional tasks as either being episodic
 or daily, and then use those labels to determine that women take on more of the
@@ -140,7 +140,7 @@ birthdays should be labelled as daily. Kind of. But not labelling managing
 finances as a daily activity...
 
 I actually think they really make a good argument for representation in
-academia - two female authors labelling a number of mainly-female activities as
+academia---two female authors labelling a number of mainly-female activities as
 daily and mainly-male activities as episodic and then concluding that women
 bear more of the mental load based on that...well, it seems pretty much like
 the perfect argument for representation!

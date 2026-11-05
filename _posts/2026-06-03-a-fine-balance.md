@@ -32,16 +32,16 @@ to visit the same house felt weak, but then as we gradually learned the
 depressing or outright horrifying backgrounds of each of the characters, we
 begin to see something of the importance of the encounter.
 
-Dina's (a doctor's daughter, theoretically one of the more 'powerful' characters) story is the most depressing and perhaps familiar, given my usual reading. Her misfortunes are many: dead father (for which she blames herself), dead husband, trying to survive independently, loneliness and fear. There's no real blow up or gut punch for Dina...it's just a slow creep. We feel her fear as her independence is threatened again and again. Ultimately she ends up subservient and dependent - her potential 'wasted'.
+Dina's (a doctor's daughter, theoretically one of the more 'powerful' characters) story is the most depressing and perhaps familiar, given my usual reading. Her misfortunes are many: dead father (for which she blames herself), dead husband, trying to survive independently, loneliness and fear. There's no real blow up or gut punch for Dina...it's just a slow creep. We feel her fear as her independence is threatened again and again. Ultimately she ends up subservient and dependent---her potential 'wasted'.
 
 Maneck (a shopowner's son, probably one of the more likeable characters)
-wouldn't be out of place in other books I've read too - brought up in idyllic
+wouldn't be out of place in other books I've read too---brought up in idyllic
 circumstances and only forced to abandon this life by parents who would rather
 he stay but are playing a part...and so accepting his exile and trying to make
 the best of it. His slow tragedy is in not going home, not keeping in touch
 with his friends...repeatedly finding happiness and then losing it again.
 
-My favourite characters - the tailors (Ishvar and Om) were completely foreign
+My favourite characters---the tailors (Ishvar and Om) were completely foreign
 to me and all the more delightful for it. The absolute desperation of their
 situation was so dreadful that I had to check repeatedly that this wasn't all
 fiction and that things could really be that bad for some people. Ishvar's
@@ -50,12 +50,12 @@ brought something of the lightness that Claude suggested was present in the
 book.
 
 The theme I most liked throughout the book was the fact that you got to see the
-perspectives of the persecutors - you could see **why** Dina was trying to keep
+perspectives of the persecutors---you could see **why** Dina was trying to keep
 the tailors at arms length and didn't want to accept them as friends. You could
 see **why** the rent collector hounded Dina so aggressively, and even why the
 surgeon carried out their operation on Om towards the end...
 
-Nobody ever acts irrationally - the system, acting unthinkingly and sometimes
+Nobody ever acts irrationally---the system, acting unthinkingly and sometimes
 unwittingly, causes so much misery and suffering. Everybody was acting in their
 own best interest. The results...horrifying.
 

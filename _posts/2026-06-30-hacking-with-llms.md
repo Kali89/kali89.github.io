@@ -29,7 +29,7 @@ building something bespoke, manually copying and pasting all of the receipts
 into a text file and then parsing, or giving up and accepting I'll never do
 analytics on my purchases (or maybe make a GDPR request?)
 
-Now, I fire up Claude Code and explain what I want and hey presto - 30 minutes
+Now, I fire up Claude Code and explain what I want and hey presto---30 minutes
 later and a few authentication tokens copied and I've got my entire shopping
 history.
 
@@ -46,7 +46,7 @@ So far so good, right?
 
 ### Where it went wrong
 
-I'd got all my analytics ready and was happy as Larry - I shared with my wife
+I'd got all my analytics ready and was happy as Larry---I shared with my wife
 and told her to stop buying so much chocolate. But then we dug in because some
 of the totals seemed off. Half of the products were misclassified. Rice pudding
 was classified as rice. Pork and Ale sausages were misclassified as a drink.
@@ -55,12 +55,11 @@ Water chestnuts as a soft drink.
 Had I been doing it myself, these are mistakes I wouldn't have made. It would
 have been obvious because a clear step post-classification would have been to
 examine some of the labels and check they were working. I didn't do that
-because I didn't even know to do that - I just let Claude code go and off it
+because I didn't even know to do that---I just let Claude code go and off it
 went.
 
 Fortunately, I caught it and then embarked on a session of "let's check the
-classification" but only really by accident. I've made similar mistakes before
-- assuming part of the process has worked seamlessly, and not really realising
+classification" but only really by accident. I've made similar mistakes before---assuming part of the process has worked seamlessly, and not really realising
   how much rested on that assumption that I hadn't checked.
 
 It's that lack of checking key assumptions, and the frightening speed and

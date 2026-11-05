@@ -8,18 +8,18 @@ tags: [work]
 I just spent a week living in an Airbnb with four other people. We went to the
 supermarket together, cooked breakfast together, visited museums, went out
 to the pub...all the things you (well, I) do on a holiday. But it wasn't my
-four closest friends. These were my colleagues - thrown together by fate, or,
+four closest friends. These were my colleagues---thrown together by fate, or,
 more precisely, my employer.<!--more-->
 
 ## Building Culture and Trust
 
 With the whole COVID-shift-to-remote thing, a bunch of companies (and,
 primarily, employees) discovered the benefits of remote work. However, they
-also discovered one of the drawbacks - the difficulty in building a coherent
+also discovered one of the drawbacks---the difficulty in building a coherent
 team culture.
 
 Some enlightened companies are trying to have their cake and eat
-it - Spotify have "core weeks" where all employees are required to be in an
+it---Spotify have "core weeks" where all employees are required to be in an
 office. However, a large number of (tech) companies are now either requiring a
 full RTO (return-to-office) or have office-based mandates, stating the number
 of days you have to be present in order to fulfill your
@@ -79,7 +79,7 @@ that appears to currently be favoured.
 
 ## What a Week Looks Like
 
-You plan the week together - generally one person takes lead but they **must**
+You plan the week together---generally one person takes lead but they **must**
 be respectful of everybody else's circumstances. If somebody can't travel to a
 specific country, or they get the ick at the idea of sharing a house, or they
 have to be able to call home at a specific time each day...well, you wouldn't
@@ -107,23 +107,23 @@ planning sessions.
 ## Downsides
 
 There are downsides to the approach I'm espousing. It can make things difficult
-familially (I have three small children - my wife has to perform heroics while
+familially (I have three small children---my wife has to perform heroics while
 I'm off working) or for anybody with caring responsibilities. It costs more
 money (assuming your employer covers travel and accommodation costs, but
 wouldn't cover commuting costs). And it's exhausting.
 
 This approach also doesn't guarantee anything. You're taking smart grown-ups
 and you're putting them together and *hoping* something good happens. It's the
-organisational equivalent of jazz - maybe the horn and the bass just don't gel
+organisational equivalent of jazz---maybe the horn and the bass just don't gel
 and spend the song clashing rather than harmonising.
 
-But ultimately, if you're in a band together - you have to find a way to make
+But ultimately, if you're in a band together---you have to find a way to make
 it work. Perhaps the horn and the bass *need* to clash, until they find their
 rhythm.
 
 ## Conclusion
 
-Working remotely is great - when it works well it can be incredible from a
+Working remotely is great---when it works well it can be incredible from a
 personal perspective (nobody likes commuting), an organisational perspective
 (deep-work is much easier when you can choose where to work), and a national
 perspective (imagine not having all jobs located in one place!).

@@ -69,7 +69,7 @@ sensible principle.
 
 Whoever it was, I love ignoring any principle that doesn't fit that mould, and
 hyper-fixating on any that does. When I worked for Mars, one of their
-principles was "mutuality" (the rest were unnoteworthy) - they didn't want
+principles was "mutuality" (the rest were unnoteworthy)---they didn't want
 their staff to do something that would **only** benefit Mars. They said that if
 nobody else was benefitting, then it might produce a short-term win but they
 were a long-term company and so they believed in mutuality.
@@ -87,17 +87,17 @@ platitudes again.
 
 ## Courage (or lack thereof)
 
-My take is that most pretty senior people are pretty smart - they know that
+My take is that most pretty senior people are pretty smart---they know that
 they're repeating asinine drivel. The problem is that by **not** doing so,
-they're turning it into a thing. Taking a stand takes effort - it burns up
+they're turning it into a thing. Taking a stand takes effort---it burns up
 cognitive load and political capital. 
 
 Giving a silly speech takes very little effort, and even if you don't believe
 in whatever you're saying, at least you're not having to waste effort.
 
 At least in the US, I think the tide has turned somewhat and authenticity and
-'vice-signalling' is becoming more normal - people are happier to show their
-real personality. In Europe, I don't think we're really there yet - at least in
+'vice-signalling' is becoming more normal---people are happier to show their
+real personality. In Europe, I don't think we're really there yet---at least in
 these large European or international bodies, we'll still favour a painfully
 bland speech over any kind of personality.
 

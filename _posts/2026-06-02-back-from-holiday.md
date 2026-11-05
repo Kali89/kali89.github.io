@@ -6,7 +6,7 @@ tags: [life]
 ---
 
 I'm back from holiday! I feel like there are a thousand things I could write
-about - Tenerife, travel, capitalism and the erosion of locality, holidaying
+about---Tenerife, travel, capitalism and the erosion of locality, holidaying
 with three small children, all-inclusives...<!--more-->
 
 But I'm tired so let's try to keep it brief and spread out posts once I've got
@@ -14,9 +14,9 @@ more of my wits about me.
 
 ## Lowlights
 
-I'm only starting with lowlights for the purposes of balance - it's been a
+I'm only starting with lowlights for the purposes of balance---it's been a
 great holiday with a lot of positives. My worst bit was the second night (the
-one after the travelling) - we were all exhausted and hadn't settled into our
+one after the travelling)---we were all exhausted and hadn't settled into our
 rhythm yet and nobody would sleep and everybody else's children were behaving
 and ours wouldn't do anything but complain.
 
@@ -40,7 +40,7 @@ by the beach)
 sitting, and to clap and wave...so let's go with those!
 
 me: one evening where we went to an a la carte restaurant, then went to the
-hotel's 'carnival' - there was a magic show on and the 6 year old volunteered
+hotel's 'carnival'---there was a magic show on and the 6 year old volunteered
 and was chosen to go on stage and his 4 year old sister followed him and
 wouldn't leave because she wanted to stand next to him. And going to the beach
 with my 6 year old on a solo trip.

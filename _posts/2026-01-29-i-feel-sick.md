@@ -6,13 +6,13 @@ tags: [life]
 ---
 
 No great revelations today, but I just wanted to keep up the habit of
-writing. I'm sick today - nothing major, just a cold or something. I hurt my
+writing. I'm sick today---nothing major, just a cold or something. I hurt my
 finger wrestling my eldest son last night. This morning I thought it was
 broken, but it's gotten steadily better over the day. <!--more-->
 
 ## Health
 
-I pay for health insurance (or at least I pay the tax on it) - I've not had to
+I pay for health insurance (or at least I pay the tax on it)---I've not had to
 use it much but I'm reminded of a quotation I heard sometime ago:
 
 > You can have 99 problems, until you're sick. Then you only have one problem.

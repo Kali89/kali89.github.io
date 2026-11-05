@@ -16,7 +16,7 @@ preferred football. It was all round a sad tale, because ultimately the father
 thought that the child should adopt his hobby, rather than him adopting the
 child's.
 
-I read it and vowed to get into whatever my children got into - I don't really
+I read it and vowed to get into whatever my children got into---I don't really
 'get' cars but if that was the thing, then I hoped I'd be right there alongside
 my son. For a time, he loved tractors and I thought I'd have to get into
 farming. I asked the local farmer how to help children who want to farm. We
@@ -38,7 +38,7 @@ the living room listening to System of a Down and shushing him. I don't know
 that he loved the music, but the noise and the movement was enough to get his
 eyes shut.
 
-Most mornings we have breakfast together and I put on music - whatever I feel
+Most mornings we have breakfast together and I put on music---whatever I feel
 like at the time. With it being morning, often that's something relaxing
 (Grieg's Morning Mood, obviously). Sometimes when I'm feeling especially joyful
 it's "Wake Up" by the Boo Radleys. And apparently, sometimes, it's Sabaton.
@@ -54,7 +54,7 @@ exactly the right spot. I walked and walked and listened and I was hooked on
 Clearly, when I got home I must have played them a bit because now they're my
 eldest's favourite band and he listens to them on repeat whenever he can. 
 
-Sometimes I feel like I'm living with a teenager before his time - he'll run
+Sometimes I feel like I'm living with a teenager before his time---he'll run
 upstairs, slam his door and stick power metal on to drown out his mum and I.
 But honestly, it's wonderful.
 
@@ -91,7 +91,7 @@ something else? Will I be disappointed if he decides Sabaton are deeply uncool
 (if your dad likes them, that sounds pretty uncool!) and actually Harry Styles
 is his musical BFF? Honestly, probably yes. 
 
-I'll need to be careful to handle that well - not to lie, but also to not make
+I'll need to be careful to handle that well---not to lie, but also to not make
 a big deal of it and to let him know that he's free to love whatever he wants
 and it won't change things between us. And then, to make sure that's true.
 

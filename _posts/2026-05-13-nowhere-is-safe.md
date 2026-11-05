@@ -15,7 +15,7 @@ having it written down will give me a bit of joy in later years.
 
 Probably the most exciting recent development is that of movement. He can't
 properly crawl yet (it's a funny little commando drag) but he can move! This
-has already caused some problems - it means he can drag himself over to the
+has already caused some problems---it means he can drag himself over to the
 lego on the floor and, as he's also at the stage where **everything** goes in
 his mouth, we now have to be a lot more careful about where we leave him.
 
@@ -45,7 +45,7 @@ He also gets upset anytime he's eating something and everybody else is eating
 something else.
 
 There's no self-preservation mechanism either. A massive bit of clearly
-undigestable apple (for somebody without any teeth)? No bother - he just lobs
+undigestable apple (for somebody without any teeth)? No bother---he just lobs
 it in his mouth and hopes for the best. Starting to choke? Better throw in some
 more to force it all down. Fishing food out of a baby's mouth without
 accidentally forcing it further into their mouth is a skill, and one that I
@@ -61,7 +61,7 @@ of his own voice. His eldest brother encourages him and they have shouting
 contests and it feels like a scene from a sitcom. 
 
 He spends a lot of time playing with his tongue and making different sounds so
-I'd have guessed that he'll end up speaking quite early but :shrug: - who
+I'd have guessed that he'll end up speaking quite early but :shrug:---who
 knows? I'm not really hoping he speaks early, but it'll probably undo some of
 his frustration if he can let us know what he wants.
 
@@ -69,15 +69,15 @@ his frustration if he can let us know what he wants.
 
 I mentioned I'd been up since 5:30am, didn't I? He's not the worst sleeper ever
 but I do wish he was a bit better. He tends to wake up somewhere between 6 and
-7, have his first nap around 9 - 10, give us somewhere between 40 and 90
+7, have his first nap around 9--10, give us somewhere between 40 and 90
 minutes. Then we'll give him 3 or so hours, and he'll nap again for usually
-between 30 and 90 minutes. Bedtime is often 6 - 6:30 and then he'll wake up
+between 30 and 90 minutes. Bedtime is often 6--6:30 and then he'll wake up
 between 1 and 2 times in the night.
 
 There are good days and there are bad days. Yesterday he was a massive pain.
 Maybe today will be better.
 
-He's sort of halfway between 2 and 3 naps - he should probably be on 2 naps by
+He's sort of halfway between 2 and 3 naps---he should probably be on 2 naps by
 now but his naps are often pretty weak and if he does two 40 minute naps then
 he's really not getting enough sleep. But it's too late in the day to put him
 back down again for a third so we're on two.

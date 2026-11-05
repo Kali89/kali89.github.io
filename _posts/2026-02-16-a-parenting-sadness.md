@@ -24,8 +24,7 @@ about what proportion of his body has to be on his cot bed to count him as
 being 'in' it was an experience I didn't know I could have), and I think the kindest thing
 to give him are clear boundaries so he knows what's what.
 
-There's also a huge deal of social pressure when it comes to punishment -
-because there's no rule book and no clear 'right' or 'wrong'...the easiest
+There's also a huge deal of social pressure when it comes to punishment---because there's no rule book and no clear 'right' or 'wrong'...the easiest
 place to benchmark yourself is through people you know. Would you have not
 allowed that kind of behaviour? Would you never shout at your child like that?
 It's incredibly hard to do anything *other* than whatever the parents who
@@ -33,7 +32,7 @@ surround you do. I also believe it's incredibly damaging to change your
 parenting style based on who you're with at the time. Parental strictness is a
 minefield.
 
-I definitely overdid it in places - one of my most shameful moments was putting
+I definitely overdid it in places---one of my most shameful moments was putting
 him on the 'naughty step' and telling him not to move. When I went back 5
 minutes later, he'd wet himself, thinking that he couldn't leave to go to the
 toilet. Even typing it now years later feels horrible.
@@ -49,7 +48,7 @@ match. Jim the Explorer spends his time fighting characters from How to Train Yo
 Dragon, or entering Gladiators.
 
 It's one of my favourite bits of the day and I'm pretty sure it's one of his
-too - he trains to get stronger so he's better at wrestling. He asks for tips on how
+too---he trains to get stronger so he's better at wrestling. He asks for tips on how
 to sweep my legs, or lifts his bed up as a way of doing a workout. He tells me
 he did 200 squats last night. ~~Sometimes~~ Almost always it gets rough, and occasionally one or both of us
 gets hurt.
@@ -63,7 +62,7 @@ It's wild, heart-warming, feral, and is one of our favourite shared activities.
 ## Something Lost
 
 It's also one of the first things that I take away as a punishment. I prefer
-'natural' punishments - direct consequences for behaviour that are tied to the
+'natural' punishments---direct consequences for behaviour that are tied to the
 transgression. Won't share with your sister? We'll play with her and you can
 play by yourself. Won't stop banging a drum when your baby brother is trying to
 sleep. We'll take the drum away.
@@ -71,8 +70,7 @@ sleep. We'll take the drum away.
 Last week, when wrestling (actually, when teaching him backwards rolls), he
 banged his knee on the edge of the bed and hurt it. He reacted very poorly,
 screaming at me and banishing me from his room/ever playing with him again. In
-the heat of the moment, I told him that "fine, we'll not do wrestling tonight -
-if you can't respond reasonably when you get hurt, we can't do anything so
+the heat of the moment, I told him that "fine, we'll not do wrestling tonight---if you can't respond reasonably when you get hurt, we can't do anything so
 violent as wrestling."
 
 I'm a firm believer in making punishments stick, and so we didn't wrestle. Both
@@ -88,23 +86,23 @@ When he was younger, we were wrestling one time and he got so excited and manic
 that he bit me. We are **very** strict on biting and so I immediately stopped
 wrestling and left him. He knew he'd done wrong and was upset. We didn't
 wrestle for more than a week, and I wondered whether or not he'd forgotten
-about wrestling. I talked to my wife about it - and we debated whether we
+about wrestling. I talked to my wife about it---and we debated whether we
 should just stop wrestling entirely.
 
-I felt dreadful about that as an idea - a punishment that ultimately ceases to
+I felt dreadful about that as an idea---a punishment that ultimately ceases to
 be a punishment. I think a punishment has to be 'felt' as a punishment. If I
 stopped wrestling because of that one biting incident, then I'm pretty certain
 his childhood would have been worse. He might not know it, but there'd be a
 small bit of joy that every day he wouldn't be having. All because of one silly
 out-of-control thing he did when he was 4. 
 
-That didn't feel 'fair' to me - even though he wouldn't really have known. He'd
-not remember - he'd just not realise that 'wrestling with daddy' was a joy he
+That didn't feel 'fair' to me---even though he wouldn't really have known. He'd
+not remember---he'd just not realise that 'wrestling with daddy' was a joy he
 could have.
 
 ## Conclusion
 
-There's not really a conclusion - I'm still living this, hour-by-hour,
+There's not really a conclusion---I'm still living this, hour-by-hour,
 day-by-exhausting-day. There's no pass or fail. No feedback. Just trial and
 error in the short-term, and trying to live with your choices in the
 long-term.

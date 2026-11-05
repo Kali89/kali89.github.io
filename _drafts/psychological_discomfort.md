@@ -31,8 +31,7 @@ healthy and take up running?"* or *"maybe moving to Sweden is a good idea"*.
 One of the questions I opened my talk with yesterday was supposedly a simple
 one: *"How many times will you check your phone tomorrow?"*
 
-I asked the question because I was hoping to cause a little discomfort -
-asking the question of myself certainly makes me a little uncomfortable. I
+I asked the question because I was hoping to cause a little discomfort---asking the question of myself certainly makes me a little uncomfortable. I
 asked those at the talk to reflect on **why** that simple question makes them
 feel uncomfortable.
 
@@ -69,7 +68,7 @@ phone use forces my system 2 to consider and comprehend the work of my system
 So when I'm asked to recollect and reflect on my phone use, I'm starkly forced
 to **truly** reflect on who I am, and how I spend my time. And with so much of
 my time going on my phone, I don't perhaps like what I see. I don't like the
-fact that I spend hours a day browsing Reddit and Twitter - that doesn't form
+fact that I spend hours a day browsing Reddit and Twitter---that doesn't form
 part of my self-image. And yet...
 
 ## Steering into Discomfort

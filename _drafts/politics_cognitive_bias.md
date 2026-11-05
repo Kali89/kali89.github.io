@@ -21,12 +21,12 @@ opinions. Of course, this isn't a unique case: our pre-existing biases cause us
 to view and interpret evidence in different ways to people with different
 biases. Indeed, that's one of the stated benefits of a diverse team working on
 a project (where I'm using *'diverse'* to mean a team where people given the
-same input come up with different output - not whatever the current overloaded
+same input come up with different output---not whatever the current overloaded
 term has come to mean).
 
 ## Fact Checking
 
-A couple of years ago there was a fairly big hoo-hah about 'fact-checking' - a
+A couple of years ago there was a fairly big hoo-hah about 'fact-checking'---a
 persistent fight against 'misinformation'. I always thought (and still do) that
 this was misguided. The reason is basically sketched out in the case above.
 Same video. Same set of facts. Two completely different interpretations. What
@@ -61,10 +61,10 @@ NHS an additional £350 million a week. Sure, that's a fine interpretation and
 is probably how it was designed to be read. But crucially (maybe), that isn't
 what it says.
 
-How would you possibly fact check this? I'd argue that you couldn't - it isn't
+How would you possibly fact check this? I'd argue that you couldn't---it isn't
 misinformation. There's a 'fact' (an aggressive interpretation of numbers) and
 then a statement of priorities. In the past we relied upong 'trusted
-institutions' to handle this for us - but in recent years their shortcomings
+institutions' to handle this for us---but in recent years their shortcomings
 have become all too apparent.
 
 ## Trusted Institutions
@@ -81,7 +81,7 @@ went to University and live in a big city.
 
 No worries...let's get tech companies to do it?
 
-The problem, of course, is exactly the same - tech companies are
+The problem, of course, is exactly the same---tech companies are
 diverse in some measures, but in others, they're woefully homogenous.
 
 This is one of the reasons I was shocked to see so many people accept/suggest
@@ -109,7 +109,7 @@ content. But people act like people, and it turns out that people either like
 content that angers them, or content that confirms their existing view of the
 world.
 
-So tech companies have a choice - is their job to 'benevolently' attempt to
+So tech companies have a choice---is their job to 'benevolently' attempt to
 improve us, forcing us to view content that we don't want because it'll broaden
 our worldview? Or should they just give us what we want to see,
 consequences be damned?
@@ -121,7 +121,7 @@ argue otherwise.
 
 ## One Decision Leads to Another
 
-Let's say they do - if Facebook sees you entering a rabbit-hole, it's their
+Let's say they do---if Facebook sees you entering a rabbit-hole, it's their
 responsibility to pull you out of it. What counts as a rabbit-hole? If I spend
 hours and hours delving deeper into the world of personal finance, presumably
 that's OK, and showing me personal finance content is ideal.

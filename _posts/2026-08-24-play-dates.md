@@ -23,7 +23,7 @@ day during the holidays. Children everywhere, self-policing and
 self-entertaining. The data bears that out, and what would once have been
 classed as "intensive" parenting is the new "neglectful" parenting.
 
-We offered 'drop-off and pick-up' and only one of the parents took us up on it - the rest stayed for the duration of the party. It was genuinely nice - a lot of our conversations were on the hardships of raising young kids, especially during the long summer holidays. This new future of child-raising seems objectively worse for parents, and yet there doesn't appear to be any evidence that it's better for children. If anything, there's growing evidence that it's worse for them.
+We offered 'drop-off and pick-up' and only one of the parents took us up on it---the rest stayed for the duration of the party. It was genuinely nice---a lot of our conversations were on the hardships of raising young kids, especially during the long summer holidays. This new future of child-raising seems objectively worse for parents, and yet there doesn't appear to be any evidence that it's better for children. If anything, there's growing evidence that it's worse for them.
 
 But people aren't stupid and generally don't act in sustained irrational
 ways...how did we get here? The past is the future that they took from us. Who
@@ -69,7 +69,7 @@ any time studying large amounts of human data will tell you, if it takes real
 effort, it's probably not going to happen much.
 
 This coordination cost is actually multiplied by the fact that it involves
-multiple decision makers - I can't unilaterally decide to organise a play date
+multiple decision makers---I can't unilaterally decide to organise a play date
 as I'm neither the primary caregiver, nor allowed on the school mums' WhatsApp
 group (for people's phone numbers).
 

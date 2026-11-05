@@ -21,24 +21,24 @@ together.
 
 Haidt shows a growth in a number of 'bad' mental health problems affecting
 teenagers across the developed world. Depression, anxiety, suicides and more
-have all seen sharp rises - especially amongst girls and especially since 2012.
+have all seen sharp rises---especially amongst girls and especially since 2012.
 
 Haidt then dismisses a number of plausible hypotheses (things are worse now, global
 warming, political turmoil) by showing that the timing/geography doesn't line up. 
 Instead, he points to social media during adolescence as the key change. He
 draws upon a collection of research aiming to link social media and mental
 health outcomes, and says that our mental health crisis is due to adolescence
-on social media, and the rise of _"safetyism"_ - an overabundance of caution in
+on social media, and the rise of _"safetyism"_---an overabundance of caution in
 the real world.
 
 ## What I'm Sceptical About
 
 As a data scientist, I've lost count of the number of investigations like this
-I've carried out. We see an important number move and we want to know why - so
+I've carried out. We see an important number move and we want to know why---so
 we go digging and try to find out where it happened.
 
 Those investigations are brutal, draining, and it's easy to make mistakes. In
-order to be confident it's important to be **exactly** right - close isn't good
+order to be confident it's important to be **exactly** right---close isn't good
 enough.
 
 Based on what I know of the psychological research, there's a fair amount of
@@ -80,7 +80,7 @@ telling her...we live in a small village where, 30 years ago, **every** child
 would have walked or cycled to school. The village is safer than it used to be.
 Why wouldn't we let him?
 
-I see the pressure everywhere - hover over your children and make sure
+I see the pressure everywhere---hover over your children and make sure
 everything they say and do is OK. Make sure they're not in any danger. Guard
 guard guard. And at every juncture, they try to gain independence. And there we
 are, showing them that we don't trust them and questioning their decisions.
@@ -97,7 +97,7 @@ conditions is really what we're seeing here. Haidt covers a number of
 conditions and shows that all of them are moving in what looks like a dangerous
 way.
 
-Haidt talks about the problems being collective action problems - that is,
+Haidt talks about the problems being collective action problems---that is,
 problems that are better tackled by all of us, rather than each individual. I
 don't disagree, but as I've discussed elsewhere, I find mandating a solution
 both practically difficult and rife with hypocrisy. Can I really tell a child

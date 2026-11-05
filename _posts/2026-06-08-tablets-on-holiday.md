@@ -19,7 +19,7 @@ apps. I also work in a tech company and have for years.
 
 It was a pretty fancy resort and so a fairly middle class crowd. Every morning,
 we'd sit down for breakfast and be surrounded by other families with children
-of generally the same kind of age. I'd estimate that around 50% - 70% of the
+of generally the same kind of age. I'd estimate that around 50%---70% of the
 families had an iPad (or similar) with them and propped it up in front of the
 children while they ate. Generally it was one tablet that multiple children
 huddled round. Sometimes it was multiple tablets or phones. In one instance, it
@@ -98,7 +98,7 @@ with the world. The iPad probably isn't bad for you. It's only using it to the
 exclusion of other things that is.
 
 That'd also explain why the research is so sketchy and open to interpretation.
-We don't regularly ask "what would you have been doing instead?" - we just ask
+We don't regularly ask "what would you have been doing instead?"---we just ask
 how long you spend on a screen. If you're replacing 1 hour of vapid TV time
 with 1 hour of vapid iPad time...well, so what? If you're replacing 1 hour of
 playing with friends in your garden, I bet all sorts of negative effects are
@@ -120,7 +120,7 @@ really an exception. Brushing teeth isn't. Mealtimes aren't. Car journeys
 aren't (unless they are). You pick your own exceptions, but be realistic and
 honest with yourself.
 
-The Swedes do _Lördagsgodis_ - sweets (as much as they want) on a Saturday only.
+The Swedes do _Lördagsgodis_---sweets (as much as they want) on a Saturday only.
 Maybe Saturday is the exception. All I'm trying to say is that tablets are
 *incredibly* effective at hooking us. Small children (at least mine) are
 *wonderful* manipulators and use all kinds of ingenious tricks to get their own
@@ -135,7 +135,7 @@ front of tablets for their meals is bad. I am deeply uneasy about it, though.
 I think the reason I'm so troubled by it is because tablets at breakfast on a
 family holiday feels like **the worst** possible time/place for children to be
 on their tablets. Our earliest memories are typically _unusual_ experiences
-with close people between ages 5 - 10 i.e. family holidays. Breakfast is the first meal of the day and is theoretically early on when everybody has full reserves of energy. Mealtimes are the perfect opportunities for people to sit and share in the company of others.
+with close people between ages 5--10 i.e. family holidays. Breakfast is the first meal of the day and is theoretically early on when everybody has full reserves of energy. Mealtimes are the perfect opportunities for people to sit and share in the company of others.
 
 To see so many children missing out on what could be formative bonding
 experiences with their family felt sad. It felt like I was watching a family

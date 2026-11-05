@@ -7,7 +7,7 @@ tags: [parenting, life]
 
 I'm home alone!<!--more--> My wife has taken the incredibly bold step of
 driving *all three* of our children up to Scotland by herself to spend some
-time with her parents. Not just some time, though. 6 - 7 days. Nearly a whole
+time with her parents. Not just some time, though. 6--7 days. Nearly a whole
 week!
 
 I shouldn't need to say it but I will anyway...what a *hero*! Imagine...a

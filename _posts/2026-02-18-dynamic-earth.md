@@ -5,7 +5,7 @@ date: 2026-02-18
 tags: [life, parenting, kids]
 ---
 
-I spent the last couple of days in Edinburgh - my second favourite city (beaten
+I spent the last couple of days in Edinburgh---my second favourite city (beaten
 out by Stockholm). I lived in Edinburgh for around 18 months around 2016 and
 absolutely loved it. In particular, we lived in Moray Place (number 42) and I
 worked for Skyscanner at Quartermile and got to walk through Edinburgh each and
@@ -43,7 +43,7 @@ the (very) big screen.
 
 ## Inspiration
 
-I hadn't expected to be inspired by the visit (it was for the children - not
+I hadn't expected to be inspired by the visit (it was for the children---not
 me!) but hearing how much we know about the furthest reaches of space, and the
 seconds and years after the big bang were mad. I'd 'known' it all before (I do
 have a physics degree) but I guess I'd forgotten, or not really considered it
@@ -74,7 +74,7 @@ Continents drift at the speed that human fingernails do...and so watching a map
 of the continents move and shift over time feels preposterous, until you
 realise over just how long those time-lapses happen.
 
-I view our world as basically 'finished' - the continents are where they are,
+I view our world as basically 'finished'---the continents are where they are,
 the planetary elemental composition is fixed, and ice-ages are tales from
 bygone eras. Over the timescale of my lifetime, I'm right. But my lifespan is
 so short, and actually, I just see a brief snippet of an ever-changing world.
@@ -86,7 +86,7 @@ and to represent the (current) apex of that is mad. We saw a life-size model of
 a sabre-tooth tiger and decided we wouldn't want to meet that on a dark night.
 But it's extinct. Hunted to extinction by humans.
 
-We've uncovered so much, and understand so much about our universe - through
+We've uncovered so much, and understand so much about our universe---through
 maths, physics, chemistry, biology, geology and all the rest. Our social and
 political systems let us spend time thinking and experimenting and that
 thinking and experimenting lead to a richer and stronger species that can

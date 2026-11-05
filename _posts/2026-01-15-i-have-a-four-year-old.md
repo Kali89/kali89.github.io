@@ -29,7 +29,7 @@ You'll be glad to know that she achieved one of those on the day of her
 birthday, and I'm confident that she'll be able to manage at least 5 of those
 in the coming year. 
 
-"Learn writing" is the tricky one - I told her that I don't know that we have
+"Learn writing" is the tricky one---I told her that I don't know that we have
 ever really "learned writing". She gazed wistfully at me and said "how profound
 daddy. I suppose you're right."
 

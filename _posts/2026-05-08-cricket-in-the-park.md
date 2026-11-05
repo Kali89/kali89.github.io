@@ -5,7 +5,7 @@ date: 2026-05-08
 tags: [life]
 ---
 
-I'm trying to bring back light and breezy posting - ones that are short, sweet,
+I'm trying to bring back light and breezy posting---ones that are short, sweet,
 and drive a little habit creation. Today, like every Friday, we went to our
 local park/cricket club and our eldest did his cricket lesson while the middle
 child played independently on the park.
@@ -25,7 +25,7 @@ run around after each other.
 The parents go to the bar and buy a drink and enjoy not parenting of a Friday
 night.
 
-The cricket lessons are run by teenagers - my guess would be 13 - 17 year olds
+The cricket lessons are run by teenagers---my guess would be 13--17 year olds
 who are presumably getting experience, getting paid (a small amount) and are
 getting a bit of responsibility handling 30-odd 6 year olds.
 

@@ -8,7 +8,7 @@ tags: [kids, parenting]
 My eldest son is 7 and is a lot of different things, but one thing he
 especially is, possibly above all else, is noisy.<!--more--> Even amongst his
 peers (and 7-year-old boys is quite the peer group), he stands out as an
-order of magnitude or two **more** noisy. It's not _just_ talking - he walks
+order of magnitude or two **more** noisy. It's not _just_ talking---he walks
 noisily, he eats noisily, he plays noisily. If there's a way of doing
 something, you better believe he'll be doing it with the decibels turned up.
 
