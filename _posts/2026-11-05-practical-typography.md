@@ -7,7 +7,7 @@ tags: [books, tech]
 
 I just finished up reading a book that was _way_ out of my wheelhouse;
 [Butterick's Practical Typography](https://practicaltypography.com/) is an
-introduction to modern typographical practices. A colleague recommended I read
+introduction to modern typographical practices.<!--more--> A colleague recommended I read
 it, and share what I thought about it.
 
 ## Online economics
