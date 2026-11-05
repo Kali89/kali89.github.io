@@ -233,3 +233,33 @@
   color: $color-text-light;
   font-weight: 400;
 }
+
+// Paired figures (before / after comparisons)
+.figure-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin: 1.5em 0;
+
+  @media (max-width: $breakpoint-sm) {
+    grid-template-columns: 1fr;
+  }
+
+  figure {
+    margin: 0;
+  }
+
+  img {
+    margin: 0;
+    border: 1px solid $color-border;
+  }
+
+  figcaption {
+    font-family: $font-heading;
+    font-size: 0.85rem;
+    color: $color-text-light;
+    text-align: center;
+    margin-top: 0.4em;
+  }
+}
