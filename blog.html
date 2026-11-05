@@ -10,7 +10,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <li class="post-list-item">
       <h2 class="post-list-title">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title | smartify }}</a>
       </h2>
       <p class="post-list-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">

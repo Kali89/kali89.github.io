@@ -20,7 +20,7 @@ body_class: home
 {% if latest_post %}
 <article class="featured-post">
   <h2 class="featured-post-title">
-    <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a>
+    <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title | smartify }}</a>
   </h2>
   <p class="featured-post-date">
     <time datetime="{{ latest_post.date | date_to_xmlschema }}">
@@ -42,7 +42,7 @@ body_class: home
     {% for post in other_posts %}
       <li class="post-list-item">
         <h3 class="post-list-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <a href="{{ post.url | relative_url }}">{{ post.title | smartify }}</a>
         </h3>
         <p class="post-list-meta">
           <time datetime="{{ post.date | date_to_xmlschema }}">

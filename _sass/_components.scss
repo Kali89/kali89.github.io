@@ -18,8 +18,8 @@
   h1 {
     margin-top: 0;
     margin-bottom: 0.3em;
-    font-size: 2.75rem;
-    font-weight: 300;
+    font-size: 2.1rem;
+    font-weight: 400;
     letter-spacing: -0.02em;
   }
   
@@ -50,12 +50,13 @@
 // Featured post (latest post on homepage)
 .featured-post {
   margin-bottom: $spacing-lg;
+  max-width: $max-width;
 }
 
 .featured-post-title {
-  font-size: 2rem;
+  font-size: 1.6rem;
   margin: 0 0 0.3em;
-  font-weight: 300;
+  font-weight: 400;
   
   a {
     color: $color-text;
@@ -74,8 +75,8 @@
 }
 
 .featured-post-excerpt {
-  font-size: 1.05rem;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: $line-height-body;
   color: $color-text;
   
   p {
@@ -111,7 +112,7 @@
 
 .post-list-title {
   margin: 0 0 0.25em;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 400;
   
   a {
@@ -140,6 +141,7 @@
 // Older posts section
 .older-posts {
   margin-top: $spacing-lg;
+  max-width: $max-width;
 }
 
 .older-posts-heading {
@@ -159,8 +161,8 @@
 
 .post-title {
   margin: 0 0 0.3em;
-  font-size: 2.5rem;
-  font-weight: 300;
+  font-size: 1.9rem;
+  font-weight: 400;
 }
 
 .post-meta {
@@ -217,7 +219,7 @@
 
 .page-title {
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 // Section headings
