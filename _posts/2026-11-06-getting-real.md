@@ -15,7 +15,7 @@ Painters.
 ## Showing its age
 
 The first thing that struck me about the book was that it feels dated. In the
-early chapters, the authors presents two alternatives: release versioned
+early chapters, the authors present two alternatives: release versioned
 software every few years on CD-ROMs, or release something every day (or at
 least once a month) on a website. Maybe that advice would have hit differently
 in 2006, but in 2026, it feels like it belongs in a museum.
@@ -43,7 +43,7 @@ anything else all but impossible.
 I've worked at companies of a variety of sizes. The smallest was probably
 around 10-15 people (not counting my own start up), and the biggest was
 around 150,000 (although in tech, I'd say Spotify hit around 8,000 while I was
-there).  The book is unashamedly focussed on small companies and start ups, and while it
+there). The book is unashamedly focussed on small companies and start ups, and while it
 says that these techniques can be used at larger companies, there was one part
 that really led me to think that might not be the case.
 
@@ -153,5 +153,5 @@ Sticking close to the customer and offering unusually good customer service may
 well be what takes you from 10,000 users to 100,000.
 
 Ultimately though, I feel like I've read all of this advice in other, later books. Perhaps it was first, but others have done it better since. And
-while a lot of this advice works well for a 5 person company, I prefer my
+while a lot of this advice works well for a five-person company, I prefer my
 advice to be more scalable, more battle-tested, and more rigorous.
