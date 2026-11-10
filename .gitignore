@@ -22,3 +22,12 @@ Thumbs.db
 
 # Environment
 .env
+
+# wp-post (WordPress publisher): local credentials and tool caches.
+# .wordpress/ is NOT ignored: it holds the committed, non-secret sync manifest.
+.wp-post.env
+.wp-post.env.*
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/

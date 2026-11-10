@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Markdown → WordPress publisher. See docs/wordpress-publishing.md.
+set -euo pipefail
+root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+if ! command -v uv >/dev/null 2>&1; then
+  echo "wp-post: uv is required (brew install uv); see docs/wordpress-publishing.md" >&2
+  exit 1
+fi
+# --frozen: use exactly the versions in uv.lock; never re-resolve.
+PYTHONPATH="$root/tools${PYTHONPATH:+:$PYTHONPATH}" \
+  exec uv run --quiet --frozen --project "$root" python -m wp_post "$@"

@@ -23,6 +23,13 @@ exclude:
   - README.md
   - vendor
   - tools
+  # WordPress publisher (production is WordPress; Jekyll is for local preview only)
+  - bin
+  - docs
+  - tests
+  - pyproject.toml
+  - uv.lock
+  - wp-post.env.example
 
 # Plugins (GitHub Pages supported)
 plugins:

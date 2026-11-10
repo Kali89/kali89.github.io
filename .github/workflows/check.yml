@@ -1,0 +1,37 @@
+# Checks only. This workflow never deploys and never contacts WordPress:
+# no secrets are configured or needed. Publishing is manual, via ./bin/wp-post.
+name: Check posts and publisher
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install locked dependencies
+        run: uv sync --frozen
+
+      - name: Lint
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+
+      - name: Tests (WordPress API is mocked)
+        run: uv run pytest -q
+
+      - name: Validate posts, front matter and local image references
+        run: ./bin/wp-post validate --all
+
+      - name: Check images for GPS/EXIF metadata
+        run: python3 tools/image_metadata.py check $(git ls-files 'assets/*.jpg' 'assets/*.jpeg' 'assets/*.png' '_posts/*.png' '_posts/*.jpg' '_drafts/*.png' '_drafts/*.jpg')

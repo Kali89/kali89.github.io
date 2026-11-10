@@ -3,6 +3,7 @@ layout: post
 title: "Dynamic Earth"
 date: 2026-02-18
 tags: [life, parenting, kids]
+wordpress_id: 57
 ---
 
 I spent the last couple of days in Edinburgh---my second favourite city (beaten

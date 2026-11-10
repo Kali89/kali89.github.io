@@ -1,0 +1,41 @@
+[project]
+name = "wp-post"
+version = "0.1.0"
+description = "Publish this repository's Markdown posts to WordPress (dogdogfish.com)."
+requires-python = ">=3.11"
+dependencies = [
+    "markdown-it-py>=3.0",
+    "mdit-py-plugins>=0.4",
+    "PyYAML>=6.0",
+    "requests>=2.31",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[tool.uv]
+# Not an installable package: bin/wp-post puts tools/ on PYTHONPATH.
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["tools"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+# image_metadata.py predates this tooling and has its own style; leave it alone.
+extend-exclude = ["tools/image_metadata.py", "_site"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S"]
+ignore = ["S101", "S603", "S607"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S105", "S106"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["wp_post", "conftest", "image_metadata"]

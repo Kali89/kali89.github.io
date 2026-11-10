@@ -1,198 +1,110 @@
-# My Jekyll Blog
+# DogDogFish
 
-A clean, minimal blog built with Jekyll and hosted on GitHub Pages at **dogdogfish.com**.
+The source for **[dogdogfish.com](https://dogdogfish.com)**.
 
-## Quick Start (Deploy to GitHub Pages)
+- **This repository is canonical.** Posts are written in Markdown, in `_drafts/`
+  and `_posts/`, and versioned here.
+- **WordPress.com is the publisher.** It handles rendering, comments, Likes,
+  Reader, subscriptions, newsletter emails and stats.
+- Posts reach WordPress only through `./bin/wp-post`, and **nothing goes live
+  without an explicit `publish`**. Committing and pushing never publish.
 
-### 1. Create a GitHub Repository
+The site used to be built by Jekyll and served from GitHub Pages; see
+[docs/migration-from-github-pages.md](docs/migration-from-github-pages.md).
 
-Go to [github.com/new](https://github.com/new) and create a new repository.
+## Daily workflow
 
-Name it anything you like (e.g., `blog` or `dogdogfish.com`). Since you're using a custom domain, the repository name doesn't affect your URL.
+```sh
+vim _drafts/my-post.md
+./bin/wp-post sync _drafts/my-post.md            # WordPress draft + preview URL
 
-### 2. Push This Code
+git mv _drafts/my-post.md _posts/2026-11-12-my-post.md
+./bin/wp-post publish _posts/2026-11-12-my-post.md    # summary, then type "publish"
 
-```bash
-cd matt-blog
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/yourusername/blog.git
-git push -u origin main
+./bin/wp-post update _posts/2026-11-12-my-post.md     # later edits to the live post
+git add -A && git commit -m "My post"            # include .wordpress/
 ```
 
-### 3. Enable GitHub Pages
+| Command | |
+|---|---|
+| `./bin/wp-post doctor [--setup]` | Check (or set up) credentials and permissions. Read-only |
+| `./bin/wp-post validate --all` | Offline checks of every post. No credentials needed |
+| `./bin/wp-post status FILE [--diff]` | How a file relates to its WordPress post |
+| `./bin/wp-post list` | WordPress posts ↔ local files |
+| `./bin/wp-post sync FILE` | Create/update a **draft**. Never touches live posts |
+| `./bin/wp-post publish FILE [--yes]` | First publication, with confirmation |
+| `./bin/wp-post update FILE` | Update an existing post in place, keeping its status |
 
-1. Go to your repository on GitHub
-2. Click **Settings** → **Pages** (in the left sidebar)
-3. Under "Source", select **GitHub Actions**
-4. Wait a minute or two for the first build
+`sync`, `publish` and `update` take `--dry-run` (no writes) and `--force`
+(deliberately override a detected conflict).
 
-### 4. Verify Your Custom Domain (Recommended)
+**Full guide:** [docs/wordpress-publishing.md](docs/wordpress-publishing.md).
+It covers setup, Application Passwords, conflicts, images, scheduling, Reader,
+the newsletter, comments, Likes, credential rotation and troubleshooting.
 
-For security, verify your domain with GitHub:
+## First-time setup
 
-1. Go to your GitHub account **Settings** (click your profile photo → Settings)
-2. Click **Pages** in the left sidebar
-3. Click **Add a domain** and enter `dogdogfish.com`
-4. Follow the instructions to add a TXT record to your DNS
-
-### 5. Configure Your Custom Domain
-
-In your repository's **Settings → Pages**:
-
-1. Under "Custom domain", enter `dogdogfish.com`
-2. Click **Save**
-3. Once DNS propagates, tick **Enforce HTTPS**
-
-Your site will be live at **https://dogdogfish.com** 🎉
-
-## Writing New Posts
-
-### Create a Post
-
-Add a new file to the `_posts` folder with this naming format:
-
-```
-_posts/YYYY-MM-DD-title-of-your-post.md
+```sh
+brew install uv                    # if needed
+./bin/wp-post doctor --setup       # stores an Application Password (Keychain or .wp-post.env)
 ```
 
-For example: `_posts/2026-01-10-my-thoughts-on-python.md`
+See [Authentication](docs/wordpress-publishing.md#authentication) for creating
+the Application Password. Never commit credentials: `.wp-post.env` is
+git-ignored, and `wp-post.env.example` lists the variable names.
 
-### Post Format
+## Post format
 
-Every post needs "front matter" at the top:
+Existing Jekyll front matter works unchanged:
 
 ```markdown
 ---
 layout: post
 title: "My Post Title"
-date: 2026-01-10
+date: 2026-11-12
 tags: [python, data-science]
 ---
 
-Your content here in Markdown...
+Teaser.<!--more-->
 
-## Subheading
-
-More content...
-
-```python
-# Code blocks work too
-print("Hello, world!")
-```
+Markdown content here.
 ```
 
-### Working with Drafts
+Also supported: `slug`, `categories`, `excerpt`, `featured_image`,
+`comments`/`comment_status`, and `wordpress_id` (written by the tool).
+The date and slug come from the filename when front matter doesn't set them.
 
-Put work-in-progress posts in `_drafts/` (no date in filename):
+## Repository layout
 
 ```
-_drafts/my-unfinished-post.md
+_posts/, _drafts/      Markdown posts (canonical)
+assets/images/         Images; uploaded to the media library on sync
+.wordpress/            Committed sync manifest: post baselines, media IDs. No secrets
+bin/wp-post            The publisher CLI (code in tools/wp_post/, tests in tests/)
+tools/image_metadata.py  GPS/EXIF check, used by the pre-commit hook and by wp-post
+docs/                  Publishing guide and migration note
+_layouts/, _sass/, …   Jekyll theme: local preview only
 ```
 
-Drafts won't be published until you move them to `_posts/` with a date.
+## Development
 
-## Local Development (Optional)
+```sh
+uv run pytest -q                                   # WordPress API fully mocked
+uv run ruff check . && uv run ruff format --check .
+git config core.hooksPath .githooks                # image-metadata pre-commit hook
+```
 
-If you want to preview your site locally before publishing:
+CI (`.github/workflows/check.yml`) runs the same checks plus
+`wp-post validate --all`. It has no WordPress credentials and never contacts
+WordPress.
 
-### Prerequisites
+## Local Jekyll preview (optional)
 
-- Ruby (2.7 or higher)
-- Bundler (`gem install bundler`)
+The Jekyll theme still builds locally for previewing Markdown:
 
-### Setup
-
-```bash
+```sh
 bundle install
+bundle exec jekyll serve --drafts    # http://localhost:4000
 ```
 
-### Run Locally
-
-```bash
-bundle exec jekyll serve
-```
-
-Then visit `http://localhost:4000` in your browser.
-
-## Customisation
-
-### Site Settings
-
-Edit `_config.yml` to change:
-
-- `title` - Your blog's name
-- `description` - Site description (for SEO)
-- `author` - Your name
-- `url` - Your site's URL (once deployed)
-
-### Styling
-
-The site uses SCSS for styling. Key files:
-
-- `_sass/_variables.scss` - Colours, fonts, spacing
-- `_sass/_base.scss` - Basic element styles
-- `_sass/_layout.scss` - Header, footer, content layout
-- `_sass/_components.scss` - Post lists, tags, etc.
-
-### Adding Pages
-
-Create a new `.md` file in the root directory:
-
-```markdown
----
-layout: page
-title: "My New Page"
-permalink: /my-page/
----
-
-Page content here...
-```
-
-Then add it to the navigation in `_layouts/default.html`.
-
-## Useful Markdown Tips
-
-```markdown
-**Bold text**
-*Italic text*
-[Link text](https://example.com)
-![Image alt text](/assets/images/photo.jpg)
-
-> Blockquote
-
-- Bullet list
-- Another item
-
-1. Numbered list
-2. Second item
-```
-
-## File Structure
-
-```
-matt-blog/
-├── _config.yml          # Site configuration
-├── _layouts/            # Page templates
-│   ├── default.html     # Main wrapper
-│   ├── page.html        # Static pages
-│   └── post.html        # Blog posts
-├── _posts/              # Your blog posts
-│   └── 2026-01-05-welcome.md
-├── _drafts/             # Unpublished drafts
-├── _sass/               # Stylesheets
-├── assets/
-│   ├── css/
-│   └── images/          # Your images
-├── about.md             # About page
-├── blog.html            # Blog index
-└── index.html           # Homepage
-```
-
-## Need Help?
-
-- [Jekyll Documentation](https://jekyllrb.com/docs/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Markdown Guide](https://www.markdownguide.org/)
+Production rendering is WordPress's theme, so this is an approximation.
