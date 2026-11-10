@@ -3,6 +3,7 @@ layout: post
 title: "A Proud Dad"
 date: 2026-06-24
 tags: [kids, parenting]
+wordpress_id: 103
 ---
 
 Just a quick post to recognise a couple of awesome things my kids have

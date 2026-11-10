@@ -3,6 +3,7 @@ layout: post
 title: "Rationality, Reward, and Sleep Training"
 date: 2026-01-10
 tags: [psychology, parenting]
+wordpress_id: 38
 ---
 
 Let us assume that babies are rational economic creatures who act in their own

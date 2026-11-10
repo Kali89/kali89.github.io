@@ -1,0 +1,21 @@
+{
+  "ever_published": true,
+  "extra": {},
+  "link": "https://dogdogfish.com/2026/06/30/hacking-with-llms/",
+  "managed_excerpt": false,
+  "remote_hashes": {
+    "categories": "6b86b273ff34fce1",
+    "content": "a7e7e753e1b44b77",
+    "excerpt": "0cd2fe9554ccae0c",
+    "tags": "6530933566b9ee5c",
+    "title": "71439687c7a1ea62"
+  },
+  "remote_modified_gmt": "2026-11-10T15:44:46",
+  "sent_hash": "4cfb4baa131d9571",
+  "slug": "hacking-with-llms",
+  "source": "_posts/2026-06-30-hacking-with-llms.md",
+  "status": "publish",
+  "synced_at": "2026-11-10T15:44:46Z",
+  "version": 1,
+  "wordpress_id": 105
+}

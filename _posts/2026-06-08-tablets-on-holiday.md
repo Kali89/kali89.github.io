@@ -3,6 +3,7 @@ layout: post
 title: "Tablets on Holiday"
 date: 2026-06-08
 tags: [parenting, kids, psychology]
+wordpress_id: 98
 ---
 
 One of the biggest surprises that I had on holiday was the sheer number of

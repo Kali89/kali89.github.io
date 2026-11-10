@@ -3,6 +3,7 @@ layout: post
 title: "A Trampoline"
 date: 2026-07-29
 tags: [parenting, kids]
+wordpress_id: 112
 ---
 
 I didn't want to buy a trampoline. It wasn't the money.<!--more--> It was the

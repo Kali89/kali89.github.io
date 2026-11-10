@@ -3,6 +3,7 @@ layout: post
 title: "A slow winter Sunday"
 date: 2026-01-11
 tags: [life]
+wordpress_id: 39
 ---
 
 Yesterday morning I chased two horses. Today, it's been exactly the sort of slow Sunday that a life is made of. Some days are

@@ -3,6 +3,7 @@ layout: post
 title: "Globalisation"
 date: 2026-06-12
 tags: [psychology, economics]
+wordpress_id: 99
 ---
 
 I'm going to embarrass myself here by talking about things that other people

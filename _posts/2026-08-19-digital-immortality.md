@@ -3,6 +3,7 @@ layout: post
 title: "Digital Immortality"
 date: 2026-08-19
 tags: [tech]
+wordpress_id: 121
 ---
 
 Even now, as you're reading these words, hundreds of robots are poring over

@@ -3,6 +3,7 @@ layout: post
 title: "Heavy Metal Boy"
 date: 2026-02-03
 tags: [parenting, kids]
+wordpress_id: 50
 ---
 
 My six-year-old loves heavy metal. I didn't plan this in any kind of way, but

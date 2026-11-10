@@ -3,6 +3,7 @@ layout: post
 title: "Unusual Things Kids Say"
 date: 2026-03-07
 tags: [parenting, kids]
+wordpress_id: 64
 ---
 
 There are so many funny things that kids say, and I don't know that it's funny

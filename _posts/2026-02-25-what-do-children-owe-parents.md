@@ -3,6 +3,7 @@ layout: post
 title: "What do Children owe their Parents?"
 date: 2026-02-25
 tags: [parenting, philosophy]
+wordpress_id: 61
 ---
 
 Like I'm sure most parents do, I spent a lot of time thinking about how much I

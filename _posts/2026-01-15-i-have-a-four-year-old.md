@@ -3,6 +3,7 @@ layout: post
 title: "I have a four-year old"
 date: 2026-01-15
 tags: [kids, parenting]
+wordpress_id: 43
 ---
 
 Happy Birthday! Not today, but at some point over the last few days I went from

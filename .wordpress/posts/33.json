@@ -1,0 +1,21 @@
+{
+  "ever_published": true,
+  "extra": {},
+  "link": "https://dogdogfish.com/2026/01/05/welcome-to-my-blog/",
+  "managed_excerpt": false,
+  "remote_hashes": {
+    "categories": "d4735e3a265e16ee",
+    "content": "7f793c078162e7d8",
+    "excerpt": "0cd2fe9554ccae0c",
+    "tags": "921731bff09fa866",
+    "title": "dffd6021bb2bd5b0"
+  },
+  "remote_modified_gmt": "2026-11-10T15:41:04",
+  "sent_hash": "bafba03daee4c180",
+  "slug": "welcome-to-my-blog",
+  "source": "_posts/2026-01-05-welcome-to-my-blog.md",
+  "status": "publish",
+  "synced_at": "2026-11-10T15:41:04Z",
+  "version": 1,
+  "wordpress_id": 33
+}

@@ -3,6 +3,7 @@ layout: post
 title: "Viking Festival"
 date: 2026-02-21
 tags: [life, parenting, kids]
+wordpress_id: 58
 ---
 
 It's going to look like I spend a lot of my time doing events and supporting my

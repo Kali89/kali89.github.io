@@ -3,6 +3,7 @@ layout: post
 title: "Social Media is Gambling: Let's treat it as such"
 date: 2026-01-28
 tags: [social media, psychology, politics]
+wordpress_id: 47
 ---
 
 Fine---you drove me to it. Last time I posted about this I hit the number 1

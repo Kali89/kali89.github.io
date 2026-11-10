@@ -3,6 +3,7 @@ layout: post
 title: "Wellies on her hands"
 date: 2026-03-18
 tags: [kids, parenting]
+wordpress_id: 69
 ---
 
 I want to tell a little story about a fun little incident that happened a few

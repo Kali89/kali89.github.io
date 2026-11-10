@@ -3,6 +3,7 @@ layout: post
 title: "Home Alone"
 date: 2026-07-31
 tags: [parenting, life]
+wordpress_id: 113
 ---
 
 I'm home alone!<!--more--> My wife has taken the incredibly bold step of

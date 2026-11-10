@@ -3,6 +3,7 @@ layout: post
 title: "AI is a Collective Disaster"
 date: 2026-09-30
 tags: [tech, ai]
+wordpress_id: 131
 ---
 
 It takes two incomes to buy a home, my kids can't play on the street any more,

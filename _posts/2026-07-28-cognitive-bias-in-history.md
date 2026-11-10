@@ -3,6 +3,7 @@ layout: post
 title: "Cognitive Bias in History"
 date: 2026-07-28
 tags: [psychology, history]
+wordpress_id: 111
 ---
 
 I just started reading Barbara Tuchman's "The Proud Tower" and, while I'm only

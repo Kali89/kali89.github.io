@@ -3,6 +3,7 @@ layout: post
 title: "Week Three"
 date: 2026-03-02
 tags: [life]
+wordpress_id: 63
 ---
 
 Checking in again with my running tally of what I'm getting up to on this very

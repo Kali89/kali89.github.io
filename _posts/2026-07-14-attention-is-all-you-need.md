@@ -3,6 +3,7 @@ layout: post
 title: "Attention is all you need"
 date: 2026-07-13
 tags: [psychology, tech]
+wordpress_id: 108
 ---
 
 No---not _that_ one. One thing I think the eruption of LLM-assisted development

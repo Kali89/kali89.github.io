@@ -3,6 +3,7 @@ layout: post
 title: "An Ode to Wetherspoons"
 date: 2026-03-24
 tags: [life]
+wordpress_id: 72
 ---
 
 JD Wetherspoons operate a large number (nearly 1,000) of pubs in the United

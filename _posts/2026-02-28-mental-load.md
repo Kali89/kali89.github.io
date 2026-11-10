@@ -3,6 +3,7 @@ layout: post
 title: "Mental Load: The Other Side"
 date: 2026-02-28
 tags: [life, psychology, parenting]
+wordpress_id: 62
 ---
 
 I've been married for 7 years now, have three small children, and am perennially online. To be unaware of the concept of 'mental load' at this point would require wilful ignorance. For those of you who are unfamiliar with the term, it's essentially the managerial aspect of household/familial management. Taking the bins out is a job. Knowing when the bins need to be taken out and ensuring that it happens is the mental load associated with that job.<!--more-->

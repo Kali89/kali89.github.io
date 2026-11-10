@@ -3,6 +3,7 @@ layout: post
 title: "How to Build a Habit"
 date: 2026-01-12
 tags: [psychology]
+wordpress_id: 40
 ---
 
 I'm doing my DPhil on digital habits and have therefore spent a whole bunch of

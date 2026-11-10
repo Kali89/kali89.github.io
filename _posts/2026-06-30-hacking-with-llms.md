@@ -3,6 +3,7 @@ layout: post
 title: "Hacking with LLMs"
 date: 2026-06-30
 tags: [programming, data]
+wordpress_id: 105
 ---
 
 Over the last few months I've been spending a fair amount of time programming

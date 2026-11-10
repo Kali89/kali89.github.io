@@ -3,6 +3,7 @@ layout: post
 title: "Practical Typography"
 date: 2026-11-05
 tags: [books, tech]
+wordpress_id: 139
 ---
 
 I just finished up reading a book that was _way_ out of my wheelhouse;

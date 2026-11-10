@@ -3,6 +3,7 @@ layout: post
 title: "Words that mean nothing"
 date: 2026-02-06
 tags: [psychology, politics]
+wordpress_id: 51
 ---
 
 The opening ceremony of the Winter Olympics is on and OH MY GOD. To say that

@@ -3,6 +3,7 @@ layout: post
 title: "Trickle Treat"
 date: 2026-11-03
 tags: [kids, parenting]
+wordpress_id: 138
 ---
 
 With Halloween comes Trick or Treating---clearly one of the best night of the

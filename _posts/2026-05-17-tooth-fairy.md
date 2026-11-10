@@ -3,6 +3,7 @@ layout: post
 title: "Tooth Fairy"
 date: 2026-05-17
 tags: [kids, parenting]
+wordpress_id: 87
 ---
 
 Today my eldest lost one of his big front teeth eating a bit of fudge on a

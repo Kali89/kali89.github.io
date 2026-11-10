@@ -3,6 +3,7 @@ layout: post
 title: "Economics of All-Inclusive"
 date: 2026-06-04
 tags: [psychology, economics]
+wordpress_id: 95
 ---
 
 One of the things I spent a bit of time thinking about on holiday was the

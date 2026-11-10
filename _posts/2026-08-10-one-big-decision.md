@@ -3,6 +3,7 @@ layout: post
 title: "One Big Decision"
 date: 2026-08-10
 tags: [psychology]
+wordpress_id: 118
 ---
 
 I've been thinking about MRR (monthly recurring revenue) versus ARR (annual)

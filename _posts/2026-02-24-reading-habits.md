@@ -3,6 +3,7 @@ layout: post
 title: "Paying Children to Read"
 date: 2026-02-24
 tags: [life, psychology]
+wordpress_id: 60
 ---
 
 I finished a book last night, and it was a good one! ***The Final Empire*** by

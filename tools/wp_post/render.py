@@ -50,14 +50,17 @@ class ImageRef:
 
 
 def _markdown() -> MarkdownIt:
-    md = MarkdownIt("commonmark", {"html": True, "typographer": False, "linkify": False})
-    md.enable(["table", "strikethrough"])
+    # Typography is done here, as kramdown did under Jekyll: curly quotes, and
+    # "---" → em dash, "--" → en dash, "..." → ellipsis. Don't rely on WordPress
+    # for this: dogdogfish.com does not run wptexturize on post content or
+    # titles (verified 2026-11-10). Code spans and blocks are left untouched.
+    md = MarkdownIt("commonmark", {"html": True, "typographer": True, "linkify": False})
+    md.enable(["table", "strikethrough", "replacements", "smartquotes"])
     md.use(footnote_plugin)
     # A soft line break is just whitespace. Emitting a space rather than "\n"
     # keeps wrapped Markdown from leaking line structure into WordPress.
     md.add_render_rule("softbreak", lambda self, tokens, idx, options, env: " ")
-    # Leave quotes literal in text so WordPress's wptexturize can curl them, as
-    # kramdown's smart quotes did under Jekyll. (Attributes are still escaped.)
+    # Text nodes need only &, < and > escaped. (Attributes are still fully escaped.)
     md.add_render_rule(
         "text", lambda self, tokens, idx, options, env: html.escape(tokens[idx].content, False)
     )
@@ -65,6 +68,16 @@ def _markdown() -> MarkdownIt:
 
 
 _MD = _markdown()
+
+_MD_SYNTAX_RE = re.compile(r"([\\`*_\[\]<>!#~|])")
+
+
+def smarten(text: str) -> str:
+    """Apply the same typography to plain text (e.g. titles) without
+    interpreting it as Markdown: "Let's go..." → "Let’s go…"."""
+    escaped = _MD_SYNTAX_RE.sub(r"\\\1", text)
+    tokens = _MD.parseInline(escaped)
+    return "".join(child.content for child in tokens[0].children or [])
 
 
 def _walk(tokens: Iterable[Token]) -> Iterable[Token]:
@@ -219,4 +232,34 @@ def render(body: str, media: Mapping[str, MediaRef] | None = None, doc_id: str =
     uploaded media. Unmapped images (external URLs) are left untouched.
     `doc_id` namespaces footnote anchors so two posts on one page cannot clash.
     """
-    return _Renderer(media or {}, doc_id).render(body)
+    return _Renderer(media or {}, doc_id).render(normalise_more(body))
+
+
+LEADING_MORE_RE = re.compile(r"^([ \t]*)<!--\s*more\s*-->[ \t]*(?=\S)(.*)$", re.IGNORECASE)
+FENCE_RE = re.compile(r"^[ \t]{0,3}(```|~~~)")
+
+
+def normalise_more(body: str) -> str:
+    """Handle `<!--more--> Text...` at the start of a line.
+
+    CommonMark treats a line beginning with `<!--` as a raw HTML block, so the
+    Markdown after the marker would not be processed. Kramdown read the marker
+    as inline. To match that, move it to the end of the previous line, or onto
+    its own line if it starts a paragraph. Fenced code is left alone.
+    """
+    lines = body.split("\n")
+    out: list[str] = []
+    in_fence = False
+    for line in lines:
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+        m = None if in_fence else LEADING_MORE_RE.match(line)
+        if not m:
+            out.append(line)
+            continue
+        if out and out[-1].strip():
+            out[-1] += "<!--more-->"
+        else:
+            out.extend(["<!--more-->", ""])
+        out.append(m.group(1) + m.group(2))
+    return "\n".join(out)

@@ -3,6 +3,7 @@ layout: post
 title: "Social Media Ban"
 date: 2026-06-15
 tags: [social media]
+wordpress_id: 100
 ---
 
 Teenagers of the world rejoice! The Government's announcement today of a

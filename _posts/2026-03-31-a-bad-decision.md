@@ -3,6 +3,7 @@ layout: post
 title: "A Bad Decision"
 date: 2026-03-31
 tags: [kids, parenting]
+wordpress_id: 74
 ---
 
 Ugh. Today I made a bad decision and I'd like to share it because...I don't

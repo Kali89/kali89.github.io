@@ -3,6 +3,7 @@ layout: post
 title: "Parenting: The Mundane and the Magical"
 date: 2026-01-08
 tags: [parenting, children]
+wordpress_id: 36
 ---
 
 I have three small children---currently a 6 year old, a 3 year old and a 6

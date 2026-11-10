@@ -3,6 +3,7 @@ layout: post
 title: "Poltergeist"
 date: 2026-09-07
 tags: [parenting, kids]
+wordpress_id: 126
 ---
 
 My wife recently shared a theory that I can't shift. My one-year-old is a

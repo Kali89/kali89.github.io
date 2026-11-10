@@ -3,6 +3,7 @@ layout: post
 title: "Tolstoy, Amodei, and Machines of Loving Grace"
 date: 2026-11-09
 tags: [tech, literature]
+wordpress_id: 142
 ---
 
 Why do men stupefy themselves?<!--more-->

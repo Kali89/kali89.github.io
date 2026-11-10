@@ -3,6 +3,7 @@ layout: post
 title: "Trampoline in the Sun"
 date: 2026-05-24
 tags: [life, kids]
+wordpress_id: 92
 ---
 
 Nearly a perfect day today, with a particular highlight early on.<!--more-->

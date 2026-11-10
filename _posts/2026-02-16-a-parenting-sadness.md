@@ -3,6 +3,7 @@ layout: post
 title: "Parenting Sadness: Mourning something lost"
 date: 2026-02-16
 tags: [parenting, kids]
+wordpress_id: 56
 ---
 
 I've shared before that I think parenting is drudgery, moments

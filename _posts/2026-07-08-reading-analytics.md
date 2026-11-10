@@ -3,6 +3,7 @@ layout: post
 title: "Reading Analytics"
 date: 2026-07-08
 tags: [life, data]
+wordpress_id: 106
 ---
 
 I've already shared that I read every night and have done for years (and, at

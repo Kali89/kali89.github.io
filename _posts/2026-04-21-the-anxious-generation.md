@@ -3,6 +3,7 @@ layout: post
 title: "The Anxious Generation"
 date: 2026-04-21
 tags: [psychology, parenting]
+wordpress_id: 79
 ---
 
 I just finished listening to the audiobook of Jonathan Haidt's The Anxious

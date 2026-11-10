@@ -3,6 +3,7 @@ layout: post
 title: "Dashboards are bad (and you should feel bad)"
 date: 2026-01-06
 tags: [data science, dashboards]
+wordpress_id: 34
 ---
 
 For years and years I've been referencing a particularly excellent blog post---[The laws of shitty

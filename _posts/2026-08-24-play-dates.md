@@ -3,6 +3,7 @@ layout: post
 title: "Play Dates"
 date: 2026-08-24
 tags: [parenting, kids]
+wordpress_id: 123
 ---
 
 Yesterday it was my son's 7th birthday party.<!--more--> He had four friends

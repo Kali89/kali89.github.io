@@ -3,6 +3,7 @@ layout: post
 title: "Ripon Grammar School Admissions"
 date: 2026-02-22
 tags: [data, parenting, kids]
+wordpress_id: 59
 ---
 
 A beautiful kind of cross-over post today---half of the time I write about data

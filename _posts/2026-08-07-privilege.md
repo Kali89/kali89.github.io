@@ -3,6 +3,7 @@ layout: post
 title: "Privilege"
 date: 2026-08-07
 tags: [parenting, kids]
+wordpress_id: 117
 ---
 
 After a week of ghosting round the house by myself, my wife and children and

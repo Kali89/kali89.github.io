@@ -1,0 +1,143 @@
+{
+  "media": {
+    "assets/images/baby_fire.jpg": {
+      "how": "adopted",
+      "id": 22,
+      "sha256": "867a5d9518518a2fb9039ca0b39e2b2ef4a9647099faeda0247bd26229143028",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/baby_fire.jpg"
+    },
+    "assets/images/easter_board.jpg": {
+      "how": "adopted",
+      "id": 25,
+      "sha256": "48c181118886683baf242a5b11eaf4e1ab92fd8c56dbe42273735a91940b0f16",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/easter_board.jpg"
+    },
+    "assets/images/fig_distance_safety.png": {
+      "how": "adopted",
+      "id": 15,
+      "sha256": "341dbb5ffdd5a827af33b5b6984e47ce9fbcc074fbf65cfd749531300fa990a1",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/fig_distance_safety.png"
+    },
+    "assets/images/fig_projections.png": {
+      "how": "adopted",
+      "id": 16,
+      "sha256": "0a31729ccf710b60c5569691954b8c254b2b3fa0430c6cab555dd7447b139b62",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/fig_projections.png"
+    },
+    "assets/images/fourth_birthday_list.png": {
+      "how": "adopted",
+      "id": 23,
+      "sha256": "2aea6ea215a5692960f1752eac22944d93769687fd1c2c8c1851373f32af512a",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/fourth_birthday_list.png"
+    },
+    "assets/images/grouped_alarm.png": {
+      "how": "adopted",
+      "id": 14,
+      "sha256": "fb30db9eac85e57ffc81f02f845008db1527ee2c5409ff6edbf16a1255992ab5",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/grouped_alarm.png"
+    },
+    "assets/images/hawaii_monk_seal.jpg": {
+      "how": "adopted",
+      "id": 20,
+      "sha256": "98130dbfb8eda59f2b0a0108bbda9a8abb722df2e393c7c42042c1916e4ae20a",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/hawaii_monk_seal.jpg"
+    },
+    "assets/images/hawaii_sunset.jpg": {
+      "how": "adopted",
+      "id": 21,
+      "sha256": "9d6e3575dddd6daf698ed9541075716eb1b2feebd8480aea57378516a6e4870e",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/hawaii_sunset.jpg"
+    },
+    "assets/images/hawaii_surf_lessons.jpg": {
+      "how": "adopted",
+      "id": 18,
+      "sha256": "8e600a7aefff6b274d1d6a75fc3a55223b847ff726b20e5ee2755f4227d0d122",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/hawaii_surf_lessons.jpg"
+    },
+    "assets/images/hawaii_waikiki.jpg": {
+      "how": "adopted",
+      "id": 19,
+      "sha256": "dda2f87c28c1f3ef971444f7ccf6014d4188935656a88793ef4af32209829f39",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/hawaii_waikiki.jpg"
+    },
+    "assets/images/housing-01-invisible-transfer.png": {
+      "how": "adopted",
+      "id": 6,
+      "sha256": "7b6b96b3fdaef38a090c219cfe3132cb97bab99a7659f5842be35ffb0f3a7428",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/housing-01-invisible-transfer.png"
+    },
+    "assets/images/housing-03-employer-subsidy.png": {
+      "how": "adopted",
+      "id": 11,
+      "sha256": "6a011cb665f9d6fc516c9556210ca9362022d308cc12f6d24f1e42eba0161d39",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/housing-03-employer-subsidy.png"
+    },
+    "assets/images/housing-04-supply-collapse.png": {
+      "how": "adopted",
+      "id": 9,
+      "sha256": "661957a65344df3fcb4702b85e5ce80b498fae7474d0b10a031b656947197031",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/housing-04-supply-collapse.png"
+    },
+    "assets/images/housing-06-subsidy-lottery.png": {
+      "how": "adopted",
+      "id": 8,
+      "sha256": "4d74c8d6da4786bd2147cb9b48326943792e50cabcd1dc07eaada33e3dc65f2d",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/housing-06-subsidy-lottery.png"
+    },
+    "assets/images/housing-08-grant-investment.png": {
+      "how": "adopted",
+      "id": 10,
+      "sha256": "9d3fdd0800416c3e6df659f14a56183547fc49e8b0ff84cd6d23ad6a905be084",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/housing-08-grant-investment.png"
+    },
+    "assets/images/long_range_alarm.png": {
+      "how": "adopted",
+      "id": 12,
+      "sha256": "10dc508dc5e15cba14d3e3852302bdc913b056933f1107fbfb1861eb7ed1cbad",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/long_range_alarm.png"
+    },
+    "assets/images/peppa_pig_cake.jpg": {
+      "how": "adopted",
+      "id": 24,
+      "sha256": "6a4489d3fc6c621389e681c48f5ea108ecba785acc904101a2c1adb49c5c58a6",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/peppa_pig_cake.jpg"
+    },
+    "assets/images/pram_village.jpg": {
+      "how": "adopted",
+      "id": 5,
+      "sha256": "e7d4f03d52fd32436ca07744a281df65c630fa6dcfe9e811651a57d61553b5c9",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/pram_village.jpg"
+    },
+    "assets/images/punch_bowl_inn.jpg": {
+      "how": "adopted",
+      "id": 17,
+      "sha256": "4d28c74f1a0f6347e740db67b961a9b780168da9ab6880649ac9521fcfeb2fae",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/punch_bowl_inn.jpg"
+    },
+    "assets/images/tweet_05_north_vs_london.png": {
+      "how": "adopted",
+      "id": 7,
+      "sha256": "86630660cb557c04e24c1d49f5bcb1d8366b16611cd716ca8a42c2ec8965cde9",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/tweet_05_north_vs_london.png"
+    },
+    "assets/images/typography-after.png": {
+      "how": "adopted",
+      "id": 27,
+      "sha256": "77dca404341ea146135c5312e8dd91c9617207f33953efdd622f7c06fcb1d534",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/typography-after.png"
+    },
+    "assets/images/typography-before.png": {
+      "how": "adopted",
+      "id": 26,
+      "sha256": "ae2bd7674b63ac6577127eb1961b3e3e7ef1ad3d8303ade0fbc4c38843a7cf02",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/typography-before.png"
+    },
+    "assets/images/zoomed_alarm.png": {
+      "how": "adopted",
+      "id": 13,
+      "sha256": "5113a71b8f83914a8c20b7f5a83874e6847c7a51d60e806359c48cd8428e2898",
+      "url": "https://dogdogfish.com/wp-content/uploads/2026/11/zoomed_alarm.png"
+    }
+  },
+  "version": 1
+}

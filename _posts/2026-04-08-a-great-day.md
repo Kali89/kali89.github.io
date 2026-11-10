@@ -3,6 +3,7 @@ layout: post
 title: "A Great Day"
 date: 2026-04-08
 tags: [life, parenting]
+wordpress_id: 76
 ---
 
 Today (and in particular, this afternoon) I had a great day.<!--more-->

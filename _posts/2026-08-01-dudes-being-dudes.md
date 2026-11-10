@@ -3,6 +3,7 @@ layout: post
 title: "Dudes being Dudes"
 date: 2026-08-01
 tags: [parenting, psychology]
+wordpress_id: 114
 ---
 
 This post *absolutely* benefits from musical backing so I'd recommend sticking

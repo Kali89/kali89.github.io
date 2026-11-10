@@ -3,6 +3,7 @@ layout: post
 title: "Getting Real"
 date: 2026-11-06
 tags: [books, tech]
+wordpress_id: 140
 ---
 
 The latest in my run of techy book reviews --- this time an old classic:

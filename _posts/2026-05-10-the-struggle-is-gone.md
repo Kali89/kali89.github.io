@@ -3,6 +3,7 @@ layout: post
 title: "The Struggle is Gone"
 date: 2026-05-10
 tags: [psychology, ai]
+wordpress_id: 84
 ---
 
 When I was 18 I started studying physics at University and got my first real

@@ -3,6 +3,7 @@ layout: post
 title: "Gyms and Libraries"
 date: 2026-02-10
 tags: [life, psychology]
+wordpress_id: 53
 ---
 
 I've just about managed to restart going to the gym, and I'm currently in the

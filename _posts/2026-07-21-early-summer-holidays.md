@@ -3,6 +3,7 @@ layout: post
 title: "Early Summer Holidays"
 date: 2026-07-14
 tags: [life, parenting]
+wordpress_id: 110
 ---
 
 It's day 2 of the summer holidays and I think it's going to be a long

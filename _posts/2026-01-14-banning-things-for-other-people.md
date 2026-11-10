@@ -3,6 +3,7 @@ layout: post
 title: "Banning Things for Other People is Easy"
 date: 2026-01-14
 tags: [politics, psychology]
+wordpress_id: 42
 ---
 
 Australia has moved to require social media companies to prevent under 16s from holding an account, and there's always talk of us

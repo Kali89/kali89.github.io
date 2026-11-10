@@ -3,6 +3,7 @@ layout: post
 title: "A Fine Balance"
 date: 2026-06-03
 tags: [books]
+wordpress_id: 94
 ---
 
 I read 'A Fine Balance' while I was on holiday. I've not actually written a

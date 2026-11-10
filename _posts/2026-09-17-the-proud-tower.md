@@ -3,6 +3,7 @@ layout: post
 title: "The Proud Tower"
 date: 2026-09-17
 tags: [history, review]
+wordpress_id: 130
 ---
 
 I shared a while ago that I was reading Barbara Tuchman's The Proud

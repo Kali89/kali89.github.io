@@ -3,6 +3,7 @@ layout: post
 title: "People as Harmonic Oscillators"
 date: 2026-01-13
 tags: [data, psychology]
+wordpress_id: 41
 ---
 
 I'm going to share a graph with you that I've been hawking around, in the vain

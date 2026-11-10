@@ -2,7 +2,7 @@ import textwrap
 
 from conftest import write_post
 from wp_post.document import load_post
-from wp_post.render import MediaRef, find_images, render
+from wp_post.render import MediaRef, find_images, render, smarten
 
 
 def r(md: str, media=None, doc_id="") -> str:
@@ -38,9 +38,18 @@ def test_more_tag_on_its_own_line():
     assert "<!-- wp:more -->" in r("A\n\n<!--more-->\n\nB\n")
 
 
-def test_soft_breaks_become_spaces_and_quotes_stay_literal():
-    out = r('He said "hi"\nand it\'s fine.\n')
-    assert '<p>He said "hi" and it\'s fine.</p>' in out
+def test_soft_breaks_become_spaces_and_typography_is_applied():
+    """The site does not run wptexturize, so we do kramdown-style typography."""
+    out = r('He said "hi"\nand it\'s fine --- really... 1--2. `don\'t "x" ---`\n')
+    assert (
+        "<p>He said “hi” and it’s fine — really… 1–2. <code>don't &quot;x&quot; ---</code></p>"
+        in out
+    )
+
+
+def test_smarten_titles_without_markdown():
+    assert smarten("Let's go...") == "Let’s go…"
+    assert smarten('"Tech & AI" *not* emphasis') == "“Tech & AI” *not* emphasis"
 
 
 def test_lists_quotes_rules_go_in_html_blocks():
@@ -166,3 +175,23 @@ def test_real_post_samples_render(repo):
     assert "time<sup>*</sup>." in out
     assert '<a href="https://example.com" title="t">link</a>' in out
     assert "<p><sup>*And some of the studies were on rats.</sup></p>" in out
+
+
+def test_more_at_line_start_followed_by_text_is_still_markdown():
+    """Kramdown treated `<!--more--> text` inline; CommonMark would make the line raw HTML."""
+    out = r("""
+        Intro line
+        <!--more--> It's *"inspiring"* stuff
+        and more.
+
+        <!--more--> Starts a **paragraph**.
+
+        ```
+        <!--more--> not touched in code
+        ```
+    """)
+    assert "<p>Intro line</p>" in out
+    assert "<p>It’s <em>“inspiring”</em> stuff and more.</p>" in out
+    assert "<p>Starts a <strong>paragraph</strong>.</p>" in out
+    assert out.count("<!-- wp:more -->") == 2
+    assert "&lt;!--more--&gt; not touched in code" in out

@@ -3,6 +3,7 @@ layout: post
 title: "Emotional 6 year old"
 date: 2026-06-08
 tags: [parenting, kids]
+wordpress_id: 97
 ---
 
 I hit a small bird (maybe a sparrow) with the big car the other day.<!--more--> I didn't

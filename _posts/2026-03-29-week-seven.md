@@ -3,6 +3,7 @@ layout: post
 title: "Week Seven"
 date: 2026-03-27
 tags: [life]
+wordpress_id: 73
 ---
 
 My seventh week has been and gone and to be honest, it's flown by. I'm now

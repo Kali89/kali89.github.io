@@ -41,7 +41,7 @@ from wp_post.errors import (
     ValidationError,
 )
 from wp_post.media import MediaAction, MediaManifest, MediaPlanner, collect_images
-from wp_post.render import MediaRef, has_block_delimiters, render
+from wp_post.render import MediaRef, has_block_delimiters, render, smarten
 from wp_post.state import (
     SyncState,
     fingerprint,
@@ -421,7 +421,7 @@ class Publisher:
         )
 
     def _desired(self, post, remote, state, content, tags, cats, featured, target) -> dict:
-        d: dict[str, Any] = {"title": post.title, "content": content, "slug": post.slug}
+        d: dict[str, Any] = {"title": smarten(post.title), "content": content, "slug": post.slug}
         if post.excerpt is not None:
             d["excerpt"] = post.excerpt
         elif state and state.managed_excerpt:

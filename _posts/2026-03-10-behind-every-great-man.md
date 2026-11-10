@@ -3,6 +3,7 @@ layout: post
 title: "Behind every great man..."
 date: 2026-03-10
 tags: [parenting, life]
+wordpress_id: 65
 ---
 
 I gave a talk today---an academic talk to a bunch of people (and an unknown

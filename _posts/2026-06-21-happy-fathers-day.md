@@ -3,6 +3,7 @@ layout: post
 title: "Happy Father's Day"
 date: 2026-06-21
 tags: [parenting, kids]
+wordpress_id: 101
 ---
 
 Happy Father's Day! I got woken up this morning with a tea after a delicious

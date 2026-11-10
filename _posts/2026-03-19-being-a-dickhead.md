@@ -3,6 +3,7 @@ layout: post
 title: "My Baby is a Dickhead"
 date: 2026-03-19
 tags: [kids, parenting]
+wordpress_id: 70
 ---
 
 Just a brief, somewhat provocatively titled post today. I don't mean it, but

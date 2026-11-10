@@ -3,6 +3,7 @@ layout: post
 title: "The Coming Silence"
 date: 2026-10-19
 tags: [kids, parenting]
+wordpress_id: 135
 ---
 
 My eldest son is 7 and is a lot of different things, but one thing he

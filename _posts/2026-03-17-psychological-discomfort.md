@@ -3,6 +3,7 @@ layout: post
 title: "Why does it feel uncomfortable to think about how much you use your phone?"
 date: 2026-03-17
 tags: [psychology]
+wordpress_id: 68
 ---
 
 As I've previously mentioned, I gave [a talk last

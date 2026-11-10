@@ -132,8 +132,10 @@ Other behaviour:
 
 - Front matter is never sent in the body. Jekyll-only keys (`layout`, `author`,
   `permalink`…) are ignored.
-- Quotes and dashes are left literal. WordPress curls them when it displays
-  the post, as kramdown did under Jekyll.
+- Typography is applied as kramdown did under Jekyll: curly quotes, `---` → —,
+  `--` → –, `...` → …, in the body and the title. Code is left alone.
+  wp-post does this itself because this site does **not** run WordPress's
+  `wptexturize` on posts (checked 2026-11-10).
 - Raw HTML (e.g. the `<figure>` pair in the typography post) passes through
   unchanged, apart from local `src` paths being rewritten to uploaded media.
 - Liquid (`{% %}`, `{{ }}`) is not rendered. No post uses it; `validate` warns

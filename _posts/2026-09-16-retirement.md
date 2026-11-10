@@ -3,6 +3,7 @@ layout: post
 title: "Retirement"
 date: 2026-09-16
 tags: [life, money]
+wordpress_id: 129
 ---
 
 I neither can, nor want to, retire.<!--more--> I'm more attracted by the _idea_
