@@ -114,6 +114,7 @@ class FakeWordPress:
             "categories": [1],
             "comment_status": "open",
             "featured_media": 0,
+            "meta": {"_jetpack_dont_email_post_to_subs": False},
         }
         post.update(fields)
         post["modified_gmt"] = self.tick()
@@ -249,6 +250,8 @@ class FakeWordPress:
         # create / update
         post = self.posts[ident] if ident else self.add_post(status="draft")
         fields = dict(body or {})
+        if "meta" in fields:  # WordPress merges meta keys rather than replacing
+            fields["meta"] = {**post["meta"], **fields["meta"]}
         if "date_gmt" in fields:
             fields["date"] = fields["date_gmt"]
         elif "date" in fields:

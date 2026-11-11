@@ -243,6 +243,57 @@ def test_publish_existing_draft_transitions_same_post(run, fake):
     assert len(fake.posts) == 1 and fake.posts[pid]["status"] == "publish"
 
 
+def test_newsletter_false_sets_meta_before_going_live(run, fake):
+    write_post(run.repo, POST, 'title: "Quiet"\nnewsletter: false')
+    code, out, err = run("publish", POST, "--yes")
+    assert code == 0, err
+    assert "will NOT be emailed" in out
+    first, last = fake.writes[-2]["json"], fake.writes[-1]["json"]
+    assert first["status"] == "draft" and first["meta"] == {
+        "_jetpack_dont_email_post_to_subs": True
+    }
+    assert last == {"status": "publish"}
+    post = fake.posts[max(fake.posts)]
+    assert post["status"] == "publish" and post["meta"]["_jetpack_dont_email_post_to_subs"]
+
+
+def test_newsletter_false_on_existing_draft_is_staged_then_published(run, fake):
+    write_post(run.repo, POST, 'title: "Quiet"')
+    run("sync", POST)
+    pid = max(fake.posts)
+    write_post(run.repo, POST, f'title: "Quiet"\nwordpress_id: {pid}\nnewsletter: false')
+    code, _, err = run("publish", POST, "--yes")
+    assert code == 0, err
+    assert [w["json"] for w in fake.writes[-2:]] == [
+        {"meta": {"_jetpack_dont_email_post_to_subs": True}},
+        {"status": "publish"},
+    ]
+    # Already set and unchanged: re-running update sends nothing.
+    assert run("update", POST)[0] == 0 and len(fake.writes) == 3
+
+
+def test_newsletter_meta_not_stored_refuses_to_publish(run, fake, monkeypatch):
+    write_post(run.repo, POST, 'title: "Quiet"\nnewsletter: false')
+    orig = fake._posts
+
+    def drop_meta(method, ident, params, body, data, headers):
+        if body and "meta" in body:
+            body = {k: v for k, v in body.items() if k != "meta"}
+        return orig(method, ident, params, body, data, headers)
+
+    monkeypatch.setattr(fake, "_posts", drop_meta)
+    code, _, err = run("publish", POST, "--yes")
+    assert code == 7 and "not publishing" in err
+    assert fake.posts[max(fake.posts)]["status"] == "draft"
+
+
+def test_default_publish_sends_no_newsletter_meta(run, fake):
+    write_post(run.repo, POST, 'title: "Loud"')
+    code, out, _ = run("publish", POST, "--yes")
+    assert code == 0 and "newsletter: false" in out  # the hint
+    assert all("meta" not in (w["json"] or {}) for w in fake.writes)
+
+
 def test_future_date_schedules(run, fake):
     write_post(run.repo, "_posts/2026-12-25-xmas.md", 'title: "Xmas"')
     code, out, _ = run("publish", "_posts/2026-12-25-xmas.md", "--yes")

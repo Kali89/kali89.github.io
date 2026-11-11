@@ -288,6 +288,7 @@ Supported front matter:
 | `excerpt` | Sets the WordPress excerpt. Without it, `<!--more-->` drives teasers |
 | `featured_image` | Local image path (see §15) |
 | `comment_status` / `comments` | `open`/`closed`, or `true`/`false`. See §12 |
+| `newsletter` | `false` publishes without emailing subscribers. See §11 |
 | `published: false` | Jekyll's flag. `publish` refuses the file |
 | `wordpress_id` | Written by wp-post. Edit by hand only to link a file deliberately |
 | `wordpress_modified` | Optional manual baseline hint. `wordpress_status` is ignored |
@@ -335,8 +336,9 @@ About to PUBLISH. This makes the post public.
   Tags:        python, data-science
   Categories:  (not set locally: existing or default category)
   Status:      draft → publish
-  First publication: yes. When it goes live, WordPress may email it to subscribers
-  (Jetpack Newsletter) and auto-share it to connected social accounts.
+  First publication: yes. When it goes live, WordPress will email it to subscribers
+  (Jetpack Newsletter) and may auto-share it to connected social accounts. Add
+  `newsletter: false` to skip the email.
 
 Type "publish" to make this post public:
 ```
@@ -416,9 +418,17 @@ scheduled post going live.
 - `sync` never makes anything public, so it never emails.
 - `update` never changes status, so editing a live post does not re-send it.
   wp-post never unpublishes and republishes, and never deletes and recreates.
-- wp-post sets no newsletter-related post meta. The site default applies. If
-  you need to publish one post *without* emailing, publish it from the
-  wp-admin editor, which shows the newsletter options for that post.
+- To publish a post **without** emailing it, add `newsletter: false` to its
+  front matter. wp-post sets Jetpack's per-post "don't email" flag
+  (`_jetpack_dont_email_post_to_subs`, the editor's newsletter-panel setting).
+  On `publish` it saves that flag while the post is still a draft, reads it
+  back, and only then changes the status in a separate request. If WordPress
+  did not keep the flag, it refuses to publish. The summary says
+  "will NOT be emailed". Social auto-sharing is a separate setting.
+- Without the key, wp-post sends no newsletter meta and the site default
+  (email) applies. `newsletter: true` explicitly clears the flag.
+- The flag only matters at first publication. Changing it on a live post
+  sends no email and recalls none.
 - Migrated posts are already published. Nothing here will email them.
 - Publicize/Jetpack Social may also share a newly published post to connected
   accounts. Check Tools → Marketing → Connections if that matters.

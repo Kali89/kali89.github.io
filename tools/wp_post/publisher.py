@@ -53,6 +53,9 @@ from wp_post.terms import READER_TERM_LIMIT, TermPlan, TermResolver, combined_te
 from wp_post.ui import Console
 
 LIVE = {"publish", "private"}
+# Jetpack Newsletter's per-post "don't email this to subscribers" flag: the same
+# meta the block editor's newsletter panel sets.
+DONT_EMAIL = "_jetpack_dont_email_post_to_subs"
 NOT_YET_PUBLIC = {"draft", "pending"}
 
 
@@ -432,6 +435,8 @@ class Publisher:
             d["comment_status"] = post.comment_status
         elif remote is None:
             d["comment_status"] = "open"
+        if post.newsletter is not None:
+            d["meta"] = {DONT_EMAIL: not post.newsletter}
         if featured is not None:
             d["featured_media"] = featured.media_id or f"<upload {featured.image.rel}>"
         if tags is not None:
@@ -454,6 +459,10 @@ class Publisher:
             elif key in ("tags", "categories"):
                 if sorted(map(str, value)) != sorted(map(str, remote.get(key) or [])):
                     out.append(key)
+            elif key == "meta":
+                have = remote.get("meta") or {}
+                if any(have.get(k) != v for k, v in value.items()):
+                    out.append("meta")
             elif key in ("title", "content", "excerpt"):
                 if raw(remote, key).replace("\r\n", "\n").strip() != str(value).strip():
                     out.append(key)
@@ -590,7 +599,6 @@ class Publisher:
 
         if plan.action == "create":
             payload = final
-            result = rw.create_post(payload)
         else:
             keys = set(plan.changed) - {"date", "status"}
             if "content" not in keys and content != plan.content:
@@ -600,10 +608,44 @@ class Publisher:
                 payload.update(wp_date_fields(plan.post.date))
             if "status" in plan.changed:
                 payload["status"] = plan.target_status
+
+        live_before = bool(plan.remote) and plan.remote["status"] in LIVE | {"future"}
+        going_live = plan.target_status in LIVE | {"future"} and not live_before
+        if going_live and "meta" in final:
+            # The newsletter decision is made when the post goes live. Save
+            # everything else as a draft first, check WordPress kept the meta,
+            # and only then change the status, in a request of its own.
+            staged = {k: v for k, v in payload.items() if k != "status"}
+            if plan.action == "create":
+                current = rw.create_post({**staged, "status": "draft"})
+            elif staged:
+                current = rw.update_post(plan.post_id, staged)
+            else:
+                current = plan.remote
+            self._check_meta(current, final["meta"], refuse=True)
+            result = rw.update_post(current["id"], {"status": plan.target_status})
+        elif plan.action == "create":
+            result = rw.create_post(payload)
+        else:
             result = rw.update_post(plan.post_id, payload)
+        if "meta" in final:
+            self._check_meta(result, final["meta"], refuse=False)
 
         self._record_local(plan, result, sent_hash=payload_hash(final))
         return result
+
+    def _check_meta(self, remote: dict[str, Any], want: dict[str, Any], refuse: bool) -> None:
+        have = remote.get("meta") or {}
+        bad = [k for k, v in want.items() if have.get(k) != v]
+        if not bad:
+            return
+        msg = f"WordPress did not store {', '.join(bad)} on post {remote['id']}"
+        if refuse:
+            raise RefusedError(
+                msg + "; not publishing, so the newsletter setting cannot be ignored",
+                hint="The post is still a draft. Set it in the editor's publish panel instead.",
+            )
+        self.console.warn(msg)
 
     def _record_local(self, plan: Plan, remote: dict[str, Any], sent_hash: str | None) -> None:
         """Write the baseline state, then the wordpress_id into front matter."""
@@ -695,10 +737,17 @@ class Publisher:
                 c.say(
                     f"  Note:        the date is {age.days} days ago; the post will be backdated."
                 )
-        if plan.first_publication:
+        quiet = (plan.desired.get("meta") or {}).get(DONT_EMAIL) is True
+        if plan.first_publication and quiet:
             c.say(
-                "  First publication: yes. When it goes live, WordPress may email it to "
-                "subscribers (Jetpack Newsletter) and auto-share it to connected social accounts."
+                "  First publication: yes. It will NOT be emailed to subscribers "
+                "(newsletter: false), but may still auto-share to connected social accounts."
+            )
+        elif plan.first_publication:
+            c.say(
+                "  First publication: yes. When it goes live, WordPress will email it to "
+                "subscribers (Jetpack Newsletter) and may auto-share it to connected social "
+                "accounts. Add `newsletter: false` to skip the email."
             )
         else:
             c.say("  First publication: no (this post was live before, per local sync state).")

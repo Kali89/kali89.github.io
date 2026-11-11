@@ -46,6 +46,7 @@ class Post:
     featured_image: str | None
     wordpress_id: int | None
     comment_status: str | None  # None = not specified locally
+    newsletter: bool | None  # False = don't email subscribers; None = site default
     published_flag: bool  # Jekyll's `published: false` blocks publishing
     wordpress_modified: str | None  # optional baseline hint in front matter
     warnings: list[str] = field(default_factory=list)
@@ -228,6 +229,10 @@ def load_post(path: Path, repo_root: Path) -> Post:
             raise ValidationError(f"{rel}: `comments` must be true or false")
         comment_status = "open" if fm["comments"] else "closed"
 
+    newsletter = fm.get("newsletter")
+    if newsletter is not None and not isinstance(newsletter, bool):
+        raise ValidationError(f"{rel}: `newsletter` must be true or false")
+
     published_flag = fm.get("published", True) is not False
 
     if "permalink" in fm:
@@ -252,6 +257,7 @@ def load_post(path: Path, repo_root: Path) -> Post:
         featured_image=featured.strip() if isinstance(featured, str) else None,
         wordpress_id=wp_id,
         comment_status=comment_status,
+        newsletter=newsletter,
         published_flag=published_flag,
         wordpress_modified=str(modified) if modified is not None else None,
         warnings=warnings,
